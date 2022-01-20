@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "32.SquareArray/1.0.0": {
+        "runtime": {
+          "32.SquareArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "32.SquareArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

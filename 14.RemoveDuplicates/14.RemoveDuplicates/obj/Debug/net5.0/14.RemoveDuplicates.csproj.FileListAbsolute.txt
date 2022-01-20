@@ -1,0 +1,16 @@
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\bin\Debug\net5.0\14.RemoveDuplicates.exe
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\bin\Debug\net5.0\14.RemoveDuplicates.deps.json
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\bin\Debug\net5.0\14.RemoveDuplicates.runtimeconfig.json
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\bin\Debug\net5.0\14.RemoveDuplicates.runtimeconfig.dev.json
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\bin\Debug\net5.0\14.RemoveDuplicates.dll
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\bin\Debug\net5.0\ref\14.RemoveDuplicates.dll
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\bin\Debug\net5.0\14.RemoveDuplicates.pdb
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.csproj.AssemblyReference.cache
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.AssemblyInfoInputs.cache
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.AssemblyInfo.cs
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.dll
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\ref\14.RemoveDuplicates.dll
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.pdb
+D:\sheanPrasad\14.RemoveDuplicates\14.RemoveDuplicates\obj\Debug\net5.0\14.RemoveDuplicates.genruntimeconfig.cache

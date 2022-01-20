@@ -1,0 +1,16 @@
+D:\sheanPrasad\46.Subsets\46.Subsets\bin\Debug\net5.0\46.Subsets.exe
+D:\sheanPrasad\46.Subsets\46.Subsets\bin\Debug\net5.0\46.Subsets.deps.json
+D:\sheanPrasad\46.Subsets\46.Subsets\bin\Debug\net5.0\46.Subsets.runtimeconfig.json
+D:\sheanPrasad\46.Subsets\46.Subsets\bin\Debug\net5.0\46.Subsets.runtimeconfig.dev.json
+D:\sheanPrasad\46.Subsets\46.Subsets\bin\Debug\net5.0\46.Subsets.dll
+D:\sheanPrasad\46.Subsets\46.Subsets\bin\Debug\net5.0\ref\46.Subsets.dll
+D:\sheanPrasad\46.Subsets\46.Subsets\bin\Debug\net5.0\46.Subsets.pdb
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.csproj.AssemblyReference.cache
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.AssemblyInfoInputs.cache
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.AssemblyInfo.cs
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.dll
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\ref\46.Subsets.dll
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.pdb
+D:\sheanPrasad\46.Subsets\46.Subsets\obj\Debug\net5.0\46.Subsets.genruntimeconfig.cache

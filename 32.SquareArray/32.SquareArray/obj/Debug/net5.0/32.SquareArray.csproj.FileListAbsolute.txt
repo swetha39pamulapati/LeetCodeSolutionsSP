@@ -1,0 +1,15 @@
+D:\sheanPrasad\32.SquareArray\32.SquareArray\bin\Debug\net5.0\32.SquareArray.exe
+D:\sheanPrasad\32.SquareArray\32.SquareArray\bin\Debug\net5.0\32.SquareArray.deps.json
+D:\sheanPrasad\32.SquareArray\32.SquareArray\bin\Debug\net5.0\32.SquareArray.runtimeconfig.json
+D:\sheanPrasad\32.SquareArray\32.SquareArray\bin\Debug\net5.0\32.SquareArray.runtimeconfig.dev.json
+D:\sheanPrasad\32.SquareArray\32.SquareArray\bin\Debug\net5.0\32.SquareArray.dll
+D:\sheanPrasad\32.SquareArray\32.SquareArray\bin\Debug\net5.0\ref\32.SquareArray.dll
+D:\sheanPrasad\32.SquareArray\32.SquareArray\bin\Debug\net5.0\32.SquareArray.pdb
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\32.SquareArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\32.SquareArray.AssemblyInfoInputs.cache
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\32.SquareArray.AssemblyInfo.cs
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\32.SquareArray.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\32.SquareArray.dll
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\ref\32.SquareArray.dll
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\32.SquareArray.pdb
+D:\sheanPrasad\32.SquareArray\32.SquareArray\obj\Debug\net5.0\32.SquareArray.genruntimeconfig.cache

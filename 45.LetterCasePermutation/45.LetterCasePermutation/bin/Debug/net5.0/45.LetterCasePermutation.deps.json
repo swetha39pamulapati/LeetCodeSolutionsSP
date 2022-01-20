@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "45.LetterCasePermutation/1.0.0": {
+        "runtime": {
+          "45.LetterCasePermutation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "45.LetterCasePermutation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

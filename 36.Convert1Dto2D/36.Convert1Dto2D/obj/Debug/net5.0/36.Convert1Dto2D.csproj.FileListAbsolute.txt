@@ -1,0 +1,15 @@
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\bin\Debug\net5.0\36.Convert1Dto2D.exe
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\bin\Debug\net5.0\36.Convert1Dto2D.deps.json
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\bin\Debug\net5.0\36.Convert1Dto2D.runtimeconfig.json
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\bin\Debug\net5.0\36.Convert1Dto2D.runtimeconfig.dev.json
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\bin\Debug\net5.0\36.Convert1Dto2D.dll
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\bin\Debug\net5.0\ref\36.Convert1Dto2D.dll
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\bin\Debug\net5.0\36.Convert1Dto2D.pdb
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\36.Convert1Dto2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\36.Convert1Dto2D.AssemblyInfoInputs.cache
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\36.Convert1Dto2D.AssemblyInfo.cs
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\36.Convert1Dto2D.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\36.Convert1Dto2D.dll
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\ref\36.Convert1Dto2D.dll
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\36.Convert1Dto2D.pdb
+D:\sheanPrasad\36.Convert1Dto2D\36.Convert1Dto2D\obj\Debug\net5.0\36.Convert1Dto2D.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\bin\Debug\net5.0\22.MinimumDepthOFTree.exe
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\bin\Debug\net5.0\22.MinimumDepthOFTree.deps.json
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\bin\Debug\net5.0\22.MinimumDepthOFTree.runtimeconfig.json
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\bin\Debug\net5.0\22.MinimumDepthOFTree.runtimeconfig.dev.json
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\bin\Debug\net5.0\22.MinimumDepthOFTree.dll
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\bin\Debug\net5.0\ref\22.MinimumDepthOFTree.dll
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\bin\Debug\net5.0\22.MinimumDepthOFTree.pdb
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.csproj.AssemblyReference.cache
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.AssemblyInfoInputs.cache
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.AssemblyInfo.cs
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.dll
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\ref\22.MinimumDepthOFTree.dll
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.pdb
+D:\sheanPrasad\22.MinimumDepthOFTree\22.MinimumDepthOFTree\obj\Debug\net5.0\22.MinimumDepthOFTree.genruntimeconfig.cache

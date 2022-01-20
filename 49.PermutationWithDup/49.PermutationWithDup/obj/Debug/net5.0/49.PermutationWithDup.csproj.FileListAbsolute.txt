@@ -1,0 +1,15 @@
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\bin\Debug\net5.0\49.PermutationWithDup.exe
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\bin\Debug\net5.0\49.PermutationWithDup.deps.json
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\bin\Debug\net5.0\49.PermutationWithDup.runtimeconfig.json
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\bin\Debug\net5.0\49.PermutationWithDup.runtimeconfig.dev.json
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\bin\Debug\net5.0\49.PermutationWithDup.dll
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\bin\Debug\net5.0\ref\49.PermutationWithDup.dll
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\bin\Debug\net5.0\49.PermutationWithDup.pdb
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\49.PermutationWithDup.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\49.PermutationWithDup.AssemblyInfoInputs.cache
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\49.PermutationWithDup.AssemblyInfo.cs
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\49.PermutationWithDup.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\49.PermutationWithDup.dll
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\ref\49.PermutationWithDup.dll
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\49.PermutationWithDup.pdb
+D:\sheanPrasad\49.PermutationWithDup\49.PermutationWithDup\obj\Debug\net5.0\49.PermutationWithDup.genruntimeconfig.cache

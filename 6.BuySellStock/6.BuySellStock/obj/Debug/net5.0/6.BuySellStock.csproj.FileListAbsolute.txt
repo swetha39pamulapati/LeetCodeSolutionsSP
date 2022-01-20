@@ -1,0 +1,16 @@
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\bin\Debug\net5.0\6.BuySellStock.exe
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\bin\Debug\net5.0\6.BuySellStock.deps.json
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\bin\Debug\net5.0\6.BuySellStock.runtimeconfig.json
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\bin\Debug\net5.0\6.BuySellStock.runtimeconfig.dev.json
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\bin\Debug\net5.0\6.BuySellStock.dll
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\bin\Debug\net5.0\ref\6.BuySellStock.dll
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\bin\Debug\net5.0\6.BuySellStock.pdb
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.csproj.AssemblyReference.cache
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.AssemblyInfoInputs.cache
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.AssemblyInfo.cs
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.dll
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\ref\6.BuySellStock.dll
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.pdb
+D:\sheanPrasad\6.BuySellStock\6.BuySellStock\obj\Debug\net5.0\6.BuySellStock.genruntimeconfig.cache

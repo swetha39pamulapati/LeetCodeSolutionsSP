@@ -1,0 +1,16 @@
+D:\sheanPrasad\43.WordSearch\43.WordSearch\bin\Debug\net5.0\43.WordSearch.exe
+D:\sheanPrasad\43.WordSearch\43.WordSearch\bin\Debug\net5.0\43.WordSearch.deps.json
+D:\sheanPrasad\43.WordSearch\43.WordSearch\bin\Debug\net5.0\43.WordSearch.runtimeconfig.json
+D:\sheanPrasad\43.WordSearch\43.WordSearch\bin\Debug\net5.0\43.WordSearch.runtimeconfig.dev.json
+D:\sheanPrasad\43.WordSearch\43.WordSearch\bin\Debug\net5.0\43.WordSearch.dll
+D:\sheanPrasad\43.WordSearch\43.WordSearch\bin\Debug\net5.0\ref\43.WordSearch.dll
+D:\sheanPrasad\43.WordSearch\43.WordSearch\bin\Debug\net5.0\43.WordSearch.pdb
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.csproj.AssemblyReference.cache
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.AssemblyInfoInputs.cache
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.AssemblyInfo.cs
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.dll
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\ref\43.WordSearch.dll
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.pdb
+D:\sheanPrasad\43.WordSearch\43.WordSearch\obj\Debug\net5.0\43.WordSearch.genruntimeconfig.cache

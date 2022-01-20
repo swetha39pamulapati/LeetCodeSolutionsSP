@@ -1,0 +1,15 @@
+D:\sheanPrasad\48.Permutations\48.Permutations\bin\Debug\net5.0\48.Permutations.exe
+D:\sheanPrasad\48.Permutations\48.Permutations\bin\Debug\net5.0\48.Permutations.deps.json
+D:\sheanPrasad\48.Permutations\48.Permutations\bin\Debug\net5.0\48.Permutations.runtimeconfig.json
+D:\sheanPrasad\48.Permutations\48.Permutations\bin\Debug\net5.0\48.Permutations.runtimeconfig.dev.json
+D:\sheanPrasad\48.Permutations\48.Permutations\bin\Debug\net5.0\48.Permutations.dll
+D:\sheanPrasad\48.Permutations\48.Permutations\bin\Debug\net5.0\ref\48.Permutations.dll
+D:\sheanPrasad\48.Permutations\48.Permutations\bin\Debug\net5.0\48.Permutations.pdb
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\48.Permutations.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\48.Permutations.AssemblyInfoInputs.cache
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\48.Permutations.AssemblyInfo.cs
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\48.Permutations.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\48.Permutations.dll
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\ref\48.Permutations.dll
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\48.Permutations.pdb
+D:\sheanPrasad\48.Permutations\48.Permutations\obj\Debug\net5.0\48.Permutations.genruntimeconfig.cache

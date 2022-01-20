@@ -1,0 +1,16 @@
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\bin\Debug\net5.0\45.LetterCasePermutation.exe
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\bin\Debug\net5.0\45.LetterCasePermutation.deps.json
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\bin\Debug\net5.0\45.LetterCasePermutation.runtimeconfig.json
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\bin\Debug\net5.0\45.LetterCasePermutation.runtimeconfig.dev.json
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\bin\Debug\net5.0\45.LetterCasePermutation.dll
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\bin\Debug\net5.0\ref\45.LetterCasePermutation.dll
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\bin\Debug\net5.0\45.LetterCasePermutation.pdb
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.csproj.AssemblyReference.cache
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.AssemblyInfoInputs.cache
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.AssemblyInfo.cs
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.dll
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\ref\45.LetterCasePermutation.dll
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.pdb
+D:\sheanPrasad\45.LetterCasePermutation\45.LetterCasePermutation\obj\Debug\net5.0\45.LetterCasePermutation.genruntimeconfig.cache

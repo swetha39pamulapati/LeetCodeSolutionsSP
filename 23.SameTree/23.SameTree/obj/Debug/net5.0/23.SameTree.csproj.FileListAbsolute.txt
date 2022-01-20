@@ -1,0 +1,15 @@
+D:\sheanPrasad\23.SameTree\23.SameTree\bin\Debug\net5.0\23.SameTree.exe
+D:\sheanPrasad\23.SameTree\23.SameTree\bin\Debug\net5.0\23.SameTree.deps.json
+D:\sheanPrasad\23.SameTree\23.SameTree\bin\Debug\net5.0\23.SameTree.runtimeconfig.json
+D:\sheanPrasad\23.SameTree\23.SameTree\bin\Debug\net5.0\23.SameTree.runtimeconfig.dev.json
+D:\sheanPrasad\23.SameTree\23.SameTree\bin\Debug\net5.0\23.SameTree.dll
+D:\sheanPrasad\23.SameTree\23.SameTree\bin\Debug\net5.0\ref\23.SameTree.dll
+D:\sheanPrasad\23.SameTree\23.SameTree\bin\Debug\net5.0\23.SameTree.pdb
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\23.SameTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\23.SameTree.AssemblyInfoInputs.cache
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\23.SameTree.AssemblyInfo.cs
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\23.SameTree.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\23.SameTree.dll
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\ref\23.SameTree.dll
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\23.SameTree.pdb
+D:\sheanPrasad\23.SameTree\23.SameTree\obj\Debug\net5.0\23.SameTree.genruntimeconfig.cache

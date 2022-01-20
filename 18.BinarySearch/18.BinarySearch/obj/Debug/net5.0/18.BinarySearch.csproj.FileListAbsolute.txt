@@ -1,0 +1,15 @@
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\bin\Debug\net5.0\18.BinarySearch.exe
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\bin\Debug\net5.0\18.BinarySearch.deps.json
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\bin\Debug\net5.0\18.BinarySearch.runtimeconfig.json
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\bin\Debug\net5.0\18.BinarySearch.runtimeconfig.dev.json
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\bin\Debug\net5.0\18.BinarySearch.dll
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\bin\Debug\net5.0\ref\18.BinarySearch.dll
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\bin\Debug\net5.0\18.BinarySearch.pdb
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\18.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\18.BinarySearch.AssemblyInfoInputs.cache
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\18.BinarySearch.AssemblyInfo.cs
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\18.BinarySearch.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\18.BinarySearch.dll
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\ref\18.BinarySearch.dll
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\18.BinarySearch.pdb
+D:\sheanPrasad\18.BinarySearch\18.BinarySearch\obj\Debug\net5.0\18.BinarySearch.genruntimeconfig.cache

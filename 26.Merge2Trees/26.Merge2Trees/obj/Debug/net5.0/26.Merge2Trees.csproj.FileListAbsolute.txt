@@ -1,0 +1,16 @@
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\bin\Debug\net5.0\26.Merge2Trees.exe
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\bin\Debug\net5.0\26.Merge2Trees.deps.json
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\bin\Debug\net5.0\26.Merge2Trees.runtimeconfig.json
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\bin\Debug\net5.0\26.Merge2Trees.runtimeconfig.dev.json
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\bin\Debug\net5.0\26.Merge2Trees.dll
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\bin\Debug\net5.0\ref\26.Merge2Trees.dll
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\bin\Debug\net5.0\26.Merge2Trees.pdb
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.csproj.AssemblyReference.cache
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.AssemblyInfoInputs.cache
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.AssemblyInfo.cs
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.dll
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\ref\26.Merge2Trees.dll
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.pdb
+D:\sheanPrasad\26.Merge2Trees\26.Merge2Trees\obj\Debug\net5.0\26.Merge2Trees.genruntimeconfig.cache

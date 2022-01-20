@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "26.Merge2Trees/1.0.0": {
+        "runtime": {
+          "26.Merge2Trees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "26.Merge2Trees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

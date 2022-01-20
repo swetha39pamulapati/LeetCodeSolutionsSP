@@ -1,0 +1,16 @@
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\bin\Debug\net5.0\42.RotateMatrix.exe
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\bin\Debug\net5.0\42.RotateMatrix.deps.json
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\bin\Debug\net5.0\42.RotateMatrix.runtimeconfig.json
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\bin\Debug\net5.0\42.RotateMatrix.runtimeconfig.dev.json
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\bin\Debug\net5.0\42.RotateMatrix.dll
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\bin\Debug\net5.0\ref\42.RotateMatrix.dll
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\bin\Debug\net5.0\42.RotateMatrix.pdb
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.csproj.AssemblyReference.cache
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.AssemblyInfoInputs.cache
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.AssemblyInfo.cs
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.dll
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\ref\42.RotateMatrix.dll
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.pdb
+D:\sheanPrasad\42.RotateMatrix\42.RotateMatrix\obj\Debug\net5.0\42.RotateMatrix.genruntimeconfig.cache

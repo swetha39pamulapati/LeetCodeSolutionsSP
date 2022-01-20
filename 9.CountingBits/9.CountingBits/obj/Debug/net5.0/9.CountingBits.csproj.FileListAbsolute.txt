@@ -1,0 +1,15 @@
+D:\sheanPrasad\9.CountingBits\9.CountingBits\bin\Debug\net5.0\9.CountingBits.exe
+D:\sheanPrasad\9.CountingBits\9.CountingBits\bin\Debug\net5.0\9.CountingBits.deps.json
+D:\sheanPrasad\9.CountingBits\9.CountingBits\bin\Debug\net5.0\9.CountingBits.runtimeconfig.json
+D:\sheanPrasad\9.CountingBits\9.CountingBits\bin\Debug\net5.0\9.CountingBits.runtimeconfig.dev.json
+D:\sheanPrasad\9.CountingBits\9.CountingBits\bin\Debug\net5.0\9.CountingBits.dll
+D:\sheanPrasad\9.CountingBits\9.CountingBits\bin\Debug\net5.0\ref\9.CountingBits.dll
+D:\sheanPrasad\9.CountingBits\9.CountingBits\bin\Debug\net5.0\9.CountingBits.pdb
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\9.CountingBits.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\9.CountingBits.AssemblyInfoInputs.cache
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\9.CountingBits.AssemblyInfo.cs
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\9.CountingBits.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\9.CountingBits.dll
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\ref\9.CountingBits.dll
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\9.CountingBits.pdb
+D:\sheanPrasad\9.CountingBits\9.CountingBits\obj\Debug\net5.0\9.CountingBits.genruntimeconfig.cache

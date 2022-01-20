@@ -1,0 +1,16 @@
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\bin\Debug\net5.0\41.SpiralMatrix.exe
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\bin\Debug\net5.0\41.SpiralMatrix.deps.json
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\bin\Debug\net5.0\41.SpiralMatrix.runtimeconfig.json
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\bin\Debug\net5.0\41.SpiralMatrix.runtimeconfig.dev.json
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\bin\Debug\net5.0\41.SpiralMatrix.dll
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\bin\Debug\net5.0\ref\41.SpiralMatrix.dll
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\bin\Debug\net5.0\41.SpiralMatrix.pdb
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.csproj.AssemblyReference.cache
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.AssemblyInfoInputs.cache
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.AssemblyInfo.cs
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.dll
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\ref\41.SpiralMatrix.dll
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.pdb
+D:\sheanPrasad\41.SpiralMatrix\41.SpiralMatrix\obj\Debug\net5.0\41.SpiralMatrix.genruntimeconfig.cache

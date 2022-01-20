@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "42.RotateMatrix/1.0.0": {
+        "runtime": {
+          "42.RotateMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "42.RotateMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\sheanPrasad\8.RangeSum\8.RangeSum\bin\Debug\net5.0\8.RangeSum.exe
+D:\sheanPrasad\8.RangeSum\8.RangeSum\bin\Debug\net5.0\8.RangeSum.deps.json
+D:\sheanPrasad\8.RangeSum\8.RangeSum\bin\Debug\net5.0\8.RangeSum.runtimeconfig.json
+D:\sheanPrasad\8.RangeSum\8.RangeSum\bin\Debug\net5.0\8.RangeSum.runtimeconfig.dev.json
+D:\sheanPrasad\8.RangeSum\8.RangeSum\bin\Debug\net5.0\8.RangeSum.dll
+D:\sheanPrasad\8.RangeSum\8.RangeSum\bin\Debug\net5.0\ref\8.RangeSum.dll
+D:\sheanPrasad\8.RangeSum\8.RangeSum\bin\Debug\net5.0\8.RangeSum.pdb
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.csproj.AssemblyReference.cache
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.AssemblyInfoInputs.cache
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.AssemblyInfo.cs
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.dll
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\ref\8.RangeSum.dll
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.pdb
+D:\sheanPrasad\8.RangeSum\8.RangeSum\obj\Debug\net5.0\8.RangeSum.genruntimeconfig.cache

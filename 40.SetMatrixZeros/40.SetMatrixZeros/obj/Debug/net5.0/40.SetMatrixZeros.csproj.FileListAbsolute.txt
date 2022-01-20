@@ -1,0 +1,16 @@
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\bin\Debug\net5.0\40.SetMatrixZeros.exe
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\bin\Debug\net5.0\40.SetMatrixZeros.deps.json
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\bin\Debug\net5.0\40.SetMatrixZeros.runtimeconfig.json
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\bin\Debug\net5.0\40.SetMatrixZeros.runtimeconfig.dev.json
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\bin\Debug\net5.0\40.SetMatrixZeros.dll
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\bin\Debug\net5.0\ref\40.SetMatrixZeros.dll
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\bin\Debug\net5.0\40.SetMatrixZeros.pdb
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.csproj.AssemblyReference.cache
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.AssemblyInfoInputs.cache
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.AssemblyInfo.cs
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.dll
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\ref\40.SetMatrixZeros.dll
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.pdb
+D:\sheanPrasad\40.SetMatrixZeros\40.SetMatrixZeros\obj\Debug\net5.0\40.SetMatrixZeros.genruntimeconfig.cache

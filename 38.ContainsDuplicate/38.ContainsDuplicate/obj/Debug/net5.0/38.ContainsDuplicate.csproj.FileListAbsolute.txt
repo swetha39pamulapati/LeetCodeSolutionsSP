@@ -1,0 +1,15 @@
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\bin\Debug\net5.0\38.ContainsDuplicate.exe
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\bin\Debug\net5.0\38.ContainsDuplicate.deps.json
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\bin\Debug\net5.0\38.ContainsDuplicate.runtimeconfig.json
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\bin\Debug\net5.0\38.ContainsDuplicate.runtimeconfig.dev.json
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\bin\Debug\net5.0\38.ContainsDuplicate.dll
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\bin\Debug\net5.0\ref\38.ContainsDuplicate.dll
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\bin\Debug\net5.0\38.ContainsDuplicate.pdb
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\38.ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\38.ContainsDuplicate.AssemblyInfoInputs.cache
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\38.ContainsDuplicate.AssemblyInfo.cs
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\38.ContainsDuplicate.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\38.ContainsDuplicate.dll
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\ref\38.ContainsDuplicate.dll
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\38.ContainsDuplicate.pdb
+D:\sheanPrasad\38.ContainsDuplicate\38.ContainsDuplicate\obj\Debug\net5.0\38.ContainsDuplicate.genruntimeconfig.cache

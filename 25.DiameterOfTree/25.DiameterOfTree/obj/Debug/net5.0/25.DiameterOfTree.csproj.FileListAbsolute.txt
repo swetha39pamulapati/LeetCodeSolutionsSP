@@ -1,0 +1,16 @@
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\bin\Debug\net5.0\25.DiameterOfTree.exe
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\bin\Debug\net5.0\25.DiameterOfTree.deps.json
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\bin\Debug\net5.0\25.DiameterOfTree.runtimeconfig.json
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\bin\Debug\net5.0\25.DiameterOfTree.runtimeconfig.dev.json
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\bin\Debug\net5.0\25.DiameterOfTree.dll
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\bin\Debug\net5.0\ref\25.DiameterOfTree.dll
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\bin\Debug\net5.0\25.DiameterOfTree.pdb
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.csproj.AssemblyReference.cache
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.AssemblyInfoInputs.cache
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.AssemblyInfo.cs
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.dll
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\ref\25.DiameterOfTree.dll
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.pdb
+D:\sheanPrasad\25.DiameterOfTree\25.DiameterOfTree\obj\Debug\net5.0\25.DiameterOfTree.genruntimeconfig.cache

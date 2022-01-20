@@ -1,0 +1,15 @@
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\bin\Debug\net5.0\29.SubTreeOfAnotherTree.exe
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\bin\Debug\net5.0\29.SubTreeOfAnotherTree.deps.json
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\bin\Debug\net5.0\29.SubTreeOfAnotherTree.runtimeconfig.json
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\bin\Debug\net5.0\29.SubTreeOfAnotherTree.runtimeconfig.dev.json
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\bin\Debug\net5.0\29.SubTreeOfAnotherTree.dll
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\bin\Debug\net5.0\ref\29.SubTreeOfAnotherTree.dll
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\bin\Debug\net5.0\29.SubTreeOfAnotherTree.pdb
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\29.SubTreeOfAnotherTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\29.SubTreeOfAnotherTree.AssemblyInfoInputs.cache
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\29.SubTreeOfAnotherTree.AssemblyInfo.cs
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\29.SubTreeOfAnotherTree.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\29.SubTreeOfAnotherTree.dll
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\ref\29.SubTreeOfAnotherTree.dll
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\29.SubTreeOfAnotherTree.pdb
+D:\sheanPrasad\29.SubTreeOfAnotherTree\29.SubTreeOfAnotherTree\obj\Debug\net5.0\29.SubTreeOfAnotherTree.genruntimeconfig.cache

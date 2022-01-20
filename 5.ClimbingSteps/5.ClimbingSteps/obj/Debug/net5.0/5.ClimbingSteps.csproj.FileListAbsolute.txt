@@ -1,0 +1,16 @@
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\bin\Debug\net5.0\5.ClimbingSteps.exe
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\bin\Debug\net5.0\5.ClimbingSteps.deps.json
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\bin\Debug\net5.0\5.ClimbingSteps.runtimeconfig.json
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\bin\Debug\net5.0\5.ClimbingSteps.runtimeconfig.dev.json
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\bin\Debug\net5.0\5.ClimbingSteps.dll
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\bin\Debug\net5.0\ref\5.ClimbingSteps.dll
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\bin\Debug\net5.0\5.ClimbingSteps.pdb
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.AssemblyInfoInputs.cache
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.AssemblyInfo.cs
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.dll
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\ref\5.ClimbingSteps.dll
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.pdb
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.genruntimeconfig.cache
+D:\sheanPrasad\5.ClimbingSteps\5.ClimbingSteps\obj\Debug\net5.0\5.ClimbingSteps.csproj.AssemblyReference.cache

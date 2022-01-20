@@ -1,0 +1,15 @@
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\bin\Debug\net5.0\47.SubsetWithDup.exe
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\bin\Debug\net5.0\47.SubsetWithDup.deps.json
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\bin\Debug\net5.0\47.SubsetWithDup.runtimeconfig.json
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\bin\Debug\net5.0\47.SubsetWithDup.runtimeconfig.dev.json
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\bin\Debug\net5.0\47.SubsetWithDup.dll
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\bin\Debug\net5.0\ref\47.SubsetWithDup.dll
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\bin\Debug\net5.0\47.SubsetWithDup.pdb
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\47.SubsetWithDup.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\47.SubsetWithDup.AssemblyInfoInputs.cache
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\47.SubsetWithDup.AssemblyInfo.cs
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\47.SubsetWithDup.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\47.SubsetWithDup.dll
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\ref\47.SubsetWithDup.dll
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\47.SubsetWithDup.pdb
+D:\sheanPrasad\47.SubsetWithDup\47.SubsetWithDup\obj\Debug\net5.0\47.SubsetWithDup.genruntimeconfig.cache

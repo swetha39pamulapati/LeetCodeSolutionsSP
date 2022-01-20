@@ -1,0 +1,15 @@
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\bin\Debug\net5.0\35.MajaorityElement.exe
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\bin\Debug\net5.0\35.MajaorityElement.deps.json
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\bin\Debug\net5.0\35.MajaorityElement.runtimeconfig.json
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\bin\Debug\net5.0\35.MajaorityElement.runtimeconfig.dev.json
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\bin\Debug\net5.0\35.MajaorityElement.dll
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\bin\Debug\net5.0\ref\35.MajaorityElement.dll
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\bin\Debug\net5.0\35.MajaorityElement.pdb
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\35.MajaorityElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\35.MajaorityElement.AssemblyInfoInputs.cache
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\35.MajaorityElement.AssemblyInfo.cs
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\35.MajaorityElement.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\35.MajaorityElement.dll
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\ref\35.MajaorityElement.dll
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\35.MajaorityElement.pdb
+D:\sheanPrasad\35.MajaorityElement\35.MajaorityElement\obj\Debug\net5.0\35.MajaorityElement.genruntimeconfig.cache

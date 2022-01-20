@@ -1,0 +1,15 @@
+D:\sheanPrasad\24.PathSum\24.PathSum\bin\Debug\net5.0\24.PathSum.exe
+D:\sheanPrasad\24.PathSum\24.PathSum\bin\Debug\net5.0\24.PathSum.deps.json
+D:\sheanPrasad\24.PathSum\24.PathSum\bin\Debug\net5.0\24.PathSum.runtimeconfig.json
+D:\sheanPrasad\24.PathSum\24.PathSum\bin\Debug\net5.0\24.PathSum.runtimeconfig.dev.json
+D:\sheanPrasad\24.PathSum\24.PathSum\bin\Debug\net5.0\24.PathSum.dll
+D:\sheanPrasad\24.PathSum\24.PathSum\bin\Debug\net5.0\ref\24.PathSum.dll
+D:\sheanPrasad\24.PathSum\24.PathSum\bin\Debug\net5.0\24.PathSum.pdb
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\24.PathSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\24.PathSum.AssemblyInfoInputs.cache
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\24.PathSum.AssemblyInfo.cs
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\24.PathSum.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\24.PathSum.dll
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\ref\24.PathSum.dll
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\24.PathSum.pdb
+D:\sheanPrasad\24.PathSum\24.PathSum\obj\Debug\net5.0\24.PathSum.genruntimeconfig.cache

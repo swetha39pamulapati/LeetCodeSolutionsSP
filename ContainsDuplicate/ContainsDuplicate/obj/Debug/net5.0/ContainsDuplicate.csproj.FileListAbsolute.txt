@@ -1,0 +1,15 @@
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.exe
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.deps.json
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.dll
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ref\ContainsDuplicate.dll
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.pdb
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.dll
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ref\ContainsDuplicate.dll
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.pdb
+C:\Users\padma\AlgandDataStructuresC#\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.genruntimeconfig.cache

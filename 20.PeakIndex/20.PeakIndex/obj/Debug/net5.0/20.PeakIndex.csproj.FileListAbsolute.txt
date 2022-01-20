@@ -1,0 +1,16 @@
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\bin\Debug\net5.0\20.PeakIndex.exe
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\bin\Debug\net5.0\20.PeakIndex.deps.json
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\bin\Debug\net5.0\20.PeakIndex.runtimeconfig.json
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\bin\Debug\net5.0\20.PeakIndex.runtimeconfig.dev.json
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\bin\Debug\net5.0\20.PeakIndex.dll
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\bin\Debug\net5.0\ref\20.PeakIndex.dll
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\bin\Debug\net5.0\20.PeakIndex.pdb
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.csproj.AssemblyReference.cache
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.AssemblyInfoInputs.cache
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.AssemblyInfo.cs
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.dll
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\ref\20.PeakIndex.dll
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.pdb
+D:\sheanPrasad\20.PeakIndex\20.PeakIndex\obj\Debug\net5.0\20.PeakIndex.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\bin\Debug\net5.0\27.MaximumDepthTree.exe
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\bin\Debug\net5.0\27.MaximumDepthTree.deps.json
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\bin\Debug\net5.0\27.MaximumDepthTree.runtimeconfig.json
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\bin\Debug\net5.0\27.MaximumDepthTree.runtimeconfig.dev.json
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\bin\Debug\net5.0\27.MaximumDepthTree.dll
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\bin\Debug\net5.0\ref\27.MaximumDepthTree.dll
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\bin\Debug\net5.0\27.MaximumDepthTree.pdb
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\27.MaximumDepthTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\27.MaximumDepthTree.AssemblyInfoInputs.cache
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\27.MaximumDepthTree.AssemblyInfo.cs
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\27.MaximumDepthTree.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\27.MaximumDepthTree.dll
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\ref\27.MaximumDepthTree.dll
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\27.MaximumDepthTree.pdb
+D:\sheanPrasad\27.MaximumDepthTree\27.MaximumDepthTree\obj\Debug\net5.0\27.MaximumDepthTree.genruntimeconfig.cache

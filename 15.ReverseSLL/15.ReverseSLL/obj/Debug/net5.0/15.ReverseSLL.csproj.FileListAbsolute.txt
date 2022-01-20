@@ -1,0 +1,15 @@
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\bin\Debug\net5.0\15.ReverseSLL.exe
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\bin\Debug\net5.0\15.ReverseSLL.deps.json
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\bin\Debug\net5.0\15.ReverseSLL.runtimeconfig.json
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\bin\Debug\net5.0\15.ReverseSLL.runtimeconfig.dev.json
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\bin\Debug\net5.0\15.ReverseSLL.dll
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\bin\Debug\net5.0\ref\15.ReverseSLL.dll
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\bin\Debug\net5.0\15.ReverseSLL.pdb
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\15.ReverseSLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\15.ReverseSLL.AssemblyInfoInputs.cache
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\15.ReverseSLL.AssemblyInfo.cs
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\15.ReverseSLL.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\15.ReverseSLL.dll
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\ref\15.ReverseSLL.dll
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\15.ReverseSLL.pdb
+D:\sheanPrasad\15.ReverseSLL\15.ReverseSLL\obj\Debug\net5.0\15.ReverseSLL.genruntimeconfig.cache

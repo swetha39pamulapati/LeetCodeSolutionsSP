@@ -1,0 +1,16 @@
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\bin\Debug\net5.0\12.PalindromeLinkedList.exe
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\bin\Debug\net5.0\12.PalindromeLinkedList.deps.json
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\bin\Debug\net5.0\12.PalindromeLinkedList.runtimeconfig.json
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\bin\Debug\net5.0\12.PalindromeLinkedList.runtimeconfig.dev.json
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\bin\Debug\net5.0\12.PalindromeLinkedList.dll
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\bin\Debug\net5.0\ref\12.PalindromeLinkedList.dll
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\bin\Debug\net5.0\12.PalindromeLinkedList.pdb
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.csproj.AssemblyReference.cache
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.AssemblyInfoInputs.cache
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.AssemblyInfo.cs
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.dll
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\ref\12.PalindromeLinkedList.dll
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.pdb
+D:\sheanPrasad\12.PalindromeLinkedList\12.PalindromeLinkedList\obj\Debug\net5.0\12.PalindromeLinkedList.genruntimeconfig.cache

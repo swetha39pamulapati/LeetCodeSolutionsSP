@@ -1,0 +1,16 @@
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\bin\Debug\net5.0\19.SmallestletterGreaterThanTarget.exe
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\bin\Debug\net5.0\19.SmallestletterGreaterThanTarget.deps.json
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\bin\Debug\net5.0\19.SmallestletterGreaterThanTarget.runtimeconfig.json
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\bin\Debug\net5.0\19.SmallestletterGreaterThanTarget.runtimeconfig.dev.json
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\bin\Debug\net5.0\19.SmallestletterGreaterThanTarget.dll
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\bin\Debug\net5.0\ref\19.SmallestletterGreaterThanTarget.dll
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\bin\Debug\net5.0\19.SmallestletterGreaterThanTarget.pdb
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.csproj.AssemblyReference.cache
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.AssemblyInfoInputs.cache
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.AssemblyInfo.cs
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.dll
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\ref\19.SmallestletterGreaterThanTarget.dll
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.pdb
+D:\sheanPrasad\19.SmallestletterGreaterThanTarget\19.SmallestletterGreaterThanTarget\obj\Debug\net5.0\19.SmallestletterGreaterThanTarget.genruntimeconfig.cache

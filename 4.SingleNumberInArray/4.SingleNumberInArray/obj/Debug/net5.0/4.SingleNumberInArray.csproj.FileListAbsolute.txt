@@ -1,0 +1,15 @@
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\bin\Debug\net5.0\4.SingleNumberInArray.exe
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\bin\Debug\net5.0\4.SingleNumberInArray.deps.json
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\bin\Debug\net5.0\4.SingleNumberInArray.runtimeconfig.json
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\bin\Debug\net5.0\4.SingleNumberInArray.runtimeconfig.dev.json
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\bin\Debug\net5.0\4.SingleNumberInArray.dll
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\bin\Debug\net5.0\ref\4.SingleNumberInArray.dll
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\bin\Debug\net5.0\4.SingleNumberInArray.pdb
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\4.SingleNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\4.SingleNumberInArray.AssemblyInfoInputs.cache
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\4.SingleNumberInArray.AssemblyInfo.cs
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\4.SingleNumberInArray.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\4.SingleNumberInArray.dll
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\ref\4.SingleNumberInArray.dll
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\4.SingleNumberInArray.pdb
+D:\sheanPrasad\4.SingleNumberInArray\4.SingleNumberInArray\obj\Debug\net5.0\4.SingleNumberInArray.genruntimeconfig.cache

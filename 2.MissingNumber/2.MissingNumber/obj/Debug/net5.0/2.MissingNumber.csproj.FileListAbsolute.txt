@@ -1,0 +1,16 @@
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\bin\Debug\net5.0\2.MissingNumber.exe
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\bin\Debug\net5.0\2.MissingNumber.deps.json
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\bin\Debug\net5.0\2.MissingNumber.runtimeconfig.json
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\bin\Debug\net5.0\2.MissingNumber.runtimeconfig.dev.json
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\bin\Debug\net5.0\2.MissingNumber.dll
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\bin\Debug\net5.0\ref\2.MissingNumber.dll
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\bin\Debug\net5.0\2.MissingNumber.pdb
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.csproj.AssemblyReference.cache
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.AssemblyInfoInputs.cache
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.AssemblyInfo.cs
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.dll
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\ref\2.MissingNumber.dll
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.pdb
+D:\sheanPrasad\2.MissingNumber\2.MissingNumber\obj\Debug\net5.0\2.MissingNumber.genruntimeconfig.cache

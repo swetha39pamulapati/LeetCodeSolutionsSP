@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "29.SubTreeOfAnotherTree/1.0.0": {
+        "runtime": {
+          "29.SubTreeOfAnotherTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "29.SubTreeOfAnotherTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
