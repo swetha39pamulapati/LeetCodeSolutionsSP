@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "60.HouseRobber2/1.0.0": {
+        "runtime": {
+          "60.HouseRobber2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "60.HouseRobber2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

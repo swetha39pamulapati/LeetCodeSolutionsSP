@@ -1,0 +1,15 @@
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\bin\Debug\net5.0\53.CombinationSum3.exe
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\bin\Debug\net5.0\53.CombinationSum3.deps.json
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\bin\Debug\net5.0\53.CombinationSum3.runtimeconfig.json
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\bin\Debug\net5.0\53.CombinationSum3.runtimeconfig.dev.json
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\bin\Debug\net5.0\53.CombinationSum3.dll
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\bin\Debug\net5.0\ref\53.CombinationSum3.dll
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\bin\Debug\net5.0\53.CombinationSum3.pdb
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\53.CombinationSum3.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\53.CombinationSum3.AssemblyInfoInputs.cache
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\53.CombinationSum3.AssemblyInfo.cs
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\53.CombinationSum3.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\53.CombinationSum3.dll
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\ref\53.CombinationSum3.dll
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\53.CombinationSum3.pdb
+D:\sheanPrasad\53.CombinationSum3\53.CombinationSum3\obj\Debug\net5.0\53.CombinationSum3.genruntimeconfig.cache

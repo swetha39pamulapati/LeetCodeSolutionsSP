@@ -1,0 +1,16 @@
+D:\sheanPrasad\50.Combinations\50.Combinations\bin\Debug\net5.0\50.Combinations.exe
+D:\sheanPrasad\50.Combinations\50.Combinations\bin\Debug\net5.0\50.Combinations.deps.json
+D:\sheanPrasad\50.Combinations\50.Combinations\bin\Debug\net5.0\50.Combinations.runtimeconfig.json
+D:\sheanPrasad\50.Combinations\50.Combinations\bin\Debug\net5.0\50.Combinations.runtimeconfig.dev.json
+D:\sheanPrasad\50.Combinations\50.Combinations\bin\Debug\net5.0\50.Combinations.dll
+D:\sheanPrasad\50.Combinations\50.Combinations\bin\Debug\net5.0\ref\50.Combinations.dll
+D:\sheanPrasad\50.Combinations\50.Combinations\bin\Debug\net5.0\50.Combinations.pdb
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.csproj.AssemblyReference.cache
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.AssemblyInfoInputs.cache
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.AssemblyInfo.cs
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.dll
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\ref\50.Combinations.dll
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.pdb
+D:\sheanPrasad\50.Combinations\50.Combinations\obj\Debug\net5.0\50.Combinations.genruntimeconfig.cache

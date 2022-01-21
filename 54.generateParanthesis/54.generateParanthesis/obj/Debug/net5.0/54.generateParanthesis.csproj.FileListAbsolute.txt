@@ -1,0 +1,16 @@
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\bin\Debug\net5.0\54.generateParanthesis.exe
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\bin\Debug\net5.0\54.generateParanthesis.deps.json
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\bin\Debug\net5.0\54.generateParanthesis.runtimeconfig.json
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\bin\Debug\net5.0\54.generateParanthesis.runtimeconfig.dev.json
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\bin\Debug\net5.0\54.generateParanthesis.dll
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\bin\Debug\net5.0\ref\54.generateParanthesis.dll
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\bin\Debug\net5.0\54.generateParanthesis.pdb
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.csproj.AssemblyReference.cache
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.AssemblyInfoInputs.cache
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.AssemblyInfo.cs
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.dll
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\ref\54.generateParanthesis.dll
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.pdb
+D:\sheanPrasad\54.generateParanthesis\54.generateParanthesis\obj\Debug\net5.0\54.generateParanthesis.genruntimeconfig.cache

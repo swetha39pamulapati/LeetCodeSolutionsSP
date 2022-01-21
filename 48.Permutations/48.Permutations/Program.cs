@@ -13,24 +13,22 @@ namespace _48.Permutations
         }
         private static void generatePermutations(List<int> list, int[] nums, List<IList<int>> permutes)
         {
-            List<int> tempList = null;
             if(list.Count!= nums.Length)
             {
+
                 for(int i = 0; i<nums.Length; i++)
                 {
-                    if (!list.Contains(nums[i]))
-                    {
-                        tempList = new List<int>(list);
-                        tempList.Add(nums[i]);
-                        generatePermutations(tempList, nums,permutes);
-                    }
-                    
+                    if (list.Contains(nums[i]))
+                        continue;
+                    list.Add(nums[i]);
+                        generatePermutations(list, nums, permutes);
+                        list.RemoveAt(list.Count - 1);
                 }
             }
 
             else
             {
-                permutes.Add(list);
+                permutes.Add(new List<int>(list));
             }
 
         }

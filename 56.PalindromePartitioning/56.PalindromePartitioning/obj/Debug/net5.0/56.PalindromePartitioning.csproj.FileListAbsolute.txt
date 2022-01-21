@@ -1,0 +1,16 @@
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\bin\Debug\net5.0\56.PalindromePartitioning.exe
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\bin\Debug\net5.0\56.PalindromePartitioning.deps.json
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\bin\Debug\net5.0\56.PalindromePartitioning.runtimeconfig.json
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\bin\Debug\net5.0\56.PalindromePartitioning.runtimeconfig.dev.json
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\bin\Debug\net5.0\56.PalindromePartitioning.dll
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\bin\Debug\net5.0\ref\56.PalindromePartitioning.dll
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\bin\Debug\net5.0\56.PalindromePartitioning.pdb
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.csproj.AssemblyReference.cache
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.AssemblyInfoInputs.cache
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.AssemblyInfo.cs
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.dll
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\ref\56.PalindromePartitioning.dll
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.pdb
+D:\sheanPrasad\56.PalindromePartitioning\56.PalindromePartitioning\obj\Debug\net5.0\56.PalindromePartitioning.genruntimeconfig.cache

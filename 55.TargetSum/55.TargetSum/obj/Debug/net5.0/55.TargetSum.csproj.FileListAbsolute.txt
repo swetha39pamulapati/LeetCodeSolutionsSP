@@ -1,0 +1,15 @@
+D:\sheanPrasad\55.TargetSum\55.TargetSum\bin\Debug\net5.0\55.TargetSum.exe
+D:\sheanPrasad\55.TargetSum\55.TargetSum\bin\Debug\net5.0\55.TargetSum.deps.json
+D:\sheanPrasad\55.TargetSum\55.TargetSum\bin\Debug\net5.0\55.TargetSum.runtimeconfig.json
+D:\sheanPrasad\55.TargetSum\55.TargetSum\bin\Debug\net5.0\55.TargetSum.runtimeconfig.dev.json
+D:\sheanPrasad\55.TargetSum\55.TargetSum\bin\Debug\net5.0\55.TargetSum.dll
+D:\sheanPrasad\55.TargetSum\55.TargetSum\bin\Debug\net5.0\ref\55.TargetSum.dll
+D:\sheanPrasad\55.TargetSum\55.TargetSum\bin\Debug\net5.0\55.TargetSum.pdb
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\55.TargetSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\55.TargetSum.AssemblyInfoInputs.cache
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\55.TargetSum.AssemblyInfo.cs
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\55.TargetSum.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\55.TargetSum.dll
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\ref\55.TargetSum.dll
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\55.TargetSum.pdb
+D:\sheanPrasad\55.TargetSum\55.TargetSum\obj\Debug\net5.0\55.TargetSum.genruntimeconfig.cache

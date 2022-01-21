@@ -32,7 +32,6 @@ namespace _49.PermutationWithDup
                     generatePermutations(list, nums, isVisited, permutes);
                     isVisited[i] = false;
                     list.RemoveAt(list.Count - 1);
-
                 }
             }
 

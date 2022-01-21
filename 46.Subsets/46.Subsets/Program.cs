@@ -19,7 +19,8 @@ namespace _46.Subsets
             for (int i = start; i < nums.Length; i++)
             {
                 list.Add(nums[i]);
-                generateSubsets(i + 1, nums, list, subsets);
+                
+                 generateSubsets(i + 1, nums, list, subsets);
                 list.RemoveAt(list.Count - 1);
             }
             }

@@ -1,0 +1,15 @@
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\bin\Debug\net5.0\57.LetterComPhoneNumber.exe
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\bin\Debug\net5.0\57.LetterComPhoneNumber.deps.json
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\bin\Debug\net5.0\57.LetterComPhoneNumber.runtimeconfig.json
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\bin\Debug\net5.0\57.LetterComPhoneNumber.runtimeconfig.dev.json
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\bin\Debug\net5.0\57.LetterComPhoneNumber.dll
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\bin\Debug\net5.0\ref\57.LetterComPhoneNumber.dll
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\bin\Debug\net5.0\57.LetterComPhoneNumber.pdb
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\57.LetterComPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\57.LetterComPhoneNumber.AssemblyInfoInputs.cache
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\57.LetterComPhoneNumber.AssemblyInfo.cs
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\57.LetterComPhoneNumber.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\57.LetterComPhoneNumber.dll
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\ref\57.LetterComPhoneNumber.dll
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\57.LetterComPhoneNumber.pdb
+D:\sheanPrasad\57.LetterComPhoneNumber\57.LetterComPhoneNumber\obj\Debug\net5.0\57.LetterComPhoneNumber.genruntimeconfig.cache

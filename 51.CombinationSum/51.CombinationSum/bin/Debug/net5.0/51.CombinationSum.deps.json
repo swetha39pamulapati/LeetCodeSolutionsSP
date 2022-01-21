@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "51.CombinationSum/1.0.0": {
+        "runtime": {
+          "51.CombinationSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "51.CombinationSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

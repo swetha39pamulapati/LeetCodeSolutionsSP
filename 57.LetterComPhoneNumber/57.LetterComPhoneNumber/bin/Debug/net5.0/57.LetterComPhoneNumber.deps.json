@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "57.LetterComPhoneNumber/1.0.0": {
+        "runtime": {
+          "57.LetterComPhoneNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "57.LetterComPhoneNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
