@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "65.WordBreak/1.0.0": {
+        "runtime": {
+          "65.WordBreak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "65.WordBreak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

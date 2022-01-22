@@ -1,0 +1,15 @@
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\bin\Debug\net5.0\70.PalindromicSubstrings.exe
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\bin\Debug\net5.0\70.PalindromicSubstrings.deps.json
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\bin\Debug\net5.0\70.PalindromicSubstrings.runtimeconfig.json
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\bin\Debug\net5.0\70.PalindromicSubstrings.runtimeconfig.dev.json
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\bin\Debug\net5.0\70.PalindromicSubstrings.dll
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\bin\Debug\net5.0\ref\70.PalindromicSubstrings.dll
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\bin\Debug\net5.0\70.PalindromicSubstrings.pdb
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.AssemblyInfoInputs.cache
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.AssemblyInfo.cs
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.dll
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\ref\70.PalindromicSubstrings.dll
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.pdb
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.genruntimeconfig.cache

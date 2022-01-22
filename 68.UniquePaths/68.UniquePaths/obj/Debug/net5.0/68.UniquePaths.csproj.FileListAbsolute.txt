@@ -1,0 +1,16 @@
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.csproj.AssemblyReference.cache
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.AssemblyInfoInputs.cache
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.AssemblyInfo.cs
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\bin\Debug\net5.0\68.UniquePaths.exe
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\bin\Debug\net5.0\68.UniquePaths.deps.json
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\bin\Debug\net5.0\68.UniquePaths.runtimeconfig.json
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\bin\Debug\net5.0\68.UniquePaths.runtimeconfig.dev.json
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\bin\Debug\net5.0\68.UniquePaths.dll
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\bin\Debug\net5.0\ref\68.UniquePaths.dll
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\bin\Debug\net5.0\68.UniquePaths.pdb
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.dll
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\ref\68.UniquePaths.dll
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.pdb
+D:\sheanPrasad\68.UniquePaths\68.UniquePaths\obj\Debug\net5.0\68.UniquePaths.genruntimeconfig.cache

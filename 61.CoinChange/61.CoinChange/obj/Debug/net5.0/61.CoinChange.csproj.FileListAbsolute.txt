@@ -1,0 +1,16 @@
+D:\sheanPrasad\61.CoinChange\61.CoinChange\bin\Debug\net5.0\61.CoinChange.exe
+D:\sheanPrasad\61.CoinChange\61.CoinChange\bin\Debug\net5.0\61.CoinChange.deps.json
+D:\sheanPrasad\61.CoinChange\61.CoinChange\bin\Debug\net5.0\61.CoinChange.runtimeconfig.json
+D:\sheanPrasad\61.CoinChange\61.CoinChange\bin\Debug\net5.0\61.CoinChange.runtimeconfig.dev.json
+D:\sheanPrasad\61.CoinChange\61.CoinChange\bin\Debug\net5.0\61.CoinChange.dll
+D:\sheanPrasad\61.CoinChange\61.CoinChange\bin\Debug\net5.0\ref\61.CoinChange.dll
+D:\sheanPrasad\61.CoinChange\61.CoinChange\bin\Debug\net5.0\61.CoinChange.pdb
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.csproj.AssemblyReference.cache
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.AssemblyInfoInputs.cache
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.AssemblyInfo.cs
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.dll
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\ref\61.CoinChange.dll
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.pdb
+D:\sheanPrasad\61.CoinChange\61.CoinChange\obj\Debug\net5.0\61.CoinChange.genruntimeconfig.cache

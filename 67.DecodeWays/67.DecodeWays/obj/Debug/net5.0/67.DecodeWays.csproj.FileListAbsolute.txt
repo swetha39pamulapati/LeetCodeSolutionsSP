@@ -1,0 +1,16 @@
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\bin\Debug\net5.0\67.DecodeWays.exe
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\bin\Debug\net5.0\67.DecodeWays.deps.json
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\bin\Debug\net5.0\67.DecodeWays.runtimeconfig.json
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\bin\Debug\net5.0\67.DecodeWays.runtimeconfig.dev.json
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\bin\Debug\net5.0\67.DecodeWays.dll
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\bin\Debug\net5.0\ref\67.DecodeWays.dll
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\bin\Debug\net5.0\67.DecodeWays.pdb
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.csproj.AssemblyReference.cache
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.AssemblyInfoInputs.cache
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.AssemblyInfo.cs
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.dll
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\ref\67.DecodeWays.dll
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.pdb
+D:\sheanPrasad\67.DecodeWays\67.DecodeWays\obj\Debug\net5.0\67.DecodeWays.genruntimeconfig.cache

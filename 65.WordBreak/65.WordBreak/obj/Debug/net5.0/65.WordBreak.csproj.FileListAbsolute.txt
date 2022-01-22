@@ -1,0 +1,16 @@
+D:\sheanPrasad\65.WordBreak\65.WordBreak\bin\Debug\net5.0\65.WordBreak.exe
+D:\sheanPrasad\65.WordBreak\65.WordBreak\bin\Debug\net5.0\65.WordBreak.deps.json
+D:\sheanPrasad\65.WordBreak\65.WordBreak\bin\Debug\net5.0\65.WordBreak.runtimeconfig.json
+D:\sheanPrasad\65.WordBreak\65.WordBreak\bin\Debug\net5.0\65.WordBreak.runtimeconfig.dev.json
+D:\sheanPrasad\65.WordBreak\65.WordBreak\bin\Debug\net5.0\65.WordBreak.dll
+D:\sheanPrasad\65.WordBreak\65.WordBreak\bin\Debug\net5.0\ref\65.WordBreak.dll
+D:\sheanPrasad\65.WordBreak\65.WordBreak\bin\Debug\net5.0\65.WordBreak.pdb
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.csproj.AssemblyReference.cache
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.AssemblyInfoInputs.cache
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.AssemblyInfo.cs
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.dll
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\ref\65.WordBreak.dll
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.pdb
+D:\sheanPrasad\65.WordBreak\65.WordBreak\obj\Debug\net5.0\65.WordBreak.genruntimeconfig.cache

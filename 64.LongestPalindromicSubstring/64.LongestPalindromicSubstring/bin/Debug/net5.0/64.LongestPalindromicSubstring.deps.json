@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "64.LongestPalindromicSubstring/1.0.0": {
+        "runtime": {
+          "64.LongestPalindromicSubstring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "64.LongestPalindromicSubstring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\bin\Debug\net5.0\64.LongestPalindromicSubstring.exe
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\bin\Debug\net5.0\64.LongestPalindromicSubstring.deps.json
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\bin\Debug\net5.0\64.LongestPalindromicSubstring.runtimeconfig.json
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\bin\Debug\net5.0\64.LongestPalindromicSubstring.runtimeconfig.dev.json
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\bin\Debug\net5.0\64.LongestPalindromicSubstring.dll
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\bin\Debug\net5.0\ref\64.LongestPalindromicSubstring.dll
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\bin\Debug\net5.0\64.LongestPalindromicSubstring.pdb
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\64.LongestPalindromicSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\64.LongestPalindromicSubstring.AssemblyInfoInputs.cache
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\64.LongestPalindromicSubstring.AssemblyInfo.cs
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\64.LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\64.LongestPalindromicSubstring.dll
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\ref\64.LongestPalindromicSubstring.dll
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\64.LongestPalindromicSubstring.pdb
+D:\sheanPrasad\64.LongestPalindromicSubstring\64.LongestPalindromicSubstring\obj\Debug\net5.0\64.LongestPalindromicSubstring.genruntimeconfig.cache
