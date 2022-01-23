@@ -1,0 +1,15 @@
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\bin\Debug\net5.0\77.RemoveNthNodeFromList.exe
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\bin\Debug\net5.0\77.RemoveNthNodeFromList.deps.json
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\bin\Debug\net5.0\77.RemoveNthNodeFromList.runtimeconfig.json
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\bin\Debug\net5.0\77.RemoveNthNodeFromList.runtimeconfig.dev.json
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\bin\Debug\net5.0\77.RemoveNthNodeFromList.dll
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\bin\Debug\net5.0\ref\77.RemoveNthNodeFromList.dll
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\bin\Debug\net5.0\77.RemoveNthNodeFromList.pdb
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.AssemblyInfoInputs.cache
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.AssemblyInfo.cs
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.dll
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\ref\77.RemoveNthNodeFromList.dll
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.pdb
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.genruntimeconfig.cache

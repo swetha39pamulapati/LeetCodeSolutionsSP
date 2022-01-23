@@ -35,8 +35,6 @@ namespace _66.CombinationSum
 			return ans;
 		}
 	}
-
-	// Solution 2 : Tabulation Approach
 	public class Solution
 	{
 		public int CombinationSum4(int[] nums, int target)

@@ -1,0 +1,16 @@
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\bin\Debug\net5.0\72.PartitionEqualSums.exe
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\bin\Debug\net5.0\72.PartitionEqualSums.deps.json
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\bin\Debug\net5.0\72.PartitionEqualSums.runtimeconfig.json
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\bin\Debug\net5.0\72.PartitionEqualSums.runtimeconfig.dev.json
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\bin\Debug\net5.0\72.PartitionEqualSums.dll
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\bin\Debug\net5.0\ref\72.PartitionEqualSums.dll
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\bin\Debug\net5.0\72.PartitionEqualSums.pdb
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.csproj.AssemblyReference.cache
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.AssemblyInfoInputs.cache
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.AssemblyInfo.cs
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.dll
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\ref\72.PartitionEqualSums.dll
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.pdb
+D:\sheanPrasad\72.PartitionEqualSums\72.PartitionEqualSums\obj\Debug\net5.0\72.PartitionEqualSums.genruntimeconfig.cache

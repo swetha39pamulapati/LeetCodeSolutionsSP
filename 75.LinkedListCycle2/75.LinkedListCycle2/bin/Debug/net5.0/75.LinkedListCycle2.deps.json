@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "75.LinkedListCycle2/1.0.0": {
+        "runtime": {
+          "75.LinkedListCycle2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "75.LinkedListCycle2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

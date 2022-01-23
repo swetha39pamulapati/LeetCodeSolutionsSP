@@ -1,0 +1,15 @@
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\bin\Debug\net5.0\76.Add2Numbers.exe
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\bin\Debug\net5.0\76.Add2Numbers.deps.json
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\bin\Debug\net5.0\76.Add2Numbers.runtimeconfig.json
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\bin\Debug\net5.0\76.Add2Numbers.runtimeconfig.dev.json
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\bin\Debug\net5.0\76.Add2Numbers.dll
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\bin\Debug\net5.0\ref\76.Add2Numbers.dll
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\bin\Debug\net5.0\76.Add2Numbers.pdb
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\76.Add2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\76.Add2Numbers.AssemblyInfoInputs.cache
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\76.Add2Numbers.AssemblyInfo.cs
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\76.Add2Numbers.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\76.Add2Numbers.dll
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\ref\76.Add2Numbers.dll
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\76.Add2Numbers.pdb
+D:\sheanPrasad\76.Add2Numbers\76.Add2Numbers\obj\Debug\net5.0\76.Add2Numbers.genruntimeconfig.cache

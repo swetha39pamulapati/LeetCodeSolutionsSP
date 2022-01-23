@@ -1,0 +1,16 @@
+D:\sheanPrasad\78.ReorderList\78.ReorderList\bin\Debug\net5.0\78.ReorderList.exe
+D:\sheanPrasad\78.ReorderList\78.ReorderList\bin\Debug\net5.0\78.ReorderList.deps.json
+D:\sheanPrasad\78.ReorderList\78.ReorderList\bin\Debug\net5.0\78.ReorderList.runtimeconfig.json
+D:\sheanPrasad\78.ReorderList\78.ReorderList\bin\Debug\net5.0\78.ReorderList.runtimeconfig.dev.json
+D:\sheanPrasad\78.ReorderList\78.ReorderList\bin\Debug\net5.0\78.ReorderList.dll
+D:\sheanPrasad\78.ReorderList\78.ReorderList\bin\Debug\net5.0\ref\78.ReorderList.dll
+D:\sheanPrasad\78.ReorderList\78.ReorderList\bin\Debug\net5.0\78.ReorderList.pdb
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.csproj.AssemblyReference.cache
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.AssemblyInfoInputs.cache
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.AssemblyInfo.cs
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.dll
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\ref\78.ReorderList.dll
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.pdb
+D:\sheanPrasad\78.ReorderList\78.ReorderList\obj\Debug\net5.0\78.ReorderList.genruntimeconfig.cache

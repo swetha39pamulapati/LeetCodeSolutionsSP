@@ -1,0 +1,15 @@
+D:\sheanPrasad\79.SortList\79.SortList\bin\Debug\net5.0\79.SortList.exe
+D:\sheanPrasad\79.SortList\79.SortList\bin\Debug\net5.0\79.SortList.deps.json
+D:\sheanPrasad\79.SortList\79.SortList\bin\Debug\net5.0\79.SortList.runtimeconfig.json
+D:\sheanPrasad\79.SortList\79.SortList\bin\Debug\net5.0\79.SortList.runtimeconfig.dev.json
+D:\sheanPrasad\79.SortList\79.SortList\bin\Debug\net5.0\79.SortList.dll
+D:\sheanPrasad\79.SortList\79.SortList\bin\Debug\net5.0\ref\79.SortList.dll
+D:\sheanPrasad\79.SortList\79.SortList\bin\Debug\net5.0\79.SortList.pdb
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\79.SortList.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\79.SortList.AssemblyInfoInputs.cache
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\79.SortList.AssemblyInfo.cs
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\79.SortList.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\79.SortList.dll
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\ref\79.SortList.dll
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\79.SortList.pdb
+D:\sheanPrasad\79.SortList\79.SortList\obj\Debug\net5.0\79.SortList.genruntimeconfig.cache
