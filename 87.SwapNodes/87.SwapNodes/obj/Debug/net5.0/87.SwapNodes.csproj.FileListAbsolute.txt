@@ -1,0 +1,16 @@
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\bin\Debug\net5.0\87.SwapNodes.exe
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\bin\Debug\net5.0\87.SwapNodes.deps.json
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\bin\Debug\net5.0\87.SwapNodes.runtimeconfig.json
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\bin\Debug\net5.0\87.SwapNodes.runtimeconfig.dev.json
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\bin\Debug\net5.0\87.SwapNodes.dll
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\bin\Debug\net5.0\ref\87.SwapNodes.dll
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\bin\Debug\net5.0\87.SwapNodes.pdb
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.csproj.AssemblyReference.cache
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.AssemblyInfoInputs.cache
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.AssemblyInfo.cs
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.dll
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\ref\87.SwapNodes.dll
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.pdb
+D:\sheanPrasad\87.SwapNodes\87.SwapNodes\obj\Debug\net5.0\87.SwapNodes.genruntimeconfig.cache

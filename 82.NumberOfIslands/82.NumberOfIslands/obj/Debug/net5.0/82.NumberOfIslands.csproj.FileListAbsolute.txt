@@ -1,0 +1,16 @@
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\bin\Debug\net5.0\82.NumberOfIslands.exe
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\bin\Debug\net5.0\82.NumberOfIslands.deps.json
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\bin\Debug\net5.0\82.NumberOfIslands.runtimeconfig.json
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\bin\Debug\net5.0\82.NumberOfIslands.runtimeconfig.dev.json
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\bin\Debug\net5.0\82.NumberOfIslands.dll
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\bin\Debug\net5.0\ref\82.NumberOfIslands.dll
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\bin\Debug\net5.0\82.NumberOfIslands.pdb
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.csproj.AssemblyReference.cache
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.AssemblyInfoInputs.cache
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.AssemblyInfo.cs
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.dll
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\ref\82.NumberOfIslands.dll
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.pdb
+D:\sheanPrasad\82.NumberOfIslands\82.NumberOfIslands\obj\Debug\net5.0\82.NumberOfIslands.genruntimeconfig.cache

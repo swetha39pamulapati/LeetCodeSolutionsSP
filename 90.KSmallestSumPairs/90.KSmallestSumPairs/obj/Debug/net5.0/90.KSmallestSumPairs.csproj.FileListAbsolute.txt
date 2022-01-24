@@ -1,0 +1,16 @@
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\bin\Debug\net5.0\90.KSmallestSumPairs.exe
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\bin\Debug\net5.0\90.KSmallestSumPairs.deps.json
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\bin\Debug\net5.0\90.KSmallestSumPairs.runtimeconfig.json
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\bin\Debug\net5.0\90.KSmallestSumPairs.runtimeconfig.dev.json
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\bin\Debug\net5.0\90.KSmallestSumPairs.dll
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\bin\Debug\net5.0\ref\90.KSmallestSumPairs.dll
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\bin\Debug\net5.0\90.KSmallestSumPairs.pdb
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.csproj.AssemblyReference.cache
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.AssemblyInfoInputs.cache
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.AssemblyInfo.cs
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.dll
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\ref\90.KSmallestSumPairs.dll
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.pdb
+D:\sheanPrasad\90.KSmallestSumPairs\90.KSmallestSumPairs\obj\Debug\net5.0\90.KSmallestSumPairs.genruntimeconfig.cache

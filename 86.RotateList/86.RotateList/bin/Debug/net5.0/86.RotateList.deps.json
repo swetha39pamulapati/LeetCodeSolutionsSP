@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "86.RotateList/1.0.0": {
+        "runtime": {
+          "86.RotateList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "86.RotateList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

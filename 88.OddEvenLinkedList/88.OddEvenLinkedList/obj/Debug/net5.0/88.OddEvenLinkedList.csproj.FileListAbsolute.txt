@@ -1,0 +1,16 @@
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\bin\Debug\net5.0\88.OddEvenLinkedList.exe
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\bin\Debug\net5.0\88.OddEvenLinkedList.deps.json
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\bin\Debug\net5.0\88.OddEvenLinkedList.runtimeconfig.json
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\bin\Debug\net5.0\88.OddEvenLinkedList.runtimeconfig.dev.json
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\bin\Debug\net5.0\88.OddEvenLinkedList.dll
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\bin\Debug\net5.0\ref\88.OddEvenLinkedList.dll
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\bin\Debug\net5.0\88.OddEvenLinkedList.pdb
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.csproj.AssemblyReference.cache
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.AssemblyInfoInputs.cache
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.AssemblyInfo.cs
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.dll
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\ref\88.OddEvenLinkedList.dll
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.pdb
+D:\sheanPrasad\88.OddEvenLinkedList\88.OddEvenLinkedList\obj\Debug\net5.0\88.OddEvenLinkedList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\sheanPrasad\86.RotateList\86.RotateList\bin\Debug\net5.0\86.RotateList.exe
+D:\sheanPrasad\86.RotateList\86.RotateList\bin\Debug\net5.0\86.RotateList.deps.json
+D:\sheanPrasad\86.RotateList\86.RotateList\bin\Debug\net5.0\86.RotateList.runtimeconfig.json
+D:\sheanPrasad\86.RotateList\86.RotateList\bin\Debug\net5.0\86.RotateList.runtimeconfig.dev.json
+D:\sheanPrasad\86.RotateList\86.RotateList\bin\Debug\net5.0\86.RotateList.dll
+D:\sheanPrasad\86.RotateList\86.RotateList\bin\Debug\net5.0\ref\86.RotateList.dll
+D:\sheanPrasad\86.RotateList\86.RotateList\bin\Debug\net5.0\86.RotateList.pdb
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.csproj.AssemblyReference.cache
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.AssemblyInfoInputs.cache
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.AssemblyInfo.cs
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.dll
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\ref\86.RotateList.dll
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.pdb
+D:\sheanPrasad\86.RotateList\86.RotateList\obj\Debug\net5.0\86.RotateList.genruntimeconfig.cache
