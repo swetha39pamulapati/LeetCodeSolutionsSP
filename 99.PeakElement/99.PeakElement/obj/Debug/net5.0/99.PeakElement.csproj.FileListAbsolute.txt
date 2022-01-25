@@ -1,0 +1,16 @@
+D:\sheanPrasad\99.PeakElement\99.PeakElement\bin\Debug\net5.0\99.PeakElement.exe
+D:\sheanPrasad\99.PeakElement\99.PeakElement\bin\Debug\net5.0\99.PeakElement.deps.json
+D:\sheanPrasad\99.PeakElement\99.PeakElement\bin\Debug\net5.0\99.PeakElement.runtimeconfig.json
+D:\sheanPrasad\99.PeakElement\99.PeakElement\bin\Debug\net5.0\99.PeakElement.runtimeconfig.dev.json
+D:\sheanPrasad\99.PeakElement\99.PeakElement\bin\Debug\net5.0\99.PeakElement.dll
+D:\sheanPrasad\99.PeakElement\99.PeakElement\bin\Debug\net5.0\ref\99.PeakElement.dll
+D:\sheanPrasad\99.PeakElement\99.PeakElement\bin\Debug\net5.0\99.PeakElement.pdb
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.csproj.AssemblyReference.cache
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.AssemblyInfoInputs.cache
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.AssemblyInfo.cs
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.dll
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\ref\99.PeakElement.dll
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.pdb
+D:\sheanPrasad\99.PeakElement\99.PeakElement\obj\Debug\net5.0\99.PeakElement.genruntimeconfig.cache

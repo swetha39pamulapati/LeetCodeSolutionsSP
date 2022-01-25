@@ -1,0 +1,16 @@
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\bin\Debug\net5.0\95.TaskScheduler.exe
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\bin\Debug\net5.0\95.TaskScheduler.deps.json
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\bin\Debug\net5.0\95.TaskScheduler.runtimeconfig.json
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\bin\Debug\net5.0\95.TaskScheduler.runtimeconfig.dev.json
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\bin\Debug\net5.0\95.TaskScheduler.dll
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\bin\Debug\net5.0\ref\95.TaskScheduler.dll
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\bin\Debug\net5.0\95.TaskScheduler.pdb
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.csproj.AssemblyReference.cache
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.AssemblyInfoInputs.cache
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.AssemblyInfo.cs
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.dll
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\ref\95.TaskScheduler.dll
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.pdb
+D:\sheanPrasad\95.TaskScheduler\95.TaskScheduler\obj\Debug\net5.0\95.TaskScheduler.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "95.TaskScheduler/1.0.0": {
+        "runtime": {
+          "95.TaskScheduler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "95.TaskScheduler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "91.MergeIntervals/1.0.0": {
+        "runtime": {
+          "91.MergeIntervals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "91.MergeIntervals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

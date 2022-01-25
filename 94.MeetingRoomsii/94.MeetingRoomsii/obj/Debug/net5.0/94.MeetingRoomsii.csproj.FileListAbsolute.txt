@@ -1,0 +1,15 @@
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\bin\Debug\net5.0\94.MeetingRoomsii.exe
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\bin\Debug\net5.0\94.MeetingRoomsii.deps.json
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\bin\Debug\net5.0\94.MeetingRoomsii.runtimeconfig.json
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\bin\Debug\net5.0\94.MeetingRoomsii.runtimeconfig.dev.json
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\bin\Debug\net5.0\94.MeetingRoomsii.dll
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\bin\Debug\net5.0\ref\94.MeetingRoomsii.dll
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\bin\Debug\net5.0\94.MeetingRoomsii.pdb
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\94.MeetingRoomsii.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\94.MeetingRoomsii.AssemblyInfoInputs.cache
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\94.MeetingRoomsii.AssemblyInfo.cs
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\94.MeetingRoomsii.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\94.MeetingRoomsii.dll
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\ref\94.MeetingRoomsii.dll
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\94.MeetingRoomsii.pdb
+D:\sheanPrasad\94.MeetingRoomsii\94.MeetingRoomsii\obj\Debug\net5.0\94.MeetingRoomsii.genruntimeconfig.cache

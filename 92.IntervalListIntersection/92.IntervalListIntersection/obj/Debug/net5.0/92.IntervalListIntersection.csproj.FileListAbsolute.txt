@@ -1,0 +1,15 @@
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\bin\Debug\net5.0\92.IntervalListIntersection.exe
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\bin\Debug\net5.0\92.IntervalListIntersection.deps.json
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\bin\Debug\net5.0\92.IntervalListIntersection.runtimeconfig.json
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\bin\Debug\net5.0\92.IntervalListIntersection.runtimeconfig.dev.json
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\bin\Debug\net5.0\92.IntervalListIntersection.dll
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\bin\Debug\net5.0\ref\92.IntervalListIntersection.dll
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\bin\Debug\net5.0\92.IntervalListIntersection.pdb
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\92.IntervalListIntersection.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\92.IntervalListIntersection.AssemblyInfoInputs.cache
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\92.IntervalListIntersection.AssemblyInfo.cs
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\92.IntervalListIntersection.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\92.IntervalListIntersection.dll
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\ref\92.IntervalListIntersection.dll
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\92.IntervalListIntersection.pdb
+D:\sheanPrasad\92.IntervalListIntersection\92.IntervalListIntersection\obj\Debug\net5.0\92.IntervalListIntersection.genruntimeconfig.cache

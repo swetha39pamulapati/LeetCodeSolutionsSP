@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\sheanPrasad\\92.IntervalListIntersection\\92.IntervalListIntersection\\92.IntervalListIntersection.csproj": {}
+  },
+  "projects": {
+    "D:\\sheanPrasad\\92.IntervalListIntersection\\92.IntervalListIntersection\\92.IntervalListIntersection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sheanPrasad\\92.IntervalListIntersection\\92.IntervalListIntersection\\92.IntervalListIntersection.csproj",
+        "projectName": "92.IntervalListIntersection",
+        "projectPath": "D:\\sheanPrasad\\92.IntervalListIntersection\\92.IntervalListIntersection\\92.IntervalListIntersection.csproj",
+        "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
+        "outputPath": "D:\\sheanPrasad\\92.IntervalListIntersection\\92.IntervalListIntersection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\padma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

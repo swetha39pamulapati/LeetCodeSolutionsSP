@@ -1,0 +1,15 @@
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\bin\Debug\net5.0\97.InsertIntervals.exe
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\bin\Debug\net5.0\97.InsertIntervals.deps.json
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\bin\Debug\net5.0\97.InsertIntervals.runtimeconfig.json
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\bin\Debug\net5.0\97.InsertIntervals.runtimeconfig.dev.json
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\bin\Debug\net5.0\97.InsertIntervals.dll
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\bin\Debug\net5.0\ref\97.InsertIntervals.dll
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\bin\Debug\net5.0\97.InsertIntervals.pdb
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\97.InsertIntervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\97.InsertIntervals.AssemblyInfoInputs.cache
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\97.InsertIntervals.AssemblyInfo.cs
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\97.InsertIntervals.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\97.InsertIntervals.dll
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\ref\97.InsertIntervals.dll
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\97.InsertIntervals.pdb
+D:\sheanPrasad\97.InsertIntervals\97.InsertIntervals\obj\Debug\net5.0\97.InsertIntervals.genruntimeconfig.cache
