@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "108.LongestRepeatingCharcterReplacement/1.0.0": {
+        "runtime": {
+          "108.LongestRepeatingCharcterReplacement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "108.LongestRepeatingCharcterReplacement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

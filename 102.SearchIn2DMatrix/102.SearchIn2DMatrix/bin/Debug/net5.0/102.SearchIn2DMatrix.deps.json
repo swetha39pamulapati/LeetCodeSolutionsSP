@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "102.SearchIn2DMatrix/1.0.0": {
+        "runtime": {
+          "102.SearchIn2DMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "102.SearchIn2DMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

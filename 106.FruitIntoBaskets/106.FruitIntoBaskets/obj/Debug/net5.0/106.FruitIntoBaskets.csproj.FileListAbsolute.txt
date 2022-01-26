@@ -1,0 +1,16 @@
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\bin\Debug\net5.0\106.FruitIntoBaskets.exe
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\bin\Debug\net5.0\106.FruitIntoBaskets.deps.json
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\bin\Debug\net5.0\106.FruitIntoBaskets.runtimeconfig.json
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\bin\Debug\net5.0\106.FruitIntoBaskets.runtimeconfig.dev.json
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\bin\Debug\net5.0\106.FruitIntoBaskets.dll
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\bin\Debug\net5.0\ref\106.FruitIntoBaskets.dll
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\bin\Debug\net5.0\106.FruitIntoBaskets.pdb
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.csproj.AssemblyReference.cache
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.AssemblyInfoInputs.cache
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.AssemblyInfo.cs
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.dll
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\ref\106.FruitIntoBaskets.dll
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.pdb
+D:\sheanPrasad\106.FruitIntoBaskets\106.FruitIntoBaskets\obj\Debug\net5.0\106.FruitIntoBaskets.genruntimeconfig.cache

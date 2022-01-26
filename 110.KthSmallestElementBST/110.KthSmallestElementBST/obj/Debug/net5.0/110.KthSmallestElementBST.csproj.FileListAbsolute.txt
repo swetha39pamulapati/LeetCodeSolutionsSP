@@ -1,0 +1,16 @@
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\bin\Debug\net5.0\110.KthSmallestElementBST.exe
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\bin\Debug\net5.0\110.KthSmallestElementBST.deps.json
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\bin\Debug\net5.0\110.KthSmallestElementBST.runtimeconfig.json
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\bin\Debug\net5.0\110.KthSmallestElementBST.runtimeconfig.dev.json
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\bin\Debug\net5.0\110.KthSmallestElementBST.dll
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\bin\Debug\net5.0\ref\110.KthSmallestElementBST.dll
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\bin\Debug\net5.0\110.KthSmallestElementBST.pdb
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.csproj.AssemblyReference.cache
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.AssemblyInfoInputs.cache
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.AssemblyInfo.cs
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.dll
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\ref\110.KthSmallestElementBST.dll
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.pdb
+D:\sheanPrasad\110.KthSmallestElementBST\110.KthSmallestElementBST\obj\Debug\net5.0\110.KthSmallestElementBST.genruntimeconfig.cache

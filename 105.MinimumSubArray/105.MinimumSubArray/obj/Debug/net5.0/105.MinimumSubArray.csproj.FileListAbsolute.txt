@@ -1,0 +1,16 @@
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\bin\Debug\net5.0\105.MinimumSubArray.exe
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\bin\Debug\net5.0\105.MinimumSubArray.deps.json
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\bin\Debug\net5.0\105.MinimumSubArray.runtimeconfig.json
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\bin\Debug\net5.0\105.MinimumSubArray.runtimeconfig.dev.json
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\bin\Debug\net5.0\105.MinimumSubArray.dll
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\bin\Debug\net5.0\ref\105.MinimumSubArray.dll
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\bin\Debug\net5.0\105.MinimumSubArray.pdb
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.csproj.AssemblyReference.cache
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.AssemblyInfoInputs.cache
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.AssemblyInfo.cs
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.dll
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\ref\105.MinimumSubArray.dll
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.pdb
+D:\sheanPrasad\105.MinimumSubArray\105.MinimumSubArray\obj\Debug\net5.0\105.MinimumSubArray.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\bin\Debug\net5.0\104.KClosestElements.exe
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\bin\Debug\net5.0\104.KClosestElements.deps.json
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\bin\Debug\net5.0\104.KClosestElements.runtimeconfig.json
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\bin\Debug\net5.0\104.KClosestElements.runtimeconfig.dev.json
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\bin\Debug\net5.0\104.KClosestElements.dll
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\bin\Debug\net5.0\ref\104.KClosestElements.dll
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\bin\Debug\net5.0\104.KClosestElements.pdb
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.csproj.AssemblyReference.cache
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.AssemblyInfoInputs.cache
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.AssemblyInfo.cs
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.dll
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\ref\104.KClosestElements.dll
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.pdb
+D:\sheanPrasad\104.KClosestElements\104.KClosestElements\obj\Debug\net5.0\104.KClosestElements.genruntimeconfig.cache

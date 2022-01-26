@@ -1,0 +1,16 @@
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\bin\Debug\net5.0\107.PermutationInAString.exe
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\bin\Debug\net5.0\107.PermutationInAString.deps.json
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\bin\Debug\net5.0\107.PermutationInAString.runtimeconfig.json
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\bin\Debug\net5.0\107.PermutationInAString.runtimeconfig.dev.json
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\bin\Debug\net5.0\107.PermutationInAString.dll
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\bin\Debug\net5.0\ref\107.PermutationInAString.dll
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\bin\Debug\net5.0\107.PermutationInAString.pdb
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.csproj.AssemblyReference.cache
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.AssemblyInfoInputs.cache
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.AssemblyInfo.cs
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.dll
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\ref\107.PermutationInAString.dll
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.pdb
+D:\sheanPrasad\107.PermutationInAString\107.PermutationInAString\obj\Debug\net5.0\107.PermutationInAString.genruntimeconfig.cache

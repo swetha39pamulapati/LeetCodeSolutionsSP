@@ -1,0 +1,15 @@
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\bin\Debug\net5.0\103.Searchin2DMatrix2.exe
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\bin\Debug\net5.0\103.Searchin2DMatrix2.deps.json
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\bin\Debug\net5.0\103.Searchin2DMatrix2.runtimeconfig.json
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\bin\Debug\net5.0\103.Searchin2DMatrix2.runtimeconfig.dev.json
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\bin\Debug\net5.0\103.Searchin2DMatrix2.dll
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\bin\Debug\net5.0\ref\103.Searchin2DMatrix2.dll
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\bin\Debug\net5.0\103.Searchin2DMatrix2.pdb
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\103.Searchin2DMatrix2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\103.Searchin2DMatrix2.AssemblyInfoInputs.cache
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\103.Searchin2DMatrix2.AssemblyInfo.cs
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\103.Searchin2DMatrix2.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\103.Searchin2DMatrix2.dll
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\ref\103.Searchin2DMatrix2.dll
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\103.Searchin2DMatrix2.pdb
+D:\sheanPrasad\103.Searchin2DMatrix2\103.Searchin2DMatrix2\obj\Debug\net5.0\103.Searchin2DMatrix2.genruntimeconfig.cache
