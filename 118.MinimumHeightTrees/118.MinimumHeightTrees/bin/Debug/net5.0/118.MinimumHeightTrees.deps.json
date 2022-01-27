@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "118.MinimumHeightTrees/1.0.0": {
+        "runtime": {
+          "118.MinimumHeightTrees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "118.MinimumHeightTrees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

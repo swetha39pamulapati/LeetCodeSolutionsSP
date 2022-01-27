@@ -1,0 +1,16 @@
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\bin\Debug\net5.0\34.IndexPairsOfStrings.exe
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\bin\Debug\net5.0\34.IndexPairsOfStrings.deps.json
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\bin\Debug\net5.0\34.IndexPairsOfStrings.runtimeconfig.json
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\bin\Debug\net5.0\34.IndexPairsOfStrings.runtimeconfig.dev.json
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\bin\Debug\net5.0\34.IndexPairsOfStrings.dll
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\bin\Debug\net5.0\ref\34.IndexPairsOfStrings.dll
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\bin\Debug\net5.0\34.IndexPairsOfStrings.pdb
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.csproj.AssemblyReference.cache
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.AssemblyInfoInputs.cache
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.AssemblyInfo.cs
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.dll
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\ref\34.IndexPairsOfStrings.dll
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.pdb
+D:\sheanPrasad\34.IndexPairsOfStrings\34.IndexPairsOfStrings\obj\Debug\net5.0\34.IndexPairsOfStrings.genruntimeconfig.cache

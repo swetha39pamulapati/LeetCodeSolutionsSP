@@ -1,0 +1,16 @@
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\bin\Debug\net5.0\116.CourseSchedule.exe
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\bin\Debug\net5.0\116.CourseSchedule.deps.json
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\bin\Debug\net5.0\116.CourseSchedule.runtimeconfig.json
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\bin\Debug\net5.0\116.CourseSchedule.runtimeconfig.dev.json
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\bin\Debug\net5.0\116.CourseSchedule.dll
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\bin\Debug\net5.0\ref\116.CourseSchedule.dll
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\bin\Debug\net5.0\116.CourseSchedule.pdb
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.csproj.AssemblyReference.cache
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.AssemblyInfoInputs.cache
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.AssemblyInfo.cs
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.dll
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\ref\116.CourseSchedule.dll
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.pdb
+D:\sheanPrasad\116.CourseSchedule\116.CourseSchedule\obj\Debug\net5.0\116.CourseSchedule.genruntimeconfig.cache

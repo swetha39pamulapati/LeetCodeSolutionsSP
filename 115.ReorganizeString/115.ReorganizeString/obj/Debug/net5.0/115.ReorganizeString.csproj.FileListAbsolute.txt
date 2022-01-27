@@ -1,0 +1,15 @@
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\bin\Debug\net5.0\115.ReorganizeString.exe
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\bin\Debug\net5.0\115.ReorganizeString.deps.json
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\bin\Debug\net5.0\115.ReorganizeString.runtimeconfig.json
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\bin\Debug\net5.0\115.ReorganizeString.runtimeconfig.dev.json
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\bin\Debug\net5.0\115.ReorganizeString.dll
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\bin\Debug\net5.0\ref\115.ReorganizeString.dll
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\bin\Debug\net5.0\115.ReorganizeString.pdb
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\115.ReorganizeString.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\115.ReorganizeString.AssemblyInfoInputs.cache
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\115.ReorganizeString.AssemblyInfo.cs
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\115.ReorganizeString.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\115.ReorganizeString.dll
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\ref\115.ReorganizeString.dll
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\115.ReorganizeString.pdb
+D:\sheanPrasad\115.ReorganizeString\115.ReorganizeString\obj\Debug\net5.0\115.ReorganizeString.genruntimeconfig.cache

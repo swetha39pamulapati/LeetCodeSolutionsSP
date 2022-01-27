@@ -1,0 +1,16 @@
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\bin\Debug\net5.0\117.CourseScheduleii.exe
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\bin\Debug\net5.0\117.CourseScheduleii.deps.json
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\bin\Debug\net5.0\117.CourseScheduleii.runtimeconfig.json
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\bin\Debug\net5.0\117.CourseScheduleii.runtimeconfig.dev.json
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\bin\Debug\net5.0\117.CourseScheduleii.dll
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\bin\Debug\net5.0\ref\117.CourseScheduleii.dll
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\bin\Debug\net5.0\117.CourseScheduleii.pdb
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.csproj.AssemblyReference.cache
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.AssemblyInfoInputs.cache
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.AssemblyInfo.cs
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.dll
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\ref\117.CourseScheduleii.dll
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.pdb
+D:\sheanPrasad\117.CourseScheduleii\117.CourseScheduleii\obj\Debug\net5.0\117.CourseScheduleii.genruntimeconfig.cache
