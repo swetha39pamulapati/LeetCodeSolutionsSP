@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "126.AllNodesSistanceKFromNodes/1.0.0": {
+        "runtime": {
+          "126.AllNodesSistanceKFromNodes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "126.AllNodesSistanceKFromNodes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

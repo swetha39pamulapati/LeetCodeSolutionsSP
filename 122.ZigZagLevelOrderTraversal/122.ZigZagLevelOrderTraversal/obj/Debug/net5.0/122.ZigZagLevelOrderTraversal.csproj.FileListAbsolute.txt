@@ -1,0 +1,16 @@
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\bin\Debug\net5.0\122.ZigZagLevelOrderTraversal.exe
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\bin\Debug\net5.0\122.ZigZagLevelOrderTraversal.deps.json
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\bin\Debug\net5.0\122.ZigZagLevelOrderTraversal.runtimeconfig.json
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\bin\Debug\net5.0\122.ZigZagLevelOrderTraversal.runtimeconfig.dev.json
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\bin\Debug\net5.0\122.ZigZagLevelOrderTraversal.dll
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\bin\Debug\net5.0\ref\122.ZigZagLevelOrderTraversal.dll
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\bin\Debug\net5.0\122.ZigZagLevelOrderTraversal.pdb
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.csproj.AssemblyReference.cache
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.AssemblyInfoInputs.cache
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.AssemblyInfo.cs
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.dll
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\ref\122.ZigZagLevelOrderTraversal.dll
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.pdb
+D:\sheanPrasad\122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal\obj\Debug\net5.0\122.ZigZagLevelOrderTraversal.genruntimeconfig.cache

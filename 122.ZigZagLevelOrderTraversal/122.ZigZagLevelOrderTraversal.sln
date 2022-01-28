@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122.ZigZagLevelOrderTraversal", "122.ZigZagLevelOrderTraversal\122.ZigZagLevelOrderTraversal.csproj", "{066D9A16-10BC-4125-B5A0-9A4C4CB97628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066D9A16-10BC-4125-B5A0-9A4C4CB97628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066D9A16-10BC-4125-B5A0-9A4C4CB97628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066D9A16-10BC-4125-B5A0-9A4C4CB97628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066D9A16-10BC-4125-B5A0-9A4C4CB97628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FFF6DF-F63F-4065-88EB-9BDC192C4747}
+	EndGlobalSection
+EndGlobal

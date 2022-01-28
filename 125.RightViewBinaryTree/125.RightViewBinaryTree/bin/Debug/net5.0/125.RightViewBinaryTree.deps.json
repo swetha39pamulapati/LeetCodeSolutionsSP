@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "125.RightViewBinaryTree/1.0.0": {
+        "runtime": {
+          "125.RightViewBinaryTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "125.RightViewBinaryTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

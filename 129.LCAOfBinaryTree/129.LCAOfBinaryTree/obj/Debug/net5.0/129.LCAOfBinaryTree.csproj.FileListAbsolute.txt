@@ -1,0 +1,15 @@
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\bin\Debug\net5.0\129.LCAOfBinaryTree.exe
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\bin\Debug\net5.0\129.LCAOfBinaryTree.deps.json
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\bin\Debug\net5.0\129.LCAOfBinaryTree.runtimeconfig.json
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\bin\Debug\net5.0\129.LCAOfBinaryTree.runtimeconfig.dev.json
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\bin\Debug\net5.0\129.LCAOfBinaryTree.dll
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\bin\Debug\net5.0\ref\129.LCAOfBinaryTree.dll
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\bin\Debug\net5.0\129.LCAOfBinaryTree.pdb
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\129.LCAOfBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\129.LCAOfBinaryTree.AssemblyInfoInputs.cache
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\129.LCAOfBinaryTree.AssemblyInfo.cs
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\129.LCAOfBinaryTree.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\129.LCAOfBinaryTree.dll
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\ref\129.LCAOfBinaryTree.dll
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\129.LCAOfBinaryTree.pdb
+D:\sheanPrasad\129.LCAOfBinaryTree\129.LCAOfBinaryTree\obj\Debug\net5.0\129.LCAOfBinaryTree.genruntimeconfig.cache

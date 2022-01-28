@@ -1,0 +1,16 @@
+D:\sheanPrasad\128.PathSumii\128.PathSumii\bin\Debug\net5.0\128.PathSumii.exe
+D:\sheanPrasad\128.PathSumii\128.PathSumii\bin\Debug\net5.0\128.PathSumii.deps.json
+D:\sheanPrasad\128.PathSumii\128.PathSumii\bin\Debug\net5.0\128.PathSumii.runtimeconfig.json
+D:\sheanPrasad\128.PathSumii\128.PathSumii\bin\Debug\net5.0\128.PathSumii.runtimeconfig.dev.json
+D:\sheanPrasad\128.PathSumii\128.PathSumii\bin\Debug\net5.0\128.PathSumii.dll
+D:\sheanPrasad\128.PathSumii\128.PathSumii\bin\Debug\net5.0\ref\128.PathSumii.dll
+D:\sheanPrasad\128.PathSumii\128.PathSumii\bin\Debug\net5.0\128.PathSumii.pdb
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.csproj.AssemblyReference.cache
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.AssemblyInfoInputs.cache
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.AssemblyInfo.cs
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.dll
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\ref\128.PathSumii.dll
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.pdb
+D:\sheanPrasad\128.PathSumii\128.PathSumii\obj\Debug\net5.0\128.PathSumii.genruntimeconfig.cache
