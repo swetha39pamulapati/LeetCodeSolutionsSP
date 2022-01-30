@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "133.ValidateBinarySearch/1.0.0": {
+        "runtime": {
+          "133.ValidateBinarySearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "133.ValidateBinarySearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

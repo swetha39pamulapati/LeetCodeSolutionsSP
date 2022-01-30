@@ -1,0 +1,15 @@
+D:\sheanPrasad\135.3Sum\135.3Sum\bin\Debug\net5.0\135.3Sum.exe
+D:\sheanPrasad\135.3Sum\135.3Sum\bin\Debug\net5.0\135.3Sum.deps.json
+D:\sheanPrasad\135.3Sum\135.3Sum\bin\Debug\net5.0\135.3Sum.runtimeconfig.json
+D:\sheanPrasad\135.3Sum\135.3Sum\bin\Debug\net5.0\135.3Sum.runtimeconfig.dev.json
+D:\sheanPrasad\135.3Sum\135.3Sum\bin\Debug\net5.0\135.3Sum.dll
+D:\sheanPrasad\135.3Sum\135.3Sum\bin\Debug\net5.0\ref\135.3Sum.dll
+D:\sheanPrasad\135.3Sum\135.3Sum\bin\Debug\net5.0\135.3Sum.pdb
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\135.3Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\135.3Sum.AssemblyInfoInputs.cache
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\135.3Sum.AssemblyInfo.cs
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\135.3Sum.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\135.3Sum.dll
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\ref\135.3Sum.dll
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\135.3Sum.pdb
+D:\sheanPrasad\135.3Sum\135.3Sum\obj\Debug\net5.0\135.3Sum.genruntimeconfig.cache

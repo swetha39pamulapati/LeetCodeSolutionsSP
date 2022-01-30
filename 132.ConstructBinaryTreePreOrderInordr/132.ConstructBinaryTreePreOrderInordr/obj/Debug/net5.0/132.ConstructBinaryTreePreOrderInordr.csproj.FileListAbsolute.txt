@@ -1,0 +1,16 @@
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\bin\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.exe
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\bin\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.deps.json
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\bin\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.runtimeconfig.json
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\bin\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.runtimeconfig.dev.json
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\bin\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.dll
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\bin\Debug\net5.0\ref\132.ConstructBinaryTreePreOrderInordr.dll
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\bin\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.pdb
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.csproj.AssemblyReference.cache
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.AssemblyInfoInputs.cache
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.AssemblyInfo.cs
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.dll
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\ref\132.ConstructBinaryTreePreOrderInordr.dll
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.pdb
+D:\sheanPrasad\132.ConstructBinaryTreePreOrderInordr\132.ConstructBinaryTreePreOrderInordr\obj\Debug\net5.0\132.ConstructBinaryTreePreOrderInordr.genruntimeconfig.cache

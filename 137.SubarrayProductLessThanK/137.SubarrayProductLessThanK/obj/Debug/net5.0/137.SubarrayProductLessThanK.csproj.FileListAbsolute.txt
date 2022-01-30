@@ -1,0 +1,16 @@
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\bin\Debug\net5.0\137.SubarrayProductLessThanK.exe
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\bin\Debug\net5.0\137.SubarrayProductLessThanK.deps.json
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\bin\Debug\net5.0\137.SubarrayProductLessThanK.runtimeconfig.json
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\bin\Debug\net5.0\137.SubarrayProductLessThanK.runtimeconfig.dev.json
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\bin\Debug\net5.0\137.SubarrayProductLessThanK.dll
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\bin\Debug\net5.0\ref\137.SubarrayProductLessThanK.dll
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\bin\Debug\net5.0\137.SubarrayProductLessThanK.pdb
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.csproj.AssemblyReference.cache
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.AssemblyInfoInputs.cache
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.AssemblyInfo.cs
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.dll
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\ref\137.SubarrayProductLessThanK.dll
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.pdb
+D:\sheanPrasad\137.SubarrayProductLessThanK\137.SubarrayProductLessThanK\obj\Debug\net5.0\137.SubarrayProductLessThanK.genruntimeconfig.cache

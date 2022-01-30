@@ -1,0 +1,16 @@
+D:\sheanPrasad\138.SortColors\138.SortColors\bin\Debug\net5.0\138.SortColors.exe
+D:\sheanPrasad\138.SortColors\138.SortColors\bin\Debug\net5.0\138.SortColors.deps.json
+D:\sheanPrasad\138.SortColors\138.SortColors\bin\Debug\net5.0\138.SortColors.runtimeconfig.json
+D:\sheanPrasad\138.SortColors\138.SortColors\bin\Debug\net5.0\138.SortColors.runtimeconfig.dev.json
+D:\sheanPrasad\138.SortColors\138.SortColors\bin\Debug\net5.0\138.SortColors.dll
+D:\sheanPrasad\138.SortColors\138.SortColors\bin\Debug\net5.0\ref\138.SortColors.dll
+D:\sheanPrasad\138.SortColors\138.SortColors\bin\Debug\net5.0\138.SortColors.pdb
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.csproj.AssemblyReference.cache
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.AssemblyInfoInputs.cache
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.AssemblyInfo.cs
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.dll
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\ref\138.SortColors.dll
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.pdb
+D:\sheanPrasad\138.SortColors\138.SortColors\obj\Debug\net5.0\138.SortColors.genruntimeconfig.cache

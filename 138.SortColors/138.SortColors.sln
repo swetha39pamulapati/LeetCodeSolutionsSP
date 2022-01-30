@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "138.SortColors", "138.SortColors\138.SortColors.csproj", "{1511DEDB-F879-43F5-9232-315410360D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1511DEDB-F879-43F5-9232-315410360D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1511DEDB-F879-43F5-9232-315410360D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1511DEDB-F879-43F5-9232-315410360D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1511DEDB-F879-43F5-9232-315410360D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFA4995-E452-4E26-AD34-52A3A3731E90}
+	EndGlobalSection
+EndGlobal
