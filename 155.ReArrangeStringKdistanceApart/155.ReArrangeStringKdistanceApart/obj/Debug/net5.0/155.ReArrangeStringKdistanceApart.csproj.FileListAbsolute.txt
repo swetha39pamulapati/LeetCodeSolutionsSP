@@ -1,0 +1,16 @@
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\bin\Debug\net5.0\155.ReArrangeStringKdistanceApart.exe
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\bin\Debug\net5.0\155.ReArrangeStringKdistanceApart.deps.json
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\bin\Debug\net5.0\155.ReArrangeStringKdistanceApart.runtimeconfig.json
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\bin\Debug\net5.0\155.ReArrangeStringKdistanceApart.runtimeconfig.dev.json
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\bin\Debug\net5.0\155.ReArrangeStringKdistanceApart.dll
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\bin\Debug\net5.0\ref\155.ReArrangeStringKdistanceApart.dll
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\bin\Debug\net5.0\155.ReArrangeStringKdistanceApart.pdb
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.csproj.AssemblyReference.cache
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.AssemblyInfoInputs.cache
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.AssemblyInfo.cs
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.dll
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\ref\155.ReArrangeStringKdistanceApart.dll
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.pdb
+D:\sheanPrasad\155.ReArrangeStringKdistanceApart\155.ReArrangeStringKdistanceApart\obj\Debug\net5.0\155.ReArrangeStringKdistanceApart.genruntimeconfig.cache

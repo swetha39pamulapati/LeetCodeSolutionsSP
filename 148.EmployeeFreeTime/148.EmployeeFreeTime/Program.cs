@@ -26,7 +26,7 @@ namespace _148.EmployeeFreeTime
             {
                 ((List<Interval>)timeLine).AddRange(data);
             }
-            avails.foreach(e => ((List<Interval>)timeLine).AddRange(e));
+            avails.forEach(e => ((List<Interval>)timeLine).AddRange(e));
            timeLine.Sort(((a, b) => a.start - b.start));
 
             Interval temp = timeLine[0];

@@ -1,0 +1,15 @@
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\bin\Debug\net5.0\154.SubstringWithAllConcatenatedWords.exe
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\bin\Debug\net5.0\154.SubstringWithAllConcatenatedWords.deps.json
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\bin\Debug\net5.0\154.SubstringWithAllConcatenatedWords.runtimeconfig.json
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\bin\Debug\net5.0\154.SubstringWithAllConcatenatedWords.runtimeconfig.dev.json
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\bin\Debug\net5.0\154.SubstringWithAllConcatenatedWords.dll
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\bin\Debug\net5.0\ref\154.SubstringWithAllConcatenatedWords.dll
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\bin\Debug\net5.0\154.SubstringWithAllConcatenatedWords.pdb
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\154.SubstringWithAllConcatenatedWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\154.SubstringWithAllConcatenatedWords.AssemblyInfoInputs.cache
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\154.SubstringWithAllConcatenatedWords.AssemblyInfo.cs
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\154.SubstringWithAllConcatenatedWords.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\154.SubstringWithAllConcatenatedWords.dll
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\ref\154.SubstringWithAllConcatenatedWords.dll
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\154.SubstringWithAllConcatenatedWords.pdb
+D:\sheanPrasad\154.SubstringWithAllConcatenatedWords\154.SubstringWithAllConcatenatedWords\obj\Debug\net5.0\154.SubstringWithAllConcatenatedWords.genruntimeconfig.cache

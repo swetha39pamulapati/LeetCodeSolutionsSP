@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "159.BinaryPathSumMax/1.0.0": {
+        "runtime": {
+          "159.BinaryPathSumMax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "159.BinaryPathSumMax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

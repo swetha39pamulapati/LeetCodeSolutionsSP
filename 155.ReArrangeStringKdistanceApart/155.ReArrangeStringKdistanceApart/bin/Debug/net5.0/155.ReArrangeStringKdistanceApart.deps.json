@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "155.ReArrangeStringKdistanceApart/1.0.0": {
+        "runtime": {
+          "155.ReArrangeStringKdistanceApart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "155.ReArrangeStringKdistanceApart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

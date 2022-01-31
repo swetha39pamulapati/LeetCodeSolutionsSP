@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "152.CountUniqueCharsOfAllSubstringsofAString/1.0.0": {
+        "runtime": {
+          "152.CountUniqueCharsOfAllSubstringsofAString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "152.CountUniqueCharsOfAllSubstringsofAString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

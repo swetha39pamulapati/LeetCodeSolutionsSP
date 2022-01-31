@@ -1,0 +1,16 @@
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\bin\Debug\net5.0\157.MaxFreqStack.exe
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\bin\Debug\net5.0\157.MaxFreqStack.deps.json
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\bin\Debug\net5.0\157.MaxFreqStack.runtimeconfig.json
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\bin\Debug\net5.0\157.MaxFreqStack.runtimeconfig.dev.json
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\bin\Debug\net5.0\157.MaxFreqStack.dll
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\bin\Debug\net5.0\ref\157.MaxFreqStack.dll
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\bin\Debug\net5.0\157.MaxFreqStack.pdb
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.csproj.AssemblyReference.cache
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.AssemblyInfoInputs.cache
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.AssemblyInfo.cs
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.dll
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\ref\157.MaxFreqStack.dll
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.pdb
+D:\sheanPrasad\157.MaxFreqStack\157.MaxFreqStack\obj\Debug\net5.0\157.MaxFreqStack.genruntimeconfig.cache

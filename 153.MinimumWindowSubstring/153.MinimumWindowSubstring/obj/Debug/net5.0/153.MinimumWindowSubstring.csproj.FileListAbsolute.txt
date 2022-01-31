@@ -1,0 +1,15 @@
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\bin\Debug\net5.0\153.MinimumWindowSubstring.exe
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\bin\Debug\net5.0\153.MinimumWindowSubstring.deps.json
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\bin\Debug\net5.0\153.MinimumWindowSubstring.runtimeconfig.json
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\bin\Debug\net5.0\153.MinimumWindowSubstring.runtimeconfig.dev.json
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\bin\Debug\net5.0\153.MinimumWindowSubstring.dll
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\bin\Debug\net5.0\ref\153.MinimumWindowSubstring.dll
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\bin\Debug\net5.0\153.MinimumWindowSubstring.pdb
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\153.MinimumWindowSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\153.MinimumWindowSubstring.AssemblyInfoInputs.cache
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\153.MinimumWindowSubstring.AssemblyInfo.cs
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\153.MinimumWindowSubstring.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\153.MinimumWindowSubstring.dll
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\ref\153.MinimumWindowSubstring.dll
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\153.MinimumWindowSubstring.pdb
+D:\sheanPrasad\153.MinimumWindowSubstring\153.MinimumWindowSubstring\obj\Debug\net5.0\153.MinimumWindowSubstring.genruntimeconfig.cache

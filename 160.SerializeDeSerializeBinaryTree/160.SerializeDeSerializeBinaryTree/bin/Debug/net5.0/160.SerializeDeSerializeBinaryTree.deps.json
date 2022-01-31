@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "160.SerializeDeSerializeBinaryTree/1.0.0": {
+        "runtime": {
+          "160.SerializeDeSerializeBinaryTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "160.SerializeDeSerializeBinaryTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

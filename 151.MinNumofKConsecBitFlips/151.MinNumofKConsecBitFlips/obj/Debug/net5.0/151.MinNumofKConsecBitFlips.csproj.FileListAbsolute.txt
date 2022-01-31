@@ -1,0 +1,16 @@
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\bin\Debug\net5.0\151.MinNumofKConsecBitFlips.exe
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\bin\Debug\net5.0\151.MinNumofKConsecBitFlips.deps.json
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\bin\Debug\net5.0\151.MinNumofKConsecBitFlips.runtimeconfig.json
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\bin\Debug\net5.0\151.MinNumofKConsecBitFlips.runtimeconfig.dev.json
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\bin\Debug\net5.0\151.MinNumofKConsecBitFlips.dll
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\bin\Debug\net5.0\ref\151.MinNumofKConsecBitFlips.dll
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\bin\Debug\net5.0\151.MinNumofKConsecBitFlips.pdb
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.csproj.AssemblyReference.cache
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.AssemblyInfoInputs.cache
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.AssemblyInfo.cs
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.dll
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\ref\151.MinNumofKConsecBitFlips.dll
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.pdb
+D:\sheanPrasad\151.MinNumofKConsecBitFlips\151.MinNumofKConsecBitFlips\obj\Debug\net5.0\151.MinNumofKConsecBitFlips.genruntimeconfig.cache
