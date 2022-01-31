@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "141.MaximumXOR2Numbers/1.0.0": {
+        "runtime": {
+          "141.MaximumXOR2Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "141.MaximumXOR2Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

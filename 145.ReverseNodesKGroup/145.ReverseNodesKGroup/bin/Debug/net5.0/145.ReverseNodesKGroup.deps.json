@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "145.ReverseNodesKGroup/1.0.0": {
+        "runtime": {
+          "145.ReverseNodesKGroup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "145.ReverseNodesKGroup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

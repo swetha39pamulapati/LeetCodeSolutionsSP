@@ -1,0 +1,15 @@
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\bin\Debug\net5.0\145.ReverseNodesKGroup.exe
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\bin\Debug\net5.0\145.ReverseNodesKGroup.deps.json
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\bin\Debug\net5.0\145.ReverseNodesKGroup.runtimeconfig.json
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\bin\Debug\net5.0\145.ReverseNodesKGroup.runtimeconfig.dev.json
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\bin\Debug\net5.0\145.ReverseNodesKGroup.dll
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\bin\Debug\net5.0\ref\145.ReverseNodesKGroup.dll
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\bin\Debug\net5.0\145.ReverseNodesKGroup.pdb
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\145.ReverseNodesKGroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\145.ReverseNodesKGroup.AssemblyInfoInputs.cache
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\145.ReverseNodesKGroup.AssemblyInfo.cs
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\145.ReverseNodesKGroup.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\145.ReverseNodesKGroup.dll
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\ref\145.ReverseNodesKGroup.dll
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\145.ReverseNodesKGroup.pdb
+D:\sheanPrasad\145.ReverseNodesKGroup\145.ReverseNodesKGroup\obj\Debug\net5.0\145.ReverseNodesKGroup.genruntimeconfig.cache

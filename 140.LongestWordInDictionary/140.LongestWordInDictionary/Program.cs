@@ -37,12 +37,6 @@ namespace _140.LongestWordInDictionary
             }
 
         }
-        //private TrieNode root;
-        //public Trie()
-        //{
-        //    root = new TrieNode();
-        //}
-       
         public string LongestWord(string[] words)
         {
             var root = new TrieNode();

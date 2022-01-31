@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84.ConnectedComponentsUndirectedGraph", "84.ConnectedComponentsUndirectedGraph\84.ConnectedComponentsUndirectedGraph.csproj", "{AFD2A02C-8D8D-4E93-9C90-2D8C432D80EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD2A02C-8D8D-4E93-9C90-2D8C432D80EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD2A02C-8D8D-4E93-9C90-2D8C432D80EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD2A02C-8D8D-4E93-9C90-2D8C432D80EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD2A02C-8D8D-4E93-9C90-2D8C432D80EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD3F73B-17F6-4FB0-AA1D-C50305FA678F}
+	EndGlobalSection
+EndGlobal

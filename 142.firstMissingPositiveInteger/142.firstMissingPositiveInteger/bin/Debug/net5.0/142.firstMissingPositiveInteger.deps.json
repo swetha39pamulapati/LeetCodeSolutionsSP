@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "142.firstMissingPositiveInteger/1.0.0": {
+        "runtime": {
+          "142.firstMissingPositiveInteger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "142.firstMissingPositiveInteger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
