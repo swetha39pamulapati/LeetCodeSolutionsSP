@@ -1,0 +1,16 @@
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\bin\Debug\net5.0\165.ConcatenatedWords.exe
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\bin\Debug\net5.0\165.ConcatenatedWords.deps.json
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\bin\Debug\net5.0\165.ConcatenatedWords.runtimeconfig.json
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\bin\Debug\net5.0\165.ConcatenatedWords.runtimeconfig.dev.json
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\bin\Debug\net5.0\165.ConcatenatedWords.dll
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\bin\Debug\net5.0\ref\165.ConcatenatedWords.dll
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\bin\Debug\net5.0\165.ConcatenatedWords.pdb
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.csproj.AssemblyReference.cache
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.AssemblyInfoInputs.cache
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.AssemblyInfo.cs
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.dll
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\ref\165.ConcatenatedWords.dll
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.pdb
+D:\sheanPrasad\165.ConcatenatedWords\165.ConcatenatedWords\obj\Debug\net5.0\165.ConcatenatedWords.genruntimeconfig.cache

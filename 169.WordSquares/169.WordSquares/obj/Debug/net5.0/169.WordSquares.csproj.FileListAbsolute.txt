@@ -1,0 +1,15 @@
+D:\sheanPrasad\169.WordSquares\169.WordSquares\bin\Debug\net5.0\169.WordSquares.exe
+D:\sheanPrasad\169.WordSquares\169.WordSquares\bin\Debug\net5.0\169.WordSquares.deps.json
+D:\sheanPrasad\169.WordSquares\169.WordSquares\bin\Debug\net5.0\169.WordSquares.runtimeconfig.json
+D:\sheanPrasad\169.WordSquares\169.WordSquares\bin\Debug\net5.0\169.WordSquares.runtimeconfig.dev.json
+D:\sheanPrasad\169.WordSquares\169.WordSquares\bin\Debug\net5.0\169.WordSquares.dll
+D:\sheanPrasad\169.WordSquares\169.WordSquares\bin\Debug\net5.0\ref\169.WordSquares.dll
+D:\sheanPrasad\169.WordSquares\169.WordSquares\bin\Debug\net5.0\169.WordSquares.pdb
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\169.WordSquares.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\169.WordSquares.AssemblyInfoInputs.cache
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\169.WordSquares.AssemblyInfo.cs
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\169.WordSquares.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\169.WordSquares.dll
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\ref\169.WordSquares.dll
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\169.WordSquares.pdb
+D:\sheanPrasad\169.WordSquares\169.WordSquares\obj\Debug\net5.0\169.WordSquares.genruntimeconfig.cache

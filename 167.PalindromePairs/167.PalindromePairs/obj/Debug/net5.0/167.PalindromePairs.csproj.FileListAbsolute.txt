@@ -1,0 +1,15 @@
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\bin\Debug\net5.0\167.PalindromePairs.exe
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\bin\Debug\net5.0\167.PalindromePairs.deps.json
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\bin\Debug\net5.0\167.PalindromePairs.runtimeconfig.json
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\bin\Debug\net5.0\167.PalindromePairs.runtimeconfig.dev.json
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\bin\Debug\net5.0\167.PalindromePairs.dll
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\bin\Debug\net5.0\ref\167.PalindromePairs.dll
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\bin\Debug\net5.0\167.PalindromePairs.pdb
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\167.PalindromePairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\167.PalindromePairs.AssemblyInfoInputs.cache
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\167.PalindromePairs.AssemblyInfo.cs
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\167.PalindromePairs.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\167.PalindromePairs.dll
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\ref\167.PalindromePairs.dll
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\167.PalindromePairs.pdb
+D:\sheanPrasad\167.PalindromePairs\167.PalindromePairs\obj\Debug\net5.0\167.PalindromePairs.genruntimeconfig.cache

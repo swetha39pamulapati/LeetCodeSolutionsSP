@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "162.MedianFromDataStream/1.0.0": {
+        "runtime": {
+          "162.MedianFromDataStream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "162.MedianFromDataStream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

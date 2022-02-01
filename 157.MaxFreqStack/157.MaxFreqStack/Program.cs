@@ -24,7 +24,7 @@ namespace _157.MaxFreqStack
                 freq.Add(x, 1);
 
             maxFreq = Math.Max(maxFreq, freq[x]);
-
+            
             if (maxFreqs.ContainsKey(freq[x]))
                 maxFreqs[freq[x]].Push(x);
             else

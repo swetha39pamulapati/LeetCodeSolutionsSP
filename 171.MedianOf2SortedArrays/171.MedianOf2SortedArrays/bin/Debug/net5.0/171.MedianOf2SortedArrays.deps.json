@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "171.MedianOf2SortedArrays/1.0.0": {
+        "runtime": {
+          "171.MedianOf2SortedArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "171.MedianOf2SortedArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

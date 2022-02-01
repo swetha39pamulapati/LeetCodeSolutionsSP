@@ -1,0 +1,16 @@
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\bin\Debug\net5.0\161.WordSearchii.exe
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\bin\Debug\net5.0\161.WordSearchii.deps.json
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\bin\Debug\net5.0\161.WordSearchii.runtimeconfig.json
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\bin\Debug\net5.0\161.WordSearchii.runtimeconfig.dev.json
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\bin\Debug\net5.0\161.WordSearchii.dll
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\bin\Debug\net5.0\ref\161.WordSearchii.dll
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\bin\Debug\net5.0\161.WordSearchii.pdb
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.csproj.AssemblyReference.cache
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.AssemblyInfoInputs.cache
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.AssemblyInfo.cs
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.dll
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\ref\161.WordSearchii.dll
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.pdb
+D:\sheanPrasad\161.WordSearchii\161.WordSearchii\obj\Debug\net5.0\161.WordSearchii.genruntimeconfig.cache

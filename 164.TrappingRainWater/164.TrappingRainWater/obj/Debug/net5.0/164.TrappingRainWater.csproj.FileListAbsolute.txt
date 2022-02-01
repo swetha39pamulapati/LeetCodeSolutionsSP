@@ -1,0 +1,16 @@
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\bin\Debug\net5.0\164.TrappingRainWater.exe
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\bin\Debug\net5.0\164.TrappingRainWater.deps.json
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\bin\Debug\net5.0\164.TrappingRainWater.runtimeconfig.json
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\bin\Debug\net5.0\164.TrappingRainWater.runtimeconfig.dev.json
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\bin\Debug\net5.0\164.TrappingRainWater.dll
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\bin\Debug\net5.0\ref\164.TrappingRainWater.dll
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\bin\Debug\net5.0\164.TrappingRainWater.pdb
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.csproj.AssemblyReference.cache
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.AssemblyInfoInputs.cache
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.AssemblyInfo.cs
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.dll
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\ref\164.TrappingRainWater.dll
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.pdb
+D:\sheanPrasad\164.TrappingRainWater\164.TrappingRainWater\obj\Debug\net5.0\164.TrappingRainWater.genruntimeconfig.cache

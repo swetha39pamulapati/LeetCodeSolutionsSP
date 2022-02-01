@@ -1,0 +1,16 @@
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\bin\Debug\net5.0\162.MedianFromDataStream.exe
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\bin\Debug\net5.0\162.MedianFromDataStream.deps.json
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\bin\Debug\net5.0\162.MedianFromDataStream.runtimeconfig.json
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\bin\Debug\net5.0\162.MedianFromDataStream.runtimeconfig.dev.json
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\bin\Debug\net5.0\162.MedianFromDataStream.dll
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\bin\Debug\net5.0\ref\162.MedianFromDataStream.dll
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\bin\Debug\net5.0\162.MedianFromDataStream.pdb
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.csproj.AssemblyReference.cache
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.AssemblyInfoInputs.cache
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.AssemblyInfo.cs
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.dll
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\ref\162.MedianFromDataStream.dll
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.pdb
+D:\sheanPrasad\162.MedianFromDataStream\162.MedianFromDataStream\obj\Debug\net5.0\162.MedianFromDataStream.genruntimeconfig.cache

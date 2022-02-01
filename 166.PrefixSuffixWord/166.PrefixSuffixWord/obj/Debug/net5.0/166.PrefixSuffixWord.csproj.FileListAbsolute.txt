@@ -1,0 +1,15 @@
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\bin\Debug\net5.0\166.PrefixSuffixWord.exe
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\bin\Debug\net5.0\166.PrefixSuffixWord.deps.json
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\bin\Debug\net5.0\166.PrefixSuffixWord.runtimeconfig.json
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\bin\Debug\net5.0\166.PrefixSuffixWord.runtimeconfig.dev.json
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\bin\Debug\net5.0\166.PrefixSuffixWord.dll
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\bin\Debug\net5.0\ref\166.PrefixSuffixWord.dll
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\bin\Debug\net5.0\166.PrefixSuffixWord.pdb
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\166.PrefixSuffixWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\166.PrefixSuffixWord.AssemblyInfoInputs.cache
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\166.PrefixSuffixWord.AssemblyInfo.cs
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\166.PrefixSuffixWord.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\166.PrefixSuffixWord.dll
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\ref\166.PrefixSuffixWord.dll
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\166.PrefixSuffixWord.pdb
+D:\sheanPrasad\166.PrefixSuffixWord\166.PrefixSuffixWord\obj\Debug\net5.0\166.PrefixSuffixWord.genruntimeconfig.cache
