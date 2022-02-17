@@ -15,15 +15,15 @@ namespace _6.BuySellStock
                 {
                     min = nums[i];
                 }
-                else if (nums[i] - min > maxProfit)
-                    maxProfit = nums[i] - min;
+                else
+                    maxProfit = Math.Max(maxProfit, nums[i] - min);
 
             }
             return maxProfit;
         }
         static void Main(string[] args)
         {
-            int[] arr = { 7, 1, 5, 3, 6, 12 };
+            int[] arr = { 7, 1, 5, 3, 6, 4 };
          int data =    buySellStock(arr);
             Console.WriteLine(data);
         }

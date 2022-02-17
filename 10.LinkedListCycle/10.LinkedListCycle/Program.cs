@@ -27,16 +27,17 @@ namespace _10.LinkedListCycle
             }
             public bool hasCycle(Node head)
             {
-                Node start = head;
-                Node end = head.next;
                 if (head == null || head.next == null)
                     return false;
-                while (start != end)
+                Node slow = head;
+                Node fast = head.next;
+
+                while (slow != fast)
                 {
-                    if (end == null || end.next == null)
+                    if (fast == null || fast.next == null)
                         return false;
-                    start = start.next;
-                    end = end.next.next;
+                    slow = slow.next;
+                    fast = fast.next.next;
 
                 }
                 return true;

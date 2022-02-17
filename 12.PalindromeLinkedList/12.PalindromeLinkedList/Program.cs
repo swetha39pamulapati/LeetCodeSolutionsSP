@@ -24,9 +24,6 @@ namespace _12.PalindromeLinkedList
                 fast = fast.next.next;
                 slow = slow.next;
             }
-            //if (fast != null)
-            //    slow = slow.next;
-
             slow = reverse(slow);
             fast = head;
             while(slow!= null)
@@ -41,16 +38,13 @@ namespace _12.PalindromeLinkedList
         private Node reverse(Node head)
         {
             Node prev = null;
-            Node next = null;
-            Node curr = head;
-            while (curr != null)
+            while (head != null)
             {
-                next = curr.next;
-                curr.next = prev;
-                prev = curr;
-                curr = next;
+                Node nextNode = head.next;
+                head.next = prev;
+                prev = head;
+                head = nextNode;
             }
-
             return prev;
         }
         static void Main(string[] args)

@@ -16,18 +16,23 @@ namespace _13.RemoveValueLinkedList
         }
         public Node removeValue(Node head, int val)
         {
-            var item = head;
-            while (item != null && item.value == val)
-                item = item.next;
-           Node result = item;
-
-            while (item != null)
+            while (head != null && head.value == val)
             {
-                while (item.next != null && item.next.value == val)
-                    item.next = item.next.next;
-                item = item.next;
+                head = head.next;
             }
-            return result;
+            Node currentNode = head;
+            while(currentNode != null && currentNode.next != null)
+            {
+                if(currentNode.next.value == val)
+                {
+                    currentNode.next = currentNode.next.next;
+                }
+                else
+                {
+                    currentNode = currentNode.next;
+                }
+            }
+            return head;
 
 
         }
@@ -36,12 +41,12 @@ namespace _13.RemoveValueLinkedList
             Program p = new Program();
             Node head = new Node(1);
             head.next = new Node(2);
-            head.next.next = new Node(3);
+            head.next.next = new Node(6);
             head.next.next.next = new Node(4);
             head.next.next.next.next = new Node(5);
-            head.next.next.next.next.next = new Node(6);
+            head.next.next.next.next.next = new Node(3);
             Node currentNode = head;
-            Node data = p.removeValue(head,4);
+            Node data = p.removeValue(head,6);
             if (data == null)
                 Console.WriteLine("The list is empty");
             else { 

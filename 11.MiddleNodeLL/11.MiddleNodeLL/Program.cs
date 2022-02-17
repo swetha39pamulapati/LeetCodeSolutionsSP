@@ -16,18 +16,19 @@ namespace _11.MiddleNodeLL
             }
         public Node middleNode(Node head)
         {
-            Node start = head;
-            Node end = head;
-            if(start == null || end == null)
-            {
+            if (head == null)
                 return null;
-            }
-            while (end!= null && end.next != null)
+
+            Node fast = head;
+           Node slow = head;
+
+            while (fast != null && fast.next != null)
             {
-                start = start.next;
-                end = end.next.next;
+                fast = fast.next.next;
+                slow = slow.next;
             }
-            return start;
+
+            return slow;
 
         }
 
@@ -43,6 +44,7 @@ namespace _11.MiddleNodeLL
             head.next.next.next.next.next= new Node(6);
             Node currentNode = head;
            Node data =   list.middleNode(head);
+            Console.WriteLine(data.value + " ");
             while (data!= null)
             {
                 Console.Write( data.value + " ");

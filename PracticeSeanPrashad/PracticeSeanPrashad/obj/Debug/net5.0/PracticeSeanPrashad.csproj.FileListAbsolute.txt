@@ -1,0 +1,16 @@
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\bin\Debug\net5.0\PracticeSeanPrashad.exe
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\bin\Debug\net5.0\PracticeSeanPrashad.deps.json
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\bin\Debug\net5.0\PracticeSeanPrashad.runtimeconfig.json
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\bin\Debug\net5.0\PracticeSeanPrashad.runtimeconfig.dev.json
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\bin\Debug\net5.0\PracticeSeanPrashad.dll
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\bin\Debug\net5.0\ref\PracticeSeanPrashad.dll
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\bin\Debug\net5.0\PracticeSeanPrashad.pdb
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.csproj.AssemblyReference.cache
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.AssemblyInfoInputs.cache
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.AssemblyInfo.cs
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.dll
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\ref\PracticeSeanPrashad.dll
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.pdb
+D:\sheanPrasad\PracticeSeanPrashad\PracticeSeanPrashad\obj\Debug\net5.0\PracticeSeanPrashad.genruntimeconfig.cache

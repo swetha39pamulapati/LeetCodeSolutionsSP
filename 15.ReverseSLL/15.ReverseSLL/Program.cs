@@ -16,11 +16,20 @@ namespace _15.ReverseSLL
         }
         public Node ReverseList(Node head)
         {
+            //Node prev = null;
+            //while(head != null)
+            //{
+            //    Node next_node = head.next;
+            //    head.next = prev;
+            //    prev = head;
+            //    head =next_node;
+            //}
+            //return prev;
             if (head == null)
                 return head;
             Node tempNode = head;
             Node prevNode = head;
-           Node currentNode = head.next;
+            Node currentNode = head.next;
             prevNode.next = null;
             while (currentNode != null)
             {

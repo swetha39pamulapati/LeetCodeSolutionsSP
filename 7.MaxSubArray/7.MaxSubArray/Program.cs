@@ -12,11 +12,10 @@ namespace _7.MaxSubArray
             // Kadane's algorithm
             int interval = 0;
 
-            for (int i = 0; i < nums.Length; ++i)
+            for (int i = 0; i < nums.Length; i++)
             {
-                interval += nums[i];
-                ans = Math.Max(interval, ans);
-                interval = Math.Max(0, interval);
+                interval = Math.Max(nums[i], interval + nums[i]);
+                ans = Math.Max(ans, interval);
             }
             return ans;
         
@@ -25,7 +24,7 @@ namespace _7.MaxSubArray
 
         static void Main(string[] args)
         {
-            int[] arr = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
+            int[] arr = { 5, 4, -1, 7, 8 };
             
            int data = maxSubArray(arr);
             Console.WriteLine(data);

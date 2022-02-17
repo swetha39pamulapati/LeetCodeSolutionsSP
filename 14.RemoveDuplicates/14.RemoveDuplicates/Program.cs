@@ -16,23 +16,15 @@ namespace _14.RemoveDuplicates
         }
         public Node removeDuplicates( Node head)
         {
-            if (head == null || head.next == null)
-                return head;
-            Node p1 = head;
-            Node p2 = head.next;
-            while(p2 != null)
+            Node currentNode = head;
+            while (currentNode != null && currentNode.next != null)
             {
-                if(p1.value == p2.value)
+                if (currentNode.next.value == currentNode.value)
                 {
-                    p1.next = p2.next;
-                    p2.next = null;
-                    p2 = p1.next;
+                    currentNode.next = currentNode.next.next;
                 }
                 else
-                {
-                    p1 = p2;
-                    p2 = (p2 != null) ? p2.next : null;
-                }
+                    currentNode = currentNode.next;
             }
             return head;
         }

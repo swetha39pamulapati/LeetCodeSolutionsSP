@@ -15,35 +15,36 @@ namespace _16.Merge2SortedLists
         }
         public Node mergeSortedLists(Node list1, Node list2)
         {
-            if (list1 == null)
-                return list2;
-            if (list2 == null)
-                return list1;
-            Node newHead = new Node(0);
-            var newList = newHead;
-            while (list1!= null  && list2 != null)
+            Node temp = new Node(0);
+            Node currentNode = temp;
+            while (list1 != null && list2 != null)
             {
-                if(list1.value >= list2.value)
+                if (list1.value < list2.value)
                 {
-                    newList.next = list2;
-                    list2 = list2.next;
-
+                    currentNode.next = list1;
+                    list1 = list1.next;
                 }
                 else
                 {
-                    newList.next = list1;
-                    list1 = list1.next;
+                    currentNode.next = list2;
+                    list2 = list2.next;
                 }
-                newList = newList.next;
+                currentNode = currentNode.next;
             }
-            //Add Remaining elements
-            if (list1 != null) 
-                newList.next = list1;
-            if (list2 != null) 
-                newList.next = list2;
-            return newHead.next;
+            if (list1 != null)
+            {
+                currentNode.next = list1;
+                list1 = list1.next;
+            }
+            if (list2 != null)
+            {
+                currentNode.next = list2;
+                list2 = list2.next;
+            }
+            return temp.next;
+
         }
-            static void Main(string[] args)
+        static void Main(string[] args)
         {
             Program p = new Program();
             Node head = new Node(1);

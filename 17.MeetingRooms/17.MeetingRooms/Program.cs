@@ -25,13 +25,11 @@ namespace _17.MeetingRooms
             }
             Array.Sort(starts);
             Array.Sort(ends);
-           for(int i = 1; i<starts.Length; i++)
+           for(int i = 0; i<starts.Length-1; i++)
             {
-                //i=0; for this the array out of bound exception occurs so take from 1 and compare with previous.
-                //if (starts[i + 1] < ends[i])
-                //    return false;
-                if (ends[i - 1] > starts[i])
+                if (starts[i + 1] < ends[i])
                     return false;
+                
             }
             return true;
         }
@@ -40,12 +38,12 @@ namespace _17.MeetingRooms
             Program p = new Program();
             Interval[] data = new Interval[]
             {
-               //new Interval(0,30),
-               // new Interval(5,10),
-               //  new Interval(15,20),
+               new Interval(0,30),
+                new Interval(5,10),
+                 new Interval(15,20),
 
-                new Interval(5,8),
-                new Interval(9,15),
+                //new Interval(5,8),
+                //new Interval(9,15),
 
             };
 
