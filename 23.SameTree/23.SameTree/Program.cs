@@ -32,15 +32,16 @@ namespace _23.SameTree
         static void Main(string[] args)
         {
             Node root = null;
-            root = newNode(3);
-            root.left = newNode(20);
-            root.right = newNode(9);
+            root = newNode(1);
+            root.left = newNode(2);
+            root.right = newNode(3);
 
             Node root1 = null;
-            root1 = newNode(3);
-            root1.left = newNode(9);
-            root1.right = newNode(20);
+            root1 = newNode(1);
+            root1.left = newNode(2);
+            root1.right = newNode(3);
            Console.WriteLine( sameTree(root, root1));
+        
         }
     }
 }

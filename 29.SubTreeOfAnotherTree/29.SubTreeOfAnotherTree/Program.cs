@@ -17,22 +17,26 @@ namespace _29.SubTreeOfAnotherTree
             temp.right = null;
             return temp;
         }
-        static bool subTreeOrNot(Node root, Node subRoot)
+        public static bool IsSubtree(Node root,Node subRoot)
         {
-            if (root != null)
+            if (root == null)
+                return false;
+            if (root.val == subRoot.val)
             {
-                return IsSame(root, subRoot) || subTreeOrNot(root.left, subRoot) || subTreeOrNot(root.right, subRoot);
+                if (IsSame(root, subRoot))
+                    return true;
             }
-            return subRoot == null;
-        }
-        private static bool IsSame(Node left, Node right)
-        {
-            if (left == null && right == null) return true;
-            if (left == null || right == null) return false;
 
-            return left.val == right.val
-                    && IsSame(left.left, right.left)
-                    && IsSame(left.right, right.right);
+            return (IsSubtree(root.left, subRoot) || IsSubtree(root.right, subRoot));
+        }
+
+        private static bool IsSame(Node s, Node t)
+        {
+            if (s == null && t == null)
+                return true;
+            if (s != null && t == null || t != null && s == null || s.val != t.val)
+                return false;
+            return (IsSame(s.left, t.left) && IsSame(s.right, t.right));
         }
         static void Main(string[] args)
         {
@@ -47,7 +51,7 @@ namespace _29.SubTreeOfAnotherTree
             root1 = newNode(4);
             root1.left = newNode(1);
             root1.right = newNode(2);
-            Console.WriteLine(subTreeOrNot(root, root1));
+            Console.WriteLine(IsSubtree(root, root1));
         }
     }
 }

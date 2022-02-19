@@ -2,6 +2,7 @@
 
 namespace _25.DiameterOfTree
 {
+    //https://www.youtube.com/watch?v=DcDjYOsjSlg
     class Node
     {
         public int val;
@@ -18,29 +19,28 @@ namespace _25.DiameterOfTree
             temp.right = null;
             return temp;
         }
-        static int DFS(Node root)
-        {
-            if (root.left == null && root.right == null)
-                return 0;
-            var leftLength = 0;
-            if (root.left != null)
-                leftLength = DFS(root.left) + 1;
-
-            var rightLength = 0;
-            if (root.right != null)
-                rightLength = DFS(root.right) + 1;
-            var diameter = leftLength + rightLength;
-            maxDiameter = Math.Max(diameter, maxDiameter);
-            return Math.Max(leftLength, rightLength);
-
-        }
         static int DiameterOfTree(Node root)
         {
-            if (root == null)
-                return 0;
+
             DFS(root);
             return maxDiameter;
         }
+        static int DFS(Node node)
+        {
+            if (node == null)
+            {
+                return 0;
+            }
+
+            int leftLength = DFS(node.left);
+            int rightLength = DFS(node.right);
+
+            var diameter = leftLength + rightLength;
+            maxDiameter = Math.Max(maxDiameter, diameter);
+            return Math.Max(leftLength, rightLength) + 1;
+
+        }
+        
         static void Main(string[] args)
         {
             Node root = null;

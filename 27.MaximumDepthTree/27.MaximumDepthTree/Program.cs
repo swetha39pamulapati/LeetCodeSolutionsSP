@@ -21,7 +21,11 @@ namespace _27.MaximumDepthTree
         {
             if (root == null)
                 return 0;
-            return Math.Max(maximumDepthTree(root.left), maximumDepthTree(root.right)) + 1;
+            if (root.left == null && root.right == null)
+                return 1;
+            int left = root.left != null ? maximumDepthTree(root.left) : int.MinValue;
+            int right = root.right != null ? maximumDepthTree(root.right) : int.MinValue;
+            return Math.Max(left, right) + 1;
         }
         static void Main(string[] args)
         {

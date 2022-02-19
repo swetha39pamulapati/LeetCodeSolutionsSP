@@ -30,10 +30,10 @@ namespace _24.PathSum
         }
         static void Main(string[] args)
         {
-            Node root1 = null;
-            root1 = newNode(1);
-            root1.left = newNode(2);
-            root1.right = newNode(3);
+            //Node root1 = null;
+            //root1 = newNode(1);
+            //root1.left = newNode(2);
+            //root1.right = newNode(3);
 
             Node root = null;
             root = newNode(5);
@@ -46,8 +46,9 @@ namespace _24.PathSum
             root.left.left.right = newNode(2);
             root.right.right.right = newNode(1);
 
-           Console.WriteLine( HasPathSum(root1, 5));
+           //Console.WriteLine( HasPathSum(root1, 5));
             Console.WriteLine(HasPathSum(root, 22));
         }
     }
 }
+

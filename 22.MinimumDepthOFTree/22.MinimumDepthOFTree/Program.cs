@@ -21,14 +21,14 @@ namespace _22.MinimumDepthOFTree
         {
             if (root == null)
                 return 0;
-            if (root.left != null)
-                return MinDepth(root.left) +1;
-            if (root.right != null)
-                return MinDepth(root.right) + 1;
-                    
-            return Math.Min(MinDepth(root.left), MinDepth(root.right)) + 1; ;
+            if (root.left == null && root.right == null)
+                return 1;
+            int left = root.left != null ? MinDepth(root.left) : int.MaxValue;
+            int right = root.right != null ? MinDepth(root.right) : int.MaxValue;
+            return Math.Min(left, right) + 1;
         }
-            static void Main(string[] args)
+        static void Main(string[] args)
+
         {
             Node root = null;
             root = newNode(3);

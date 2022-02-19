@@ -22,28 +22,29 @@ namespace _21.CreateAverageLevelTree
         public static IList<double> averageOfLevels(Node root)
         {
 
-            List<double> res = new List<double>();
             if (root == null)
-                return res;
+                return null;
+            List<double> res = new List<double>();
             Queue<Node> queue = new Queue<Node>();
             queue.Enqueue(root);
             while (queue.Count > 0)
             {
                 double sum = 0;
                 int size = queue.Count;
-                for (int i = 0; i < size; i++)
+                for(int i = 0; i<size; i++)
                 {
                     var curr = queue.Dequeue();
                     sum += curr.val;
-
                     if (curr.left != null)
                         queue.Enqueue(curr.left);
                     if (curr.right != null)
                         queue.Enqueue(curr.right);
                 }
                 res.Add(sum / size);
+
             }
-                return res;
+            return res;
+
         }
         static void Main(string[] args)
         {
