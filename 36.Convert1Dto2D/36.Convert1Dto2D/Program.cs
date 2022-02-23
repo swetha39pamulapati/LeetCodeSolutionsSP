@@ -6,26 +6,19 @@ namespace _36.Convert1Dto2D
     {
         public static int[][] Construct2DArray(int[] original, int m, int n)
         {
-            int[][] result = new int[m][];
-            int len = original.Length;
-            if (len != m * n)
+            if (m * n != original.Length)
                 return new int[0][];
 
-            int index = 0;
-            int i = 0;
-            while (i < m)
-            {
-                int j = 0;
-                result[i] = new int[n];
-                while (j < n)
-                {
-                    result[i][j++] = original[index++];
-                }
+            int[][] res = new int[m][];
+            for (int i = 0; i < m; i++)
+                res[i] = new int[n];
 
-                i++;
+            for (int i = 0; i < original.Length; i++)
+            {
+                res[i / n][i % n] = original[i];
             }
 
-            return result;
+            return res;
         }
         static void Main(string[] args)
         {

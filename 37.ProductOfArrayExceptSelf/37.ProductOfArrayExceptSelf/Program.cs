@@ -28,7 +28,7 @@ namespace _37.ProductOfArrayExceptSelf
         }
         static void Main(string[] args)
         {
-            int[] arr = { 1, 2, 3, 4 };
+            int[] arr = {  2, 3, 4 };
             int[] result = ProductExceptSelf(arr);
             for(int i = 0; i<result.Length; i++)
             {

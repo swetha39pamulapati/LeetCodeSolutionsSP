@@ -31,7 +31,8 @@ namespace _51.CombinationSum
         }
         static void Main(string[] args)
         {
-            int[] nums = {7, 2, 3, 6, };
+            int[] nums = {2, 3, 6,7 };
+
             IList<IList<int>> result = CombinationSum(nums,7);
             Console.WriteLine(result.Count);
         }

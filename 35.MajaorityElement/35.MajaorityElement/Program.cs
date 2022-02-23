@@ -25,7 +25,7 @@ namespace _35.MajaorityElement
         }
         static void Main(string[] args)
         {
-            int[] nums = { 2, 2, 1, 1, 1, 2, 2 };
+            int[] nums = { 2, 2, 6, 1, 1, 2 };
             Console.WriteLine(MajorityElement(nums));
         }
     }

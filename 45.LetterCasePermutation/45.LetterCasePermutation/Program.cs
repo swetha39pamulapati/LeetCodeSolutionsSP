@@ -21,7 +21,7 @@ namespace _45.LetterCasePermutation
                 if (char.IsNumber(arr[i]))
                     continue;
                 //deep copy - smart tip to make a copy of array using C#
-                var next = arr.ToList().ToArray();
+                var next = arr.ToArray();
                 var current = arr[i];
                  if(char.IsUpper(current))
             {

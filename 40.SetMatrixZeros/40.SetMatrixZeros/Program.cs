@@ -6,31 +6,49 @@ namespace _40.SetMatrixZeros
     {
         public static void SetZeroes(int[][] matrix)
         {
-            bool[] row = new bool[ matrix.Length];
-            bool[] column = new bool[matrix[0].Length];
-           for(int r = 0; r< matrix.Length; r++)
+
+            int rows = matrix.GetLength(0);
+            int cols = matrix[0].GetLength(0);
+
+            bool[] markedRows = new bool[rows];
+            bool[] markedCols = new bool[cols];
+
+            for (int i = 0; i < rows; i++)
             {
-                for(int c = 0; c< matrix[0].Length; c++)
+                for (int j = 0; j < cols; j++)
                 {
-                    if (matrix[r][c] == 0)
-                        row[r] = true;
-                    column[c] = true;
-                }
-            }
-            for (int r = 0; r < matrix.Length; r++)
-            {
-                for (int c = 0; c < matrix[0].Length; c++)
-                {
-                    //if(row[r]&& column[c]) { 
-                    if((row[r] && column[c]) || (row[c]&& column[r]))
+                    if (matrix[i][j] == 0)
                     {
-                        matrix[r][c] = 0;
+                        markedRows[i] = true;
+                        markedCols[j] = true;
                     }
-                    //}
                 }
             }
 
+            for (int i = 0; i < markedRows.Length; i++)
+            {
+                if (markedRows[i])
+                {
+                    for (int j = 0; j < cols; j++)
+                    {
+                        matrix[i][j] = 0;
+                    }
                 }
+            }
+
+            for (int i = 0; i < markedCols.Length; i++)
+            {
+                if (markedCols[i])
+                {
+                    for (int j = 0; j < rows; j++)
+                    {
+                        matrix[j][i] = 0;
+                    }
+                }
+            }
+
+
+        }
         static void PrintMatrix(int[][] matrix)
         {
             for (int i = 0; i < matrix.Length; i++)
