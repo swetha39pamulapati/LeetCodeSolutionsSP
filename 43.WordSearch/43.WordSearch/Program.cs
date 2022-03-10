@@ -23,6 +23,7 @@ namespace _43.WordSearch
            return false;
         }
         private static bool searchWord(int i, int j,char[][] board,string word,bool[,] visited,int index)
+        
         {
             if (index == word.Length)
                 return true;
@@ -31,9 +32,9 @@ namespace _43.WordSearch
             visited[i, j] = true;
             //4 directions top bottom left, right
             if(searchWord(i+1, j ,board,word, visited, index +1) ||
-                searchWord(i-1 , j, board, word, visited, index + 1) ||
-                searchWord(i , j+1, board, word, visited, index + 1)||
-                searchWord(i , j-1, board, word, visited, index + 1)
+                searchWord(i-1, j, board, word, visited, index + 1) ||
+                searchWord(i, j+1, board, word, visited, index + 1)||
+                searchWord(i, j-1, board, word, visited, index + 1)
                     )
             {
                 return true;
@@ -55,21 +56,21 @@ namespace _43.WordSearch
         }
         static void Main(string[] args)
         {
-            char[][] matrix = new char[2][]
+            char[][] matrix = new char[3][]
             {
-                //new char[]{ 'A', 'B', 'C','E' },
-                // new char[]{'S','F','C','S' },
-                //  new char[]{ 'A','D','E','E' },
+                new char[]{ 'A', 'B', 'C','E' },
+                 new char[]{'S','F','C','S' },
+                  new char[]{ 'A','D','E','E' },
 
 
-                   new char[]{ 'A', 'B' },
-                 new char[]{'C','D' },
+                 //  new char[]{ 'A', 'B' },
+                 //new char[]{'C','D' },
                   
 
 
             };
             PrintMatrix(matrix);
-        bool result =     Exist(matrix, "CDBA");
+        bool result =     Exist(matrix, "ABCCED");
             Console.WriteLine(result);
         }
     }

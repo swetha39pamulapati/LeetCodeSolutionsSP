@@ -30,7 +30,7 @@ namespace _54.generateParanthesis
             static void Main(string[] args)
         {
             Program p = new Program();
-            IList<string> result = p.GenerateParenthesis(3);
+            IList<string> result = p.GenerateParenthesis(2);
             foreach (string i in result)
             {
                 Console.Write(i + " ");

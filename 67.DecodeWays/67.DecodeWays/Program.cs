@@ -27,7 +27,7 @@ namespace _67.DecodeWays
         static void Main(string[] args)
         {
             Program p = new Program();
-          int data =   p.NumDecodings("226");
+          int data =   p.NumDecodings("12");
             Console.WriteLine(data);
         }
     }

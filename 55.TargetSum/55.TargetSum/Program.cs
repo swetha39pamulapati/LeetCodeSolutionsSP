@@ -5,26 +5,28 @@ namespace _55.TargetSum
 {
     class Program
     {
+        
         int result = 0;
-        public int FindTargetSumWays(int[] nums, int S)
+        public int FindTargetSumWays(int[] nums, int target)
         {
-            if (nums.Length == 0)
+            if (nums == null || nums.Length == 0)
                 return result;
-            helper(nums, 0, S);
+            backtrack(nums, 0, 0, target);
             return result;
+
         }
-        private void helper(int[] nums, int start, int target)
+        private void backtrack(int[] nums, int start, int currSum, int target)
         {
-            if (start == nums.Length && target == 0)
+            if (start == nums.Length)
             {
-                result++;
+                if (currSum == target)
+                    result++;
                 return;
             }
             if (start >= nums.Length)
                 return;
-
-            helper(nums, start + 1, target - nums[start]);
-            helper(nums, start + 1, target + nums[start]);
+            backtrack(nums, start + 1, currSum - nums[start], target);
+            backtrack(nums, start + 1, currSum + nums[start], target);
         }
         static void Main(string[] args)
         {

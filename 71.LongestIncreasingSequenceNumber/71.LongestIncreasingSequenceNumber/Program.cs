@@ -9,13 +9,13 @@ namespace _71.LongestIncreasingSequenceNumber
         public int FindNumberOfLIS(int[] nums)
         {
             if (null == nums || nums.Length == 0) return 0;
-            int[] lengthOfLisAtIndex = new int[nums.Length];   //Length of the Longest Increasing Subsequence which ends with nums[i].
-            int[] numberOfLisAtIndex = new int[nums.Length];   //Number of the Longest Increasing Subsequence which ends with nums[i].
+            int[] len = new int[nums.Length];   //Length of the Longest Increasing Subsequence which ends with nums[i].
+            int[] count = new int[nums.Length];   //Number of the Longest Increasing Subsequence which ends with nums[i].
 
             for (int i = 0; i < nums.Length; i++)
             {
-                lengthOfLisAtIndex[i] = 1;
-                numberOfLisAtIndex[i] = 1;
+                len[i] = 1;
+                count[i] = 1;
             }
 
             for (int i = 1; i < nums.Length; i++)
@@ -24,24 +24,24 @@ namespace _71.LongestIncreasingSequenceNumber
                 {
                     if (nums[j] < nums[i])
                     {
-                        if (lengthOfLisAtIndex[j] + 1 > lengthOfLisAtIndex[i])
+                        if (len[j] + 1 > len[i])
                         {
-                            lengthOfLisAtIndex[i] = lengthOfLisAtIndex[j] + 1;
-                            numberOfLisAtIndex[i] = numberOfLisAtIndex[j];
+                            len[i] = len[j] + 1;
+                            count[i] = count[j];
                         }
-                        else if (lengthOfLisAtIndex[j] + 1 == lengthOfLisAtIndex[i])
+                        else if (len[j] + 1 == len[i])
                         {
-                            numberOfLisAtIndex[i] += numberOfLisAtIndex[j];
+                            count[i] += count[j];
                         }
                     }
                 }
             }
 
-            int maxlen = lengthOfLisAtIndex.Max();
+            int maxlen = len.Max();
             int ans = 0;
-            for (int i = 0; i < lengthOfLisAtIndex.Length; i++)
-                if (lengthOfLisAtIndex[i] == maxlen)
-                    ans += numberOfLisAtIndex[i];
+            for (int i = 0; i < len.Length; i++)
+                if (len[i] == maxlen)
+                    ans += count[i];
 
             return ans;
         }

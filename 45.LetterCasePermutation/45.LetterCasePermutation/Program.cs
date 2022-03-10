@@ -41,7 +41,8 @@ namespace _45.LetterCasePermutation
             IList<string> result = LetterCasePermutation(s);
             if (result.Count > 0)
             {
-                for(int i = 0; i< result.Count; i++)
+                for(int i = 0; i< result.Count; 
+                    i++)
                     Console.WriteLine(result[i]);
             }
            

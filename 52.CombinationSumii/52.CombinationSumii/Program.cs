@@ -26,7 +26,7 @@ namespace _52.CombinationSumii
                         continue;
                     //Time limit exceed so added this condition
                     if (target - candidates[i] < 0)
-                        break;
+                        continue;
                     list.Add(candidates[i]);
                     generateSum(i + 1, list, candidates, target - candidates[i], result);
                     list.RemoveAt(list.Count - 1);
