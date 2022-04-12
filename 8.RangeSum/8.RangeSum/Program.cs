@@ -4,26 +4,20 @@ namespace _8.RangeSum
 {
     class Program
     {
-        int[] arr;
+        int[] sums;
         public Program(int[] nums)
         {
-            arr = new int[nums.Length];
-            int sum = 0;
-            for(int i = 0; i<nums.Length; i++)
+            var n = nums.Length;
+            sums = new int[n + 1];
+            sums[0] = 0;
+            for (int i = 1; i <= n; i++)
             {
-                sum = sum + nums[i];
-                arr[i] = sum;
+                sums[i] = sums[i - 1] + nums[i - 1];
             }
         }
-        public int SumRange(int left, int right)
+        public int SumRange(int i, int j)
         {
-            int a = arr[right];
-            int b = 0;
-            if(left != 0)
-            {
-                b = arr[left - 1];
-            }
-            return a - b;
+            return sums[j + 1] - sums[i];
         }
         static void Main(string[] args)
         {

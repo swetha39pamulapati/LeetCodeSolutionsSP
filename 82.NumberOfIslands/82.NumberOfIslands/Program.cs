@@ -15,21 +15,21 @@ namespace _82.NumberOfIslands
                     if (grid[i][j] == '1')
                     {
                         count += 1;
-                        BFS(grid, i, j);
+                        DFS(grid, i, j);
                     }
                 }
             }
             return count;
         }
-        public void BFS(char[][] grid, int i, int j)
+        public void DFS(char[][] grid, int i, int j)
         {
             if (i < 0 || i >= grid.Length || j < 0 || j >= grid[i].Length || grid[i][j] == '0')
                 return;
             grid[i][j] = '0';
-            BFS(grid, i + 1, j);
-            BFS(grid, i - 1, j);
-            BFS(grid, i, j - 1);
-            BFS(grid, i, j + 1);
+            DFS(grid, i + 1, j);
+            DFS(grid, i - 1, j);
+            DFS(grid, i, j - 1);
+            DFS(grid, i, j + 1);
         }
         static void Main(string[] args)
         {

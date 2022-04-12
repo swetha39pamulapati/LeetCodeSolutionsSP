@@ -108,9 +108,9 @@ namespace _83.GraphValidTree
             g2.addEdge(1, 4);
 
             if (g2.isTree())
-                Console.WriteLine("Graph is Tree");
+                Console.WriteLine(" G2 Graph is Tree");
             else
-                Console.WriteLine("Graph is not Tree");
+                Console.WriteLine("G2 Graph is not Tree");
 
         }
     }
