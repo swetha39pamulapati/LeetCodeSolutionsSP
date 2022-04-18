@@ -31,15 +31,17 @@ namespace _16.Merge2SortedLists
                 }
                 currentNode = currentNode.next;
             }
-            if (list1 != null)
+          while (list1 != null)
             {
                 currentNode.next = list1;
                 list1 = list1.next;
+                currentNode = currentNode.next;
             }
-            if (list2 != null)
+            while (list2 != null)
             {
                 currentNode.next = list2;
                 list2 = list2.next;
+                currentNode = currentNode.next;
             }
             return temp.next;
 
@@ -49,11 +51,13 @@ namespace _16.Merge2SortedLists
             Program p = new Program();
             Node head = new Node(1);
             head.next = new Node(2);
-            head.next.next = new Node(3);
+            head.next.next = new Node(4);
+            head.next.next.next = new Node(5);
+            head.next.next.next.next = new Node(6);
 
             Node head2 = new Node(1);
-            head2.next = new Node(4);
-            head2.next.next = new Node(5);
+            head2.next = new Node(3);
+            head2.next.next = new Node(4);
             Node data = p.mergeSortedLists(head,head2);
             if (data == null)
                 Console.WriteLine("The list is empty");

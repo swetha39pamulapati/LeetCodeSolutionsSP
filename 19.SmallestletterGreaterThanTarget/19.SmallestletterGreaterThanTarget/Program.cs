@@ -32,7 +32,8 @@ namespace _19.SmallestletterGreaterThanTarget
                     r = mid - 1;
             }
 
-            if (l >= letters.Length) l = 0;
+            if (l >= letters.Length) 
+                l = 0;
             return letters[l];
 
 
@@ -40,7 +41,7 @@ namespace _19.SmallestletterGreaterThanTarget
         static void Main(string[] args)
         {
             char[] data = { 'c', 'd', 'f' };
-          char result =   findGreatestChar(data,'a');
+          char result =   findGreatestChar(data,'c');
             Console.WriteLine(result);
         }
     }

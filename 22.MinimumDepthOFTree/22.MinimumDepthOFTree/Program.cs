@@ -36,8 +36,8 @@ namespace _22.MinimumDepthOFTree
             root.right = newNode(20);
             //root.left.left = newNode(3);
             //root.left.right = newNode(5);
-            root.right.left = newNode(7);
-            root.right.right = newNode(15);
+            root.right.left = newNode(15);
+            root.right.right = newNode(7);
             Console.WriteLine("Min Depth : ");
 
             Console.WriteLine(MinDepth(root));
