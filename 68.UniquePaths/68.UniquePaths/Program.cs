@@ -32,7 +32,7 @@ namespace _68.UniquePaths
         static void Main(string[] args)
         {
             Program p = new Program();
-           int data =  p.UniquePaths(3, 7);
+           int data =  p.UniquePaths(3, 2);
             Console.WriteLine(data);
         }
     }

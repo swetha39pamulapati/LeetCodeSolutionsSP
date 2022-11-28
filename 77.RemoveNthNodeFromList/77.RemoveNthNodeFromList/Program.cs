@@ -16,21 +16,43 @@ namespace _77.RemoveNthNodeFromList
         }
         public Node RemoveNthFromEnd(Node head, int n)
         {
-            Node dummyHead = new Node(0);
-            dummyHead.next = head;
-            Node slow = dummyHead;
-            Node fast = dummyHead;
-            for(int i = 1; i<=n+1; i++)
+            Node p = head;
+            int size = 0;
+            while(p!= null)
             {
-                fast = fast.next;
+                size++;
+                p = p.next;
             }
-            while(fast!= null)
+            if(size == n)
             {
-                slow = slow.next;
-                fast = fast.next;
+                return head.next;
             }
-            slow.next = slow.next.next;// removes the node
-            return dummyHead.next;
+            int index = size - n;
+            Node p1 = head;
+            int i = 1;
+            while(i< index)
+            {
+                i++;
+                p1 = p1.next;
+            }
+            p1.next = p1.next.next;
+            return head;
+
+            //Node dummyHead = new Node(0);
+            //dummyHead.next = head;
+            //Node slow = dummyHead;
+            //Node fast = dummyHead;
+            //for(int i = 0; i<=n; i++)
+            //{
+            //    fast = fast.next;
+            //}
+            //while(fast!= null)
+            //{
+            //    slow = slow.next;
+            //    fast = fast.next;
+            //}
+            //slow.next = slow.next.next;// removes the node
+            //return dummyHead.next;
         }
         static void Main(string[] args)
         {

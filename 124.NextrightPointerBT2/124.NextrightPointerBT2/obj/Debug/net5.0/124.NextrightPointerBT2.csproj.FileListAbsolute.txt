@@ -1,0 +1,16 @@
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\bin\Debug\net5.0\124.NextrightPointerBT2.exe
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\bin\Debug\net5.0\124.NextrightPointerBT2.deps.json
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\bin\Debug\net5.0\124.NextrightPointerBT2.runtimeconfig.json
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\bin\Debug\net5.0\124.NextrightPointerBT2.runtimeconfig.dev.json
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\bin\Debug\net5.0\124.NextrightPointerBT2.dll
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\bin\Debug\net5.0\ref\124.NextrightPointerBT2.dll
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\bin\Debug\net5.0\124.NextrightPointerBT2.pdb
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.csproj.AssemblyReference.cache
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.AssemblyInfoInputs.cache
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.AssemblyInfo.cs
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.dll
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\ref\124.NextrightPointerBT2.dll
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.pdb
+D:\sheanPrasad\124.NextrightPointerBT2\124.NextrightPointerBT2\obj\Debug\net5.0\124.NextrightPointerBT2.genruntimeconfig.cache

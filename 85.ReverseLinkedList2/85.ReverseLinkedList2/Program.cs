@@ -17,35 +17,66 @@ namespace _85.ReverseLinkedList2
  }
         public ListNode ReverseBetween(ListNode head, int left, int right)
         {
-            if (head == null)
-                return null;
-            ListNode prev = null;
-            ListNode currentNode = head;
-            while (left > 1)
+            ListNode curr = head, prev = null;
+            //getting left -1 nodes
+            for (int i = 0; i < left - 1 && curr != null; i++)
             {
-                prev = currentNode;
-                currentNode = currentNode.next;
-                left--;
-                right--;
+                prev = curr;
+                curr = curr.next;
             }
-            ListNode connection = prev;
-            ListNode tail = currentNode;
-            while (right > 0)
+
+            ListNode endOfLeftPart = prev;
+            ListNode endOfrightPart = curr;
+            ListNode next = null;
+            //reverse nodes from left to right
+            for (int i = 0; i < right - left + 1 && curr != null; i++)
             {
-                ListNode nextNode = currentNode.next;
-                currentNode.next = prev;
-                prev = currentNode;
-                currentNode = nextNode;
-                right--;
+                next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
             }
-            if (connection != null)
+
+            if (endOfLeftPart != null)
             {
-                connection.next = prev;
+                endOfLeftPart.next = prev;
             }
             else
+            {
                 head = prev;
-            tail.next = currentNode;
+            }
+            endOfrightPart.next = curr;
+
             return head;
+            //if (head == null)
+            //    return null;
+            //ListNode prev = null;
+            //ListNode currentNode = head;
+            //while (left > 1)
+            //{
+            //    prev = currentNode;
+            //    currentNode = currentNode.next;
+            //    left--;
+            //    right--;
+            //}
+            //ListNode connection = prev;
+            //ListNode tail = currentNode;
+            //while (right > 0)
+            //{
+            //    ListNode nextNode = currentNode.next;
+            //    currentNode.next = prev;
+            //    prev = currentNode;
+            //    currentNode = nextNode;
+            //    right--;
+            //}
+            //if (connection != null)
+            //{
+            //    connection.next = prev;
+            //}
+            //else
+            //    head = prev;
+            //tail.next = currentNode;
+            //return head;
 
         }
         static void Main(string[] args)

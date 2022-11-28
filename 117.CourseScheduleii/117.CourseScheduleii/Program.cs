@@ -5,62 +5,51 @@ namespace _117.CourseScheduleii
 {
     class Program
     {
-        private int[] _result;
-        private int resultIndex = 0;
         public int[] FindOrder(int numCourses, int[][] prerequisites)
         {
-            _result = new int[numCourses];
-
-            var adjacencyMatrix = new HashSet<int>[numCourses];
-
+            var adj = new List<int>[numCourses];
             for (int i = 0; i < numCourses; i++)
             {
-                adjacencyMatrix[i] = new HashSet<int>();
+                adj[i] = new List<int>();
             }
-
-            foreach (var fromTo in prerequisites)
+            int[] indegree = new int[numCourses];
+            foreach (int[] pr in prerequisites)
             {
-                var from = fromTo[0];
-                var to = fromTo[1];
-
-                adjacencyMatrix[from].Add(to);
+                int current = pr[0];
+                int prereq = pr[1];
+                indegree[current]++;
+                adj[prereq].Add(current);
             }
+            Queue<int> q = new Queue<int>();
+            int[] list = new int[numCourses];
+            for (int i = 0; i < indegree.Length; i++)
+                if (indegree[i] == 0)
+                    q.Enqueue(i);
 
-            var isVisited = new bool[numCourses];
-            var isAdded = new bool[numCourses];
-
-            for (int i = 0; i < numCourses; i++)
+            int cnt = 0;
+            int j = 0;
+            while (q.Count > 0)
             {
-                if (isAdded[i]) continue;
-                var noCyclic = DFS(i, adjacencyMatrix, isVisited, isAdded);
-                if (!noCyclic) return new int[0];
+
+                int u = q.Dequeue();
+                list[j++] = u;
+                foreach (int itr in adj[u])
+                {
+
+                    if (--indegree[itr] == 0)
+                        q.Enqueue(itr);
+                    
+                }
+                
+                cnt++;
             }
-
-            return _result;
-        }
-        private bool DFS(int cur, HashSet<int>[] adjacencyMatrix, bool[] isVisited, bool[] isAdded)
-        {
-            if (isVisited[cur]) return false;
-
-            isVisited[cur] = true;
-            var nextCourses = adjacencyMatrix[cur];
-
-            foreach (var next in nextCourses)
+            if (cnt != numCourses)
             {
-                var oneResult = DFS(next, adjacencyMatrix, isVisited, isAdded);
-                if (!oneResult) return false;
+
+                return new int[] { }; 
             }
-
-            if (!isAdded[cur])
-            {
-                _result[resultIndex] = cur;
-                resultIndex++;
-                isAdded[cur] = true;
-            }
-
-            isVisited[cur] = false;
-
-            return true;
+            else
+                return list;
         }
         static void Main(string[] args)
         {

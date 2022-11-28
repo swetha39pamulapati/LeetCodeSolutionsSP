@@ -70,7 +70,7 @@ namespace _43.WordSearch
 
             };
             PrintMatrix(matrix);
-        bool result =     Exist(matrix, "ABCCED");
+        bool result =     Exist(matrix, "SEE");
             Console.WriteLine(result);
         }
     }

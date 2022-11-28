@@ -1,0 +1,16 @@
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\bin\Debug\net5.0\30.InvertBinaaryTree.exe
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\bin\Debug\net5.0\30.InvertBinaaryTree.deps.json
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\bin\Debug\net5.0\30.InvertBinaaryTree.runtimeconfig.json
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\bin\Debug\net5.0\30.InvertBinaaryTree.runtimeconfig.dev.json
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\bin\Debug\net5.0\30.InvertBinaaryTree.dll
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\bin\Debug\net5.0\ref\30.InvertBinaaryTree.dll
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\bin\Debug\net5.0\30.InvertBinaaryTree.pdb
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.csproj.AssemblyReference.cache
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.AssemblyInfoInputs.cache
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.AssemblyInfo.cs
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.dll
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\ref\30.InvertBinaaryTree.dll
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.pdb
+D:\sheanPrasad\30.InvertBinaaryTree\30.InvertBinaaryTree\obj\Debug\net5.0\30.InvertBinaaryTree.genruntimeconfig.cache

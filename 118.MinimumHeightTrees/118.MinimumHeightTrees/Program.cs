@@ -1,58 +1,69 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+// https://www.youtube.com/watch?v=1ZDg3jk7dUE
 namespace _118.MinimumHeightTrees
 {
     class Program
     {
         public IList<int> FindMinHeightTrees(int n, int[][] edges)
         {
-            if (n == 1) return new List<int> { 0 };
-            if (n < 2 || edges == null || edges.Length == 0 || edges[0].Length == 0) return new List<int>();
-            var dic = new Dictionary<int, List<int>>();
-            for (int i = 0; i < edges.GetLength(0); i++)
+            List<int> res = new List<int>();
+            if (n < 2)
             {
-                if (!dic.ContainsKey(edges[i][0]))
-                {
-                    dic.Add(edges[i][0], new List<int>());
-                }
-                dic[edges[i][0]].Add(edges[i][1]);
-                if (!dic.ContainsKey(edges[i][1]))
-                {
-                    dic.Add(edges[i][1], new List<int>());
-                }
-                dic[edges[i][1]].Add(edges[i][0]);
+                for (int i = 0; i < n; i++)
+                    res.Add(i);
             }
-            var leaf = new Queue<int>(dic.Where(d => d.Value.Count == 1).Select(item => item.Key));
-            while (dic.Count > 2)
-            {
-                var nl = new Queue<int>();
-                while (leaf.Any())
-                {
-                    var node = leaf.Dequeue();
-                    var temp = dic[node][0];
-                    dic.Remove(node);
-                    dic[temp].Remove(node);
-                    if (dic[temp].Count == 1) nl.Enqueue(temp);
-                }
-                leaf = nl;
-            }
-            return leaf.ToList();
 
-        }
+            HashSet<int>[] graph = new HashSet<int>[n];
+            for (int i = 0; i < n; i++)
+                graph[i] = new HashSet<int>();
+
+            foreach (var edge in edges)
+            {
+                graph[edge[0]].Add(edge[1]);
+                graph[edge[1]].Add(edge[0]);
+            }
+
+            Queue<int> queue = new Queue<int>();
+            for (int i = 0; i < n; i++)
+            {
+                if (graph[i].Count == 1)
+                    queue.Enqueue(i);
+            }
+
+            while (n > 2)
+            {
+                int size = queue.Count;
+                n -= size;
+                for (int i = 0; i < size; i++)
+                {
+                    int curr = queue.Dequeue();
+                    foreach (int next in graph[curr])
+                    {
+                        graph[next].Remove(curr);
+                        if (graph[next].Count == 1)
+                            queue.Enqueue(next);
+                    }
+                }
+            }
+            while (queue.Count > 0)
+                res.Add(queue.Dequeue());
+
+            return res;
+    }
         static void Main(string[] args)
         {
-            int[][] matrix = new int[3][]
+            int[][] matrix = new int[5][]
             {
-                new int[]{ 1,0 },
-                 new int[]{ 1,2 },
-                  new int[]{ 1,3 },
-
-
+                new int[]{ 3,0 },
+                 new int[]{ 3,1},
+                  new int[]{3, 2 },
+                  new int[]{ 3, 4 },
+                  new int[]{ 5,4 }
             };
             Program p = new Program();
-            IList<int> result =  p.FindMinHeightTrees(4, matrix);
+            IList<int> result =  p.FindMinHeightTrees(6, matrix);
             Console.WriteLine(result.Count);
         }
     }

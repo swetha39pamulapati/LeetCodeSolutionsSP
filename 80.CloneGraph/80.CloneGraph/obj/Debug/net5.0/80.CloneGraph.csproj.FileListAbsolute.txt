@@ -1,0 +1,16 @@
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\bin\Debug\net5.0\80.CloneGraph.exe
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\bin\Debug\net5.0\80.CloneGraph.deps.json
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\bin\Debug\net5.0\80.CloneGraph.runtimeconfig.json
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\bin\Debug\net5.0\80.CloneGraph.runtimeconfig.dev.json
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\bin\Debug\net5.0\80.CloneGraph.dll
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\bin\Debug\net5.0\ref\80.CloneGraph.dll
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\bin\Debug\net5.0\80.CloneGraph.pdb
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.csproj.AssemblyReference.cache
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.AssemblyInfoInputs.cache
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.AssemblyInfo.cs
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.csproj.CoreCompileInputs.cache
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.dll
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\ref\80.CloneGraph.dll
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.pdb
+D:\sheanPrasad\80.CloneGraph\80.CloneGraph\obj\Debug\net5.0\80.CloneGraph.genruntimeconfig.cache

@@ -24,7 +24,8 @@ namespace _49.PermutationWithDup
             {
                 for (int i = 0; i < nums.Length; i++)
                 {
-                    if (isVisited[i]) continue;
+                    if (isVisited[i]) 
+                        continue;
                     if (i > 0 && nums[i - 1] == nums[i] && isVisited[i - 1]) 
                         continue;
                     isVisited[i] = true;

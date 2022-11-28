@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dc348a6-ff49-4401-8ade-bb763681df96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../10.LinkedListCycle/.vs/10.LinkedListCycle/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../10.LinkedListCycle/.vs/10.LinkedListCycle/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../105.MinimumSubArray/.vs/105.MinimumSubArray/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../105.MinimumSubArray/.vs/105.MinimumSubArray/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11.MiddleNodeLL/.vs/11.MiddleNodeLL/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../11.MiddleNodeLL/.vs/11.MiddleNodeLL/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.CourseSchedule/.vs/116.CourseSchedule/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../116.CourseSchedule/.vs/116.CourseSchedule/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/bin/Debug/net5.0/116.CourseSchedule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/bin/Debug/net5.0/116.CourseSchedule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/bin/Debug/net5.0/116.CourseSchedule.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/bin/Debug/net5.0/116.CourseSchedule.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/obj/Debug/net5.0/116.CourseSchedule.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/obj/Debug/net5.0/116.CourseSchedule.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/obj/Debug/net5.0/116.CourseSchedule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/obj/Debug/net5.0/116.CourseSchedule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/obj/Debug/net5.0/116.CourseSchedule.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../116.CourseSchedule/116.CourseSchedule/obj/Debug/net5.0/116.CourseSchedule.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../117.CourseScheduleii/.vs/117.CourseScheduleii/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../117.CourseScheduleii/.vs/117.CourseScheduleii/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/bin/Debug/net5.0/117.CourseScheduleii.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/bin/Debug/net5.0/117.CourseScheduleii.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/bin/Debug/net5.0/117.CourseScheduleii.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/bin/Debug/net5.0/117.CourseScheduleii.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/obj/Debug/net5.0/117.CourseScheduleii.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/obj/Debug/net5.0/117.CourseScheduleii.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/obj/Debug/net5.0/117.CourseScheduleii.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../117.CourseScheduleii/117.CourseScheduleii/obj/Debug/net5.0/117.CourseScheduleii.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/.vs/118.MinimumHeightTrees/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/.vs/118.MinimumHeightTrees/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/bin/Debug/net5.0/118.MinimumHeightTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/bin/Debug/net5.0/118.MinimumHeightTrees.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/bin/Debug/net5.0/118.MinimumHeightTrees.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/bin/Debug/net5.0/118.MinimumHeightTrees.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/bin/Debug/net5.0/ref/118.MinimumHeightTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/bin/Debug/net5.0/ref/118.MinimumHeightTrees.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/118.MinimumHeightTrees.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/118.MinimumHeightTrees.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/118.MinimumHeightTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/118.MinimumHeightTrees.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/118.MinimumHeightTrees.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/118.MinimumHeightTrees.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/ref/118.MinimumHeightTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../118.MinimumHeightTrees/118.MinimumHeightTrees/obj/Debug/net5.0/ref/118.MinimumHeightTrees.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12.PalindromeLinkedList/.vs/12.PalindromeLinkedList/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../12.PalindromeLinkedList/.vs/12.PalindromeLinkedList/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/.vs/123.PopulateNextRightPointerBinaryTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/.vs/123.PopulateNextRightPointerBinaryTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/bin/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/bin/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/bin/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/bin/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/obj/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/obj/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/obj/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/obj/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/obj/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../123.PopulateNextRightPointerBinaryTree/123.PopulateNextRightPointerBinaryTree/obj/Debug/net5.0/123.PopulateNextRightPointerBinaryTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../124.NextrightPointerBT2/.vs/124.NextrightPointerBT2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../124.NextrightPointerBT2/.vs/124.NextrightPointerBT2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../124.NextrightPointerBT2/124.NextrightPointerBT2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../124.NextrightPointerBT2/124.NextrightPointerBT2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../125.RightViewBinaryTree/.vs/125.RightViewBinaryTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../125.RightViewBinaryTree/.vs/125.RightViewBinaryTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/bin/Debug/net5.0/125.RightViewBinaryTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/bin/Debug/net5.0/125.RightViewBinaryTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/bin/Debug/net5.0/125.RightViewBinaryTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/bin/Debug/net5.0/125.RightViewBinaryTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/obj/Debug/net5.0/125.RightViewBinaryTree.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/obj/Debug/net5.0/125.RightViewBinaryTree.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/obj/Debug/net5.0/125.RightViewBinaryTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/obj/Debug/net5.0/125.RightViewBinaryTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/obj/Debug/net5.0/125.RightViewBinaryTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../125.RightViewBinaryTree/125.RightViewBinaryTree/obj/Debug/net5.0/125.RightViewBinaryTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../126.AllNodesSistanceKFromNodes/.vs/126.AllNodesSistanceKFromNodes/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../126.AllNodesSistanceKFromNodes/.vs/126.AllNodesSistanceKFromNodes/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../127.PathSumiii/.vs/127.PathSumiii/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../127.PathSumiii/.vs/127.PathSumiii/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/bin/Debug/net5.0/127.PathSumiii.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/bin/Debug/net5.0/127.PathSumiii.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/bin/Debug/net5.0/127.PathSumiii.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/bin/Debug/net5.0/127.PathSumiii.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/obj/Debug/net5.0/127.PathSumiii.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/obj/Debug/net5.0/127.PathSumiii.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/obj/Debug/net5.0/127.PathSumiii.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../127.PathSumiii/127.PathSumiii/obj/Debug/net5.0/127.PathSumiii.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../128.PathSumii/.vs/128.PathSumii/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../128.PathSumii/.vs/128.PathSumii/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13.RemoveValueLinkedList/.vs/13.RemoveValueLinkedList/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../13.RemoveValueLinkedList/.vs/13.RemoveValueLinkedList/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14.RemoveDuplicates/.vs/14.RemoveDuplicates/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../14.RemoveDuplicates/.vs/14.RemoveDuplicates/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.MinimumDepthOFTree/.vs/22.MinimumDepthOFTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../22.MinimumDepthOFTree/.vs/22.MinimumDepthOFTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/bin/Debug/net5.0/22.MinimumDepthOFTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/bin/Debug/net5.0/22.MinimumDepthOFTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/bin/Debug/net5.0/22.MinimumDepthOFTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/bin/Debug/net5.0/22.MinimumDepthOFTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/obj/Debug/net5.0/22.MinimumDepthOFTree.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/obj/Debug/net5.0/22.MinimumDepthOFTree.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/obj/Debug/net5.0/22.MinimumDepthOFTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/obj/Debug/net5.0/22.MinimumDepthOFTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/obj/Debug/net5.0/22.MinimumDepthOFTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../22.MinimumDepthOFTree/22.MinimumDepthOFTree/obj/Debug/net5.0/22.MinimumDepthOFTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23.SameTree/.vs/23.SameTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../23.SameTree/.vs/23.SameTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24.PathSum/.vs/24.PathSum/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../24.PathSum/.vs/24.PathSum/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24.PathSum/24.PathSum/bin/Debug/net5.0/24.PathSum.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../24.PathSum/24.PathSum/bin/Debug/net5.0/24.PathSum.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24.PathSum/24.PathSum/bin/Debug/net5.0/24.PathSum.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../24.PathSum/24.PathSum/bin/Debug/net5.0/24.PathSum.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24.PathSum/24.PathSum/obj/Debug/net5.0/24.PathSum.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../24.PathSum/24.PathSum/obj/Debug/net5.0/24.PathSum.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24.PathSum/24.PathSum/obj/Debug/net5.0/24.PathSum.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../24.PathSum/24.PathSum/obj/Debug/net5.0/24.PathSum.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25.DiameterOfTree/.vs/25.DiameterOfTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../25.DiameterOfTree/.vs/25.DiameterOfTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26.Merge2Trees/.vs/26.Merge2Trees/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../26.Merge2Trees/.vs/26.Merge2Trees/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26.Merge2Trees/.vs/26.Merge2Trees/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../26.Merge2Trees/.vs/26.Merge2Trees/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26.Merge2Trees/26.Merge2Trees/obj/26.Merge2Trees.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../26.Merge2Trees/26.Merge2Trees/obj/26.Merge2Trees.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26.Merge2Trees/26.Merge2Trees/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../26.Merge2Trees/26.Merge2Trees/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26.Merge2Trees/26.Merge2Trees/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../26.Merge2Trees/26.Merge2Trees/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29.SubTreeOfAnotherTree/.vs/29.SubTreeOfAnotherTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../29.SubTreeOfAnotherTree/.vs/29.SubTreeOfAnotherTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.DisappearedInArray/.vs/3.DisappearedInArray/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../3.DisappearedInArray/.vs/3.DisappearedInArray/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.InvertBinaaryTree/.vs/30.InvertBinaaryTree/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../30.InvertBinaaryTree/.vs/30.InvertBinaaryTree/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.InvertBinaaryTree/.vs/30.InvertBinaaryTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../30.InvertBinaaryTree/.vs/30.InvertBinaaryTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.InvertBinaaryTree/30.InvertBinaaryTree/obj/30.InvertBinaaryTree.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../30.InvertBinaaryTree/30.InvertBinaaryTree/obj/30.InvertBinaaryTree.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.InvertBinaaryTree/30.InvertBinaaryTree/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../30.InvertBinaaryTree/30.InvertBinaaryTree/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.InvertBinaaryTree/30.InvertBinaaryTree/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../30.InvertBinaaryTree/30.InvertBinaaryTree/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36.Convert1Dto2D/.vs/36.Convert1Dto2D/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../36.Convert1Dto2D/.vs/36.Convert1Dto2D/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/bin/Debug/net5.0/36.Convert1Dto2D.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/bin/Debug/net5.0/36.Convert1Dto2D.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/bin/Debug/net5.0/36.Convert1Dto2D.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/bin/Debug/net5.0/36.Convert1Dto2D.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/bin/Debug/net5.0/ref/36.Convert1Dto2D.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/bin/Debug/net5.0/ref/36.Convert1Dto2D.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/obj/Debug/net5.0/36.Convert1Dto2D.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/obj/Debug/net5.0/36.Convert1Dto2D.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/obj/Debug/net5.0/36.Convert1Dto2D.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/obj/Debug/net5.0/36.Convert1Dto2D.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/obj/Debug/net5.0/ref/36.Convert1Dto2D.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../36.Convert1Dto2D/36.Convert1Dto2D/obj/Debug/net5.0/ref/36.Convert1Dto2D.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/.vs/37.ProductOfArrayExceptSelf/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/.vs/37.ProductOfArrayExceptSelf/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/bin/Debug/net5.0/37.ProductOfArrayExceptSelf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/bin/Debug/net5.0/37.ProductOfArrayExceptSelf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/bin/Debug/net5.0/37.ProductOfArrayExceptSelf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/bin/Debug/net5.0/37.ProductOfArrayExceptSelf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/bin/Debug/net5.0/ref/37.ProductOfArrayExceptSelf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/bin/Debug/net5.0/ref/37.ProductOfArrayExceptSelf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/obj/Debug/net5.0/37.ProductOfArrayExceptSelf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/obj/Debug/net5.0/37.ProductOfArrayExceptSelf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/obj/Debug/net5.0/37.ProductOfArrayExceptSelf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/obj/Debug/net5.0/37.ProductOfArrayExceptSelf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/obj/Debug/net5.0/ref/37.ProductOfArrayExceptSelf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../37.ProductOfArrayExceptSelf/37.ProductOfArrayExceptSelf/obj/Debug/net5.0/ref/37.ProductOfArrayExceptSelf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.SingleNumberInArray/.vs/4.SingleNumberInArray/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../4.SingleNumberInArray/.vs/4.SingleNumberInArray/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.SingleNumberInArray/4.SingleNumberInArray/obj/4.SingleNumberInArray.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../4.SingleNumberInArray/4.SingleNumberInArray/obj/4.SingleNumberInArray.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.SingleNumberInArray/4.SingleNumberInArray/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../4.SingleNumberInArray/4.SingleNumberInArray/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.SingleNumberInArray/4.SingleNumberInArray/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../4.SingleNumberInArray/4.SingleNumberInArray/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ClimbingSteps/.vs/5.ClimbingSteps/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ClimbingSteps/.vs/5.ClimbingSteps/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/bin/Debug/net5.0/5.ClimbingSteps.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/bin/Debug/net5.0/5.ClimbingSteps.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/bin/Debug/net5.0/5.ClimbingSteps.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/bin/Debug/net5.0/5.ClimbingSteps.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/obj/Debug/net5.0/5.ClimbingSteps.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/obj/Debug/net5.0/5.ClimbingSteps.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/obj/Debug/net5.0/5.ClimbingSteps.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/obj/Debug/net5.0/5.ClimbingSteps.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/obj/Debug/net5.0/5.ClimbingSteps.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ClimbingSteps/5.ClimbingSteps/obj/Debug/net5.0/5.ClimbingSteps.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../53.CombinationSum3/.vs/53.CombinationSum3/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../53.CombinationSum3/.vs/53.CombinationSum3/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../55.TargetSum/.vs/55.TargetSum/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../55.TargetSum/.vs/55.TargetSum/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../59.HouseRobber/.vs/59.HouseRobber/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../59.HouseRobber/.vs/59.HouseRobber/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/bin/Debug/net5.0/59.HouseRobber.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/bin/Debug/net5.0/59.HouseRobber.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/bin/Debug/net5.0/59.HouseRobber.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/bin/Debug/net5.0/59.HouseRobber.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/obj/Debug/net5.0/59.HouseRobber.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/obj/Debug/net5.0/59.HouseRobber.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/obj/Debug/net5.0/59.HouseRobber.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../59.HouseRobber/59.HouseRobber/obj/Debug/net5.0/59.HouseRobber.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../60.HouseRobber2/.vs/60.HouseRobber2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../60.HouseRobber2/.vs/60.HouseRobber2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/.vs/61.CoinChange/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/.vs/61.CoinChange/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/.vs/61.CoinChange/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/.vs/61.CoinChange/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/bin/Debug/net5.0/61.CoinChange.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/bin/Debug/net5.0/61.CoinChange.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/bin/Debug/net5.0/61.CoinChange.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/bin/Debug/net5.0/61.CoinChange.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/obj/Debug/net5.0/61.CoinChange.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/obj/Debug/net5.0/61.CoinChange.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/obj/Debug/net5.0/61.CoinChange.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/obj/Debug/net5.0/61.CoinChange.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/obj/Debug/net5.0/61.CoinChange.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../61.CoinChange/61.CoinChange/obj/Debug/net5.0/61.CoinChange.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../62.MaximumProductArray/.vs/62.MaximumProductArray/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../62.MaximumProductArray/.vs/62.MaximumProductArray/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/.vs/64.LongestPalindromicSubstring/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/.vs/64.LongestPalindromicSubstring/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/bin/Debug/net5.0/64.LongestPalindromicSubstring.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/bin/Debug/net5.0/64.LongestPalindromicSubstring.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/bin/Debug/net5.0/64.LongestPalindromicSubstring.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/bin/Debug/net5.0/64.LongestPalindromicSubstring.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/bin/Debug/net5.0/ref/64.LongestPalindromicSubstring.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/bin/Debug/net5.0/ref/64.LongestPalindromicSubstring.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/64.LongestPalindromicSubstring.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/64.LongestPalindromicSubstring.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/64.LongestPalindromicSubstring.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/64.LongestPalindromicSubstring.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/64.LongestPalindromicSubstring.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/64.LongestPalindromicSubstring.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/ref/64.LongestPalindromicSubstring.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../64.LongestPalindromicSubstring/64.LongestPalindromicSubstring/obj/Debug/net5.0/ref/64.LongestPalindromicSubstring.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../65.WordBreak/.vs/65.WordBreak/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../65.WordBreak/.vs/65.WordBreak/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/bin/Debug/net5.0/65.WordBreak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/bin/Debug/net5.0/65.WordBreak.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/bin/Debug/net5.0/65.WordBreak.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/bin/Debug/net5.0/65.WordBreak.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/obj/Debug/net5.0/65.WordBreak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/obj/Debug/net5.0/65.WordBreak.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/obj/Debug/net5.0/65.WordBreak.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../65.WordBreak/65.WordBreak/obj/Debug/net5.0/65.WordBreak.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/.vs/66.CombinationSum/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/.vs/66.CombinationSum/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/66.CombinationSum.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/bin/Debug/net5.0/66.CombinationSum.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/bin/Debug/net5.0/66.CombinationSum.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/bin/Debug/net5.0/66.CombinationSum.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/bin/Debug/net5.0/66.CombinationSum.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/bin/Debug/net5.0/66.CombinationSum.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/bin/Debug/net5.0/66.CombinationSum.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/bin/Debug/net5.0/ref/66.CombinationSum.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/66.CombinationSum.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/66.CombinationSum.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/66.CombinationSum.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/66.CombinationSum.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/Debug/net5.0/ref/66.CombinationSum.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../66.CombinationSum/66.CombinationSum/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../67.DecodeWays/.vs/67.DecodeWays/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../67.DecodeWays/.vs/67.DecodeWays/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../68.UniquePaths/.vs/68.UniquePaths/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../68.UniquePaths/.vs/68.UniquePaths/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/bin/Debug/net5.0/68.UniquePaths.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/bin/Debug/net5.0/68.UniquePaths.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/bin/Debug/net5.0/68.UniquePaths.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/bin/Debug/net5.0/68.UniquePaths.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/obj/Debug/net5.0/68.UniquePaths.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/obj/Debug/net5.0/68.UniquePaths.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/obj/Debug/net5.0/68.UniquePaths.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/obj/Debug/net5.0/68.UniquePaths.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/obj/Debug/net5.0/68.UniquePaths.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../68.UniquePaths/68.UniquePaths/obj/Debug/net5.0/68.UniquePaths.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../69.JumpGame/.vs/69.JumpGame/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../69.JumpGame/.vs/69.JumpGame/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.MaxSubArray/.vs/7.MaxSubArray/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../7.MaxSubArray/.vs/7.MaxSubArray/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70.PalindromicSubstrings/.vs/70.PalindromicSubstrings/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../70.PalindromicSubstrings/.vs/70.PalindromicSubstrings/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/bin/Debug/net5.0/70.PalindromicSubstrings.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/bin/Debug/net5.0/70.PalindromicSubstrings.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/bin/Debug/net5.0/70.PalindromicSubstrings.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/bin/Debug/net5.0/70.PalindromicSubstrings.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/obj/Debug/net5.0/70.PalindromicSubstrings.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/obj/Debug/net5.0/70.PalindromicSubstrings.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/obj/Debug/net5.0/70.PalindromicSubstrings.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/obj/Debug/net5.0/70.PalindromicSubstrings.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/obj/Debug/net5.0/70.PalindromicSubstrings.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../70.PalindromicSubstrings/70.PalindromicSubstrings/obj/Debug/net5.0/70.PalindromicSubstrings.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/.vs/71.LongestIncreasingSequenceNumber/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/.vs/71.LongestIncreasingSequenceNumber/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/bin/Debug/net5.0/71.LongestIncreasingSequenceNumber.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/bin/Debug/net5.0/71.LongestIncreasingSequenceNumber.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/bin/Debug/net5.0/71.LongestIncreasingSequenceNumber.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/bin/Debug/net5.0/71.LongestIncreasingSequenceNumber.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/obj/Debug/net5.0/71.LongestIncreasingSequenceNumber.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/obj/Debug/net5.0/71.LongestIncreasingSequenceNumber.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/obj/Debug/net5.0/71.LongestIncreasingSequenceNumber.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/obj/Debug/net5.0/71.LongestIncreasingSequenceNumber.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/obj/Debug/net5.0/71.LongestIncreasingSequenceNumber.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../71.LongestIncreasingSequenceNumber/71.LongestIncreasingSequenceNumber/obj/Debug/net5.0/71.LongestIncreasingSequenceNumber.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../72.PartitionEqualSums/.vs/72.PartitionEqualSums/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../72.PartitionEqualSums/.vs/72.PartitionEqualSums/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/bin/Debug/net5.0/72.PartitionEqualSums.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/bin/Debug/net5.0/72.PartitionEqualSums.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/bin/Debug/net5.0/72.PartitionEqualSums.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/bin/Debug/net5.0/72.PartitionEqualSums.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/obj/Debug/net5.0/72.PartitionEqualSums.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/obj/Debug/net5.0/72.PartitionEqualSums.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/obj/Debug/net5.0/72.PartitionEqualSums.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../72.PartitionEqualSums/72.PartitionEqualSums/obj/Debug/net5.0/72.PartitionEqualSums.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../73.PartitionEqualKsum/.vs/73.PartitionEqualKsum/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../73.PartitionEqualKsum/.vs/73.PartitionEqualKsum/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../74.BuySellStockWithCooldown/.vs/74.BuySellStockWithCooldown/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../74.BuySellStockWithCooldown/.vs/74.BuySellStockWithCooldown/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../74.BuySellStockWithCooldown/74.BuySellStockWithCooldown/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../74.BuySellStockWithCooldown/74.BuySellStockWithCooldown/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../75.LinkedListCycle2/.vs/75.LinkedListCycle2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../75.LinkedListCycle2/.vs/75.LinkedListCycle2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../76.Add2Numbers/.vs/76.Add2Numbers/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../76.Add2Numbers/.vs/76.Add2Numbers/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/bin/Debug/net5.0/76.Add2Numbers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/bin/Debug/net5.0/76.Add2Numbers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/bin/Debug/net5.0/76.Add2Numbers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/bin/Debug/net5.0/76.Add2Numbers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/obj/Debug/net5.0/76.Add2Numbers.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/obj/Debug/net5.0/76.Add2Numbers.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/obj/Debug/net5.0/76.Add2Numbers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/obj/Debug/net5.0/76.Add2Numbers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/obj/Debug/net5.0/76.Add2Numbers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../76.Add2Numbers/76.Add2Numbers/obj/Debug/net5.0/76.Add2Numbers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/.vs/77.RemoveNthNodeFromList/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/.vs/77.RemoveNthNodeFromList/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/bin/Debug/net5.0/77.RemoveNthNodeFromList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/bin/Debug/net5.0/77.RemoveNthNodeFromList.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/bin/Debug/net5.0/77.RemoveNthNodeFromList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/bin/Debug/net5.0/77.RemoveNthNodeFromList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/obj/Debug/net5.0/77.RemoveNthNodeFromList.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/obj/Debug/net5.0/77.RemoveNthNodeFromList.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/obj/Debug/net5.0/77.RemoveNthNodeFromList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/obj/Debug/net5.0/77.RemoveNthNodeFromList.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/obj/Debug/net5.0/77.RemoveNthNodeFromList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../77.RemoveNthNodeFromList/77.RemoveNthNodeFromList/obj/Debug/net5.0/77.RemoveNthNodeFromList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../78.ReorderList/.vs/78.ReorderList/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../78.ReorderList/.vs/78.ReorderList/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../79.SortList/.vs/79.SortList/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../79.SortList/.vs/79.SortList/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../79.SortList/79.SortList/bin/Debug/net5.0/79.SortList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../79.SortList/79.SortList/bin/Debug/net5.0/79.SortList.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../79.SortList/79.SortList/bin/Debug/net5.0/79.SortList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../79.SortList/79.SortList/bin/Debug/net5.0/79.SortList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../79.SortList/79.SortList/obj/Debug/net5.0/79.SortList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../79.SortList/79.SortList/obj/Debug/net5.0/79.SortList.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../79.SortList/79.SortList/obj/Debug/net5.0/79.SortList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../79.SortList/79.SortList/obj/Debug/net5.0/79.SortList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.RangeSum/.vs/8.RangeSum/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../8.RangeSum/.vs/8.RangeSum/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/bin/Debug/net5.0/8.RangeSum.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/bin/Debug/net5.0/8.RangeSum.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/bin/Debug/net5.0/8.RangeSum.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/bin/Debug/net5.0/8.RangeSum.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/obj/Debug/net5.0/8.RangeSum.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/obj/Debug/net5.0/8.RangeSum.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/obj/Debug/net5.0/8.RangeSum.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../8.RangeSum/8.RangeSum/obj/Debug/net5.0/8.RangeSum.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../80.CloneGraph/.vs/80.CloneGraph/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../80.CloneGraph/.vs/80.CloneGraph/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../80.CloneGraph/80.CloneGraph/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../80.CloneGraph/80.CloneGraph/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../81.PacificAtlanticWaterFlow/.vs/81.PacificAtlanticWaterFlow/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../81.PacificAtlanticWaterFlow/.vs/81.PacificAtlanticWaterFlow/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/.vs/82.NumberOfIslands/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/.vs/82.NumberOfIslands/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/bin/Debug/net5.0/82.NumberOfIslands.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/bin/Debug/net5.0/82.NumberOfIslands.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/bin/Debug/net5.0/82.NumberOfIslands.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/bin/Debug/net5.0/82.NumberOfIslands.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/bin/Debug/net5.0/ref/82.NumberOfIslands.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/bin/Debug/net5.0/ref/82.NumberOfIslands.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/obj/Debug/net5.0/82.NumberOfIslands.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/obj/Debug/net5.0/82.NumberOfIslands.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/obj/Debug/net5.0/82.NumberOfIslands.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/obj/Debug/net5.0/82.NumberOfIslands.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/obj/Debug/net5.0/ref/82.NumberOfIslands.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../82.NumberOfIslands/82.NumberOfIslands/obj/Debug/net5.0/ref/82.NumberOfIslands.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/83.GraphValidTree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/83.GraphValidTree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.GraphValidTree/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/83.GraphValidTree/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.GraphValidTree/bin/Debug/net5.0/83.GraphValidTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/83.GraphValidTree/bin/Debug/net5.0/83.GraphValidTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.GraphValidTree/bin/Debug/net5.0/83.GraphValidTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/83.GraphValidTree/bin/Debug/net5.0/83.GraphValidTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.GraphValidTree/bin/Debug/net5.0/ref/83.GraphValidTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/83.GraphValidTree/bin/Debug/net5.0/ref/83.GraphValidTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.GraphValidTree/obj/Debug/net5.0/83.GraphValidTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/83.GraphValidTree/obj/Debug/net5.0/83.GraphValidTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.GraphValidTree/obj/Debug/net5.0/83.GraphValidTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/83.GraphValidTree/obj/Debug/net5.0/83.GraphValidTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.GraphValidTree/obj/Debug/net5.0/ref/83.GraphValidTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/83.GraphValidTree/obj/Debug/net5.0/ref/83.GraphValidTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../84.ConnectedComponentsUndirectedGraph/.vs/84.ConnectedComponentsUndirectedGraph/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../84.ConnectedComponentsUndirectedGraph/.vs/84.ConnectedComponentsUndirectedGraph/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../84.ConnectedComponentsUndirectedGraph/84.ConnectedComponentsUndirectedGraph/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../84.ConnectedComponentsUndirectedGraph/84.ConnectedComponentsUndirectedGraph/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.CountingBits/.vs/9.CountingBits/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../9.CountingBits/.vs/9.CountingBits/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeSeanPrashad/.vs/PracticeSeanPrashad/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeSeanPrashad/.vs/PracticeSeanPrashad/v16/.suo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Hd9s0bLTD68V3WJin9Sf43aknO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SheanprasadJS/75.LinkedListCycle.JS" />
+  </component>
+  <component name="RunManager">
+    <configuration name="77.RemoveNodeFromEnd.JS" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../SheanprasadJS/77.RemoveNodeFromEnd.JS" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/83.GraphValidTree.sln">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dc348a6-ff49-4401-8ade-bb763681df96" name="Default Changelist" comment="" />
+      <created>1668604296446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668604296446</updated>
+      <workItem from="1668604297524" duration="28000" />
+      <workItem from="1668604338432" duration="4138000" />
+      <workItem from="1668616655329" duration="3051000" />
+      <workItem from="1668690608969" duration="2979000" />
+      <workItem from="1668870589577" duration="790000" />
+      <workItem from="1669043799009" duration="1054000" />
+      <workItem from="1669168184595" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1669168448813">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1669168448813" />
+    <state width="816" height="466" key="DebuggerActiveHint" timestamp="1668690821900">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="816" height="466" key="DebuggerActiveHint/0.0.1536.816@0.0.1536.816" timestamp="1668690821900" />
+    <state x="548" y="163" key="FileChooserDialogImpl" timestamp="1669168518903">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1669168518903" />
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1669168795486">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669168795486" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1669168795486">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1669168795486" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1669168795486">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1669168795486" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1669168795486">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1669168795486" />
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.1.center" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.1.left" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.1.right" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.2.bottom" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.2.center" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.2.left" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.2.right" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.3.bottom" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.3.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.3.center" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.3.center/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.3.left" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.3.left/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+    <state width="1515" height="258" key="GridCell.Tab.3.right" timestamp="1669050343556">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.3.right/0.0.1536.816@0.0.1536.816" timestamp="1669050343556" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/116.CourseSchedule.JS</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/116.CourseSchedule.JS</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/118.minheighttrees.js</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/118.minheighttrees.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/118.minheighttrees.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/124.PopulateRightNextPointer.JS</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/124.PopulateRightNextPointer.JS</url>
+          <line>40</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>5</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>10</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../SheanprasadJS/71. NumberOfLongestIncreasingSubstring.JS</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -6,12 +6,14 @@ namespace _83.GraphValidTree
     class Graph
     {
         private int V; // No. of vertices
+        public int E;
         private List<int>[] adj; // Adjacency List
 
         // Constructor
         Graph(int v)
         {
             V = v;
+            E = 0;
             adj = new List<int>[v];
             for (int i = 0; i < v; ++i)
                 adj[i] = new List<int>();
@@ -21,6 +23,7 @@ namespace _83.GraphValidTree
         // into the graph
         void addEdge(int v, int w)
         {
+            E++;
             adj[v].Add(w);
             adj[w].Add(v);
         }
@@ -28,61 +31,52 @@ namespace _83.GraphValidTree
         // A recursive function that uses visited[]
         // and parent to detect cycle in subgraph
         // reachable from vertex v.
-        bool isCyclicUtil(int v, bool[] visited,
-                             int parent)
+        void dfsTraversal(int v, bool[] visited)
         {
-            // Mark the current node as visited
             visited[v] = true;
-            int i;
 
-            // Recur for all the vertices
-            // adjacent to this vertex
-            foreach (int it in adj[v])
+            // Recur for all the vertices adjacent to this
+            // vertex
+            List<int> list = adj[v];
+            foreach (int i in list)
             {
-                i = it;
-
-                // If an adjacent is not visited,
-                // then recur for that adjacent
+                // If an adjacent is not visited, then recur for
+                // that adjacent
                 if (!visited[i])
                 {
-                    if (isCyclicUtil(i, visited, v))
-                        return true;
+                    dfsTraversal(i, visited);
                 }
-
-                // If an adjacent is visited and
-                // not parent of current vertex,
-                // then there is a cycle.
-                else if (i != parent)
-                    return true;
             }
-            return false;
+        }
+        public bool isConnected()
+        {
+            // Mark all the vertices as not visited and not part
+            // of recursion stack
+            bool[] visited = new bool[V];
+            for (int i = 0; i < V; i++)
+                visited[i] = false;
+
+            // Performing DFS traversal of the graph and marking
+            // reachable vertices from 0 to true
+            dfsTraversal(0, visited);
+
+            // If we find a vertex which is not reachable from 0
+            // (not marked by dfsTraversal(), then we return
+            // false since graph is not connected
+            for (int u = 0; u < V; u++)
+                if (!visited[u])
+                    return false;
+
+            // since all nodes were reachable so we returned
+            // true and and hence graph is connected
+            return true;
         }
 
         // Returns true if the graph
         // is a tree, else false.
         bool isTree()
         {
-            // Mark all the vertices as not visited
-            // and not part of recursion stack
-            bool[] visited = new bool[V];
-            for (int i = 0; i < V; i++)
-                visited[i] = false;
-
-            // The call to isCyclicUtil serves
-            // multiple purposes. It returns true if
-            // graph reachable from vertex 0 is cyclcic.
-            // It also marks all vertices reachable from 0.
-            if (isCyclicUtil(0, visited, -1))
-                return false;
-
-            // If we find a vertex which is not reachable
-            // from 0 (not marked by isCyclicUtil(),
-            // then we return false
-            for (int u = 0; u < V; u++)
-                if (!visited[u])
-                    return false;
-
-            return true;
+            return isConnected() && E == V - 1;
         }
 
         // Driver Code

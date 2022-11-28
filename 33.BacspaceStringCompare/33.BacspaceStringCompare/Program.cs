@@ -40,7 +40,7 @@ namespace _33.BacspaceStringCompare
             string s = "a#c";
             string t = "b";
           Console.WriteLine(BackspaceCompare(string1, string2));
-            Console.WriteLine(BackspaceCompare(s, t));
+            //Console.WriteLine(BackspaceCompare(s, t));
 
         }
     }

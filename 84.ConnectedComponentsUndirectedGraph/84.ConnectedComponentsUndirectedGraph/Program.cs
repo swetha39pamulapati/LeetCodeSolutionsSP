@@ -51,7 +51,8 @@ namespace _84.ConnectedComponentsUndirectedGraph
             // adjacent to this vertex 
             foreach (int x in adjListArray[v])
             {
-                if (!visited[x]) DFSUtil(x, visited);
+                if (!visited[x]) 
+                    DFSUtil(x, visited);
             }
 
         }

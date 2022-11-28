@@ -13,3 +13,4 @@ D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.
 D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\ref\70.PalindromicSubstrings.dll
 D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.pdb
 D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.genruntimeconfig.cache
+D:\sheanPrasad\70.PalindromicSubstrings\70.PalindromicSubstrings\obj\Debug\net5.0\70.PalindromicSubstrings.csproj.AssemblyReference.cache

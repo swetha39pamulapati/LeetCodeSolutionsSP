@@ -51,7 +51,7 @@ namespace _107.PermutationInAString
         static void Main(string[] args)
         {
             Program p = new Program();
-            string s1 = "ab", s2 = "eidboaoo";
+            string s1 = "ab", s2 = "eidbaooo";
          bool data =    p.CheckInclusion(s1, s2);
             
             Console.WriteLine(data);

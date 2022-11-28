@@ -10,10 +10,12 @@ namespace _153.MinimumWindowSubstring
             int start = 0, end = 0, count = t.Length;
             var freq = new int[128];
             var result = string.Empty;
-            foreach (var ch in t) freq[ch]++;
+            foreach (var ch in t) 
+                freq[ch]++;
             while (end < s.Length)
             {
-                if (freq[s[end++]]-- > 0) count--;
+                if (freq[s[end++]]-- > 0) 
+                    count--;
                 while (count == 0)
                 {
                     if (string.IsNullOrEmpty(result) || end - start < result.Length)

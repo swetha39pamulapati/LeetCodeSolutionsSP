@@ -29,7 +29,31 @@ namespace _80.CloneGraph
                 neighbors = _neighbors;
             }
         }
-        public Node CloneGraph(Node node)
+        public Node buildGraph()
+        {
+            Node node1 = new Node(1);
+            Node node2 = new Node(2);
+            Node node3 = new Node(3);
+            Node node4 = new Node(4);
+            List<Node> v = new List<Node>();
+            v.Add(node2);
+            v.Add(node4);
+            node1.neighbors = v;
+            v = new List<Node>();
+            v.Add(node1);
+            v.Add(node3);
+            node2.neighbors = v;
+            v = new List<Node>();
+            v.Add(node2);
+            v.Add(node4);
+            node3.neighbors = v;
+            v = new List<Node>();
+            v.Add(node3);
+            v.Add(node1);
+            node4.neighbors = v;
+            return node1;
+        }
+            public Node CloneGraph(Node node)
         {
 
             if (node == null) return null;
@@ -72,12 +96,15 @@ namespace _80.CloneGraph
         static void Main(string[] args)
         {
             Program p = new Program();
-            List<Node> resultset1= new List<Node>();
-            //resultset1.Add(2);
-            //resultset1.Add(4);
-            //Node data = new Node(1,resultset1);
-
-            //Console.WriteLine("Hello World!");
+           
+            Node source = p.buildGraph();
+            Console.WriteLine("BFS traversal of a graph before cloning");
+            Node data = p.CloneGraph(source);
+            Console.WriteLine(data);
+             Node newSource = p.CloneGraph(source);
+            Console.WriteLine("BFS traversal of a graph after cloning");
+            Node data1 = p.CloneGraph(newSource);
+            Console.WriteLine(data1);
         }
     }
 }

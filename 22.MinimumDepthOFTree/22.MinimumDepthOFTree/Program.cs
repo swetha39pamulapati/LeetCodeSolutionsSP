@@ -19,13 +19,21 @@ namespace _22.MinimumDepthOFTree
         }
         public static int MinDepth(Node root)
         {
-            if (root == null)
-                return 0;
-            if (root.left == null && root.right == null)
-                return 1;
-            int left = root.left != null ? MinDepth(root.left) : int.MaxValue;
-            int right = root.right != null ? MinDepth(root.right) : int.MaxValue;
-            return Math.Min(left, right) + 1;
+            //if (root == null)
+            //    return 0;
+            //if (root.left == null && root.right == null)
+            //    return 1;
+            //int left = root.left != null ? MinDepth(root.left) : int.MaxValue;
+            //int right = root.right != null ? MinDepth(root.right) : int.MaxValue;
+            //return Math.Min(left, right) + 1;
+            if (root == null) return 0;
+            if (root.left == null)
+                return MinDepth(root.right) + 1;
+            if (root.right == null)
+                return MinDepth(root.left) + 1;
+            var lefttreeDepth = MinDepth(root.left);
+            var rigttreeDepth = MinDepth(root.right);
+            return Math.Min(lefttreeDepth, rigttreeDepth) + 1;
         }
         static void Main(string[] args)
 

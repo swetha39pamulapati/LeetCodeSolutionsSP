@@ -36,7 +36,7 @@ namespace _61.CoinChange
         {
             Program p = new Program();
             int[] result = { 1,2,5 };
-            int data = p.CoinChange(result, 3);
+            int data = p.CoinChange(result, 11);
             Console.WriteLine(data);
         }
     }

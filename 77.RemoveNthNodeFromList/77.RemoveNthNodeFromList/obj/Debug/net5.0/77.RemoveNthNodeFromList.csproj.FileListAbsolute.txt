@@ -13,3 +13,4 @@ D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.
 D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\ref\77.RemoveNthNodeFromList.dll
 D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.pdb
 D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.genruntimeconfig.cache
+D:\sheanPrasad\77.RemoveNthNodeFromList\77.RemoveNthNodeFromList\obj\Debug\net5.0\77.RemoveNthNodeFromList.csproj.AssemblyReference.cache

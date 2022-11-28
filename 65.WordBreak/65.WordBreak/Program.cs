@@ -3,31 +3,30 @@ using System.Collections.Generic;
 
 namespace _65.WordBreak
 {
+    //https://www.youtube.com/watch?v=hLQYQ4zj0qg
     class Program
     {
         public bool WordBreak(string s, IList<string> wordDict)
         {
-            var dict = new Dictionary<string, bool>();
-            return WB(s, wordDict, dict);
-        }
-
-        bool WB(string s, IList<string> wordDict, IDictionary<string, bool> dict)
-        {
-            if (dict.ContainsKey(s))
+            var n = s.Length;
+            var dp = new bool[n + 1];
+            HashSet<string> set = new HashSet<string>(wordDict);
+            dp[0] = true;
+            for (int i = 1; i < dp.Length; i++)
             {
-                return dict[s];
-            }
-            foreach (var word in wordDict)
-            {
-                if (s == word || s.StartsWith(word) && WB(s.Substring(word.Length, s.Length - word.Length), wordDict, dict))
+                for (int j = 0; j < i; j++)
                 {
-                    dict[s] = true;
-                    return true;
+                    if (dp[j] && set.Contains(s.Substring(j, i - j)))
+                    {
+                        dp[i] = true;
+                        break;
+                    }
                 }
             }
-            dict[s] = false;
-            return false;
+
+            return dp[n];
         }
+
         static void Main(string[] args)
         {
             string s = "leetcode";

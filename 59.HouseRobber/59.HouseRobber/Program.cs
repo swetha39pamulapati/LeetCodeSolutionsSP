@@ -6,14 +6,15 @@ namespace _59.HouseRobber
     {
         public int Rob(int[] nums)
         {
-            int[] dp = new int[nums.Length + 1];
+            int n = nums.Length;
+            int[] dp = new int[n + 1];
             dp[0] = 0;
             dp[1] = nums[0];
-            for(int i =1; i<nums.Length; i++)
+            for(int i =1; i<n; i++)
             {
                 dp[i + 1] = Math.Max(dp[i], dp[i - 1] + nums[i]);
             }
-            return dp[nums.Length];
+            return dp[n];
         }
         static void Main(string[] args)
         {

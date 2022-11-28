@@ -8,32 +8,29 @@ namespace _45.LetterCasePermutation
     {
         public static IList<string> LetterCasePermutation(string s)
         {
-            List<string> result = new List<string>();
-            runDFS(s.ToCharArray(), 0, result);
-
-            return result;
+            if (string.IsNullOrEmpty(s))
+                return new List<string>() { string.Empty };
+            var list = new List<string>();
+            list.Add(s);
+            Permutation(s.ToCharArray(), 0, list);
+            return list;
         }
-        private static void runDFS(char[] arr, int start, List<string> result)
+
+        public static void Permutation(char[] s, int i, List<string> list)
         {
-            result.Add(new string(arr));
-            for(int i = start;i<arr.Length; i++)
+            if (i == s.Length) 
+                return;
+            if (char.IsLetter(s[i]))
             {
-                if (char.IsNumber(arr[i]))
-                    continue;
-                //deep copy - smart tip to make a copy of array using C#
-                var next = arr.ToArray();
-                var current = arr[i];
-                 if(char.IsUpper(current))
-            {
-                next[i] = char.ToLower(current);
+                var temp = s[i];
+                Permutation(s, i + 1, list);
+                s[i] = char.IsLower(s[i]) ? char.ToUpper(s[i]) : char.ToLower(s[i]);
+                Permutation(s, i + 1, list);
+                list.Add(new string(s));
+                s[i] = temp;
             }
-            else
-            {
-                next[i] = char.ToUpper(current);
-            }
-            
-            runDFS(next, i+1, result); 
-            }
+            else 
+                Permutation(s, i + 1, list);
         }
             static void Main(string[] args)
         {
@@ -41,8 +38,7 @@ namespace _45.LetterCasePermutation
             IList<string> result = LetterCasePermutation(s);
             if (result.Count > 0)
             {
-                for(int i = 0; i< result.Count; 
-                    i++)
+                for(int i = 0; i< result.Count;i++)
                     Console.WriteLine(result[i]);
             }
            

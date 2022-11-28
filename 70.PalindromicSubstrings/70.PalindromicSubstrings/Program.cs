@@ -33,8 +33,8 @@ private int ExpandAroundCenter(string s, int start, int end)
 static void Main(string[] args)
         {
             Program p = new Program();
-            int data = p.CountSubstrings("abc");
-            Console.WriteLine("Hello World!");
+            int data = p.CountSubstrings("babac");
+            Console.WriteLine(data);
         }
     }
 }

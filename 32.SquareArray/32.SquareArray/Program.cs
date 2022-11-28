@@ -13,7 +13,7 @@ namespace _32.SquareArray
             {
                 nums[i] = nums[i] * nums[i];
             }
-            for(int i =nums.Length-1; i>=0; i--)
+            for(int i = nums.Length-1; i>=0; i--)
             {
                 if (nums[l] > nums[r])
                 {

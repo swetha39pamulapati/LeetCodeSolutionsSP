@@ -3,60 +3,60 @@ using System.Collections.Generic;
 
 namespace _116.CourseSchedule
 {
-    //https://www.youtube.com/watch?v=EgI5nU9etnU
+    //https://www.youtube.com/watch?v=rG2-_lgcZzo
     class Program
     {
         public bool CanFinish(int numCourses, int[][] prerequisites)
         {
-
-            List<int>[] arr = new List<int>[numCourses];
-            bool[] visited = new bool[numCourses];
-            bool[] tmpVisited = new bool[numCourses];
-
-            for (int i = 0; i < numCourses; ++i)
+            var adj = new List<int>[numCourses];
+            for(int i = 0; i<numCourses; i++)
             {
-                arr[i] = new List<int>();
+                adj[i] = new List<int>();
             }
-
-            for (int i = 0; i < prerequisites.GetLength(0); ++i)
+            int[] indegree = new int[numCourses];
+            foreach (int[] pr in prerequisites)
             {
-                arr[prerequisites[i][1]].Add(prerequisites[i][0]);
+                int current = pr[0];
+                int prereq = pr[1];
+                indegree[current]++;
+                adj[prereq].Add(current);
             }
+            Queue<int> q = new Queue<int>();
+            for (int i = 0; i < indegree.Length; i++)
+                if (indegree[i] == 0)
+                    q.Enqueue(i);
 
-            for (int i = 0; i < numCourses; ++i)
+            int cnt = 0;
+            while (q.Count > 0)
             {
-                if (!Visit(arr, visited, tmpVisited, i))
-                    return false;
+
+                int u = q.Dequeue();
+                foreach (int itr in adj[u])
+                {
+
+                    if (--indegree[itr] == 0)
+                        q.Enqueue(itr);
+                }
+
+                cnt++;
             }
-
-            return true;
-        }
-
-        private bool Visit(List<int>[] graph, bool[] visited, bool[] tmpVisited, int node)
-        {
-            if (tmpVisited[node])
+            if (cnt != numCourses)
+            {
+                
                 return false;
-            if (visited[node])
-                return true;
-
-            tmpVisited[node] = true;
-
-            foreach (int n in graph[node])
-            {
-                if (!Visit(graph, visited, tmpVisited, n))
-                    return false;
             }
-
-            tmpVisited[node] = false;
-            visited[node] = true;
-            return true;
+            else
+                return true;
         }
+
         static void Main(string[] args)
         {
             int[][] matrix = new int[1][]
           {
                 new int[]{ 1,0 }
-                
+                //new int[]{ 2,1 },
+                //new int[]{ 2,3},
+                //new int[]{ 3,2 }
 
           };
             Program p = new Program();

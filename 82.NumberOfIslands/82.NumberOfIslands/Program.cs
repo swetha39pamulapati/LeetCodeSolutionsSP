@@ -7,6 +7,8 @@ namespace _82.NumberOfIslands
     {
         public int NumIslands(char[][] grid)
         {
+            if (grid.Length == 0 || grid == null)
+                return 0;
             int count = 0;
             for (int i = 0; i < grid.Length; i++)
             {

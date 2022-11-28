@@ -6,17 +6,15 @@ namespace _5.ClimbingSteps
     {
         public static int ClimbStairs(int n)
         {
-            if (n <= 2)
+            if (n <= 1)
                 return n;
-
             int[] res = new int[n + 1];
-
+            res[0] = 1;
             res[1] = 1;
-            res[2] = 2;
-
-            for (int i = 3; i <= n; i++)
-                res[i] = res[i - 1] + res[i - 2];
-
+            for (int i = 2; i <= n; i++)
+            {
+                res[i] = res[i - 2] + res[i - 1];
+            }
             return res[n];
 
             //if (n < 0)

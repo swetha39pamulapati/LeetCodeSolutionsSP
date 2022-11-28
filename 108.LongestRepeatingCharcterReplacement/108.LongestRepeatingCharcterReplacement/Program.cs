@@ -19,8 +19,11 @@ namespace _108.LongestRepeatingCharcterReplacement
                 maxCount = Math.Max(maxCount, currentCharCount);
                 while(windowEnd - windowStart - maxCount + 1 > k)
                 {
+
+
                     charCounts[s[windowStart] - 'A']--;
                     windowStart++;
+
 
                 }
                 maxLength = Math.Max(maxLength, windowEnd - windowStart + 1);
@@ -31,7 +34,7 @@ namespace _108.LongestRepeatingCharcterReplacement
         {
             Program p = new Program();
 
-            string s = "ABAB"; int k = 2;
+            string s = "AABABBA"; int k = 1;
           int data =  p.characterReplacement(s, k);
             Console.WriteLine(data);
         }
